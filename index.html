@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rungis – Infos</title>
+  <style>
+    :root {
+      --fond: #f5f7f4;
+      --carte: #ffffff;
+      --texte: #1c2a22;
+      --discret: #5d6b63;
+      --trait: #d9e0da;
+      --accent: #1f6b45;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --fond: #121a15;
+        --carte: #1a251e;
+        --texte: #e6eee8;
+        --discret: #9db0a3;
+        --trait: #2b3a31;
+        --accent: #6fcf97;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 1.25rem;
+      background: var(--fond);
+      color: var(--texte);
+      font: 1rem/1.55 Georgia, "Times New Roman", serif;
+    }
+    main { max-width: 760px; margin: 0 auto; }
+    h1 { font-size: 2rem; margin: 1rem 0 .25rem; }
+    h2 { font-size: 1.15rem; margin: 0 0 .75rem; color: var(--accent); }
+    .meteo-ligne { font-size: 1.4rem; margin: 0; }
+    section {
+      background: var(--carte);
+      border: 1px solid var(--trait);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin: 1rem 0;
+    }
+    ul { list-style: none; margin: 0; padding: 0; }
+    li { padding: .5rem 0; border-top: 1px solid var(--trait); }
+    li:first-child { border-top: 0; }
+    a { color: var(--texte); text-decoration-color: var(--accent); text-underline-offset: 3px; }
+    a:hover, a:focus-visible { color: var(--accent); }
+    .date { display: block; font-size: .8rem; color: var(--discret); }
+    .discret { color: var(--discret); font-size: .85rem; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Rungis en un coup d’œil</h1>
+  <p class="discret" id="maj">Chargement des données…</p>
+
+  <section>
+    <h2>Météo</h2>
+    <p class="meteo-ligne" id="meteo">Chargement…</p>
+  </section>
+
+  <section>
+    <h2>Actualités</h2>
+    <ul id="actus"></ul>
+  </section>
+
+  <div id="pages"></div>
+</main>
+
+<script>
+  // ⚠️ Remplace TON_PSEUDO par ton pseudo GitHub
+  const URL_DONNEES = "https://raw.githubusercontent.com/Martin94J/VeilleRungis/main/data.json";
+
+  function remplirListe(ul, items) {
+    ul.textContent = "";
+    if (!items.length) {
+      const li = document.createElement("li");
+      li.textContent = "Aucune information disponible pour le moment.";
+      ul.appendChild(li);
+      return;
+    }
+    items.forEach(function (item) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = item.lien;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = item.titre;
+      li.appendChild(a);
+      if (item.date) {
+        const d = document.createElement("span");
+        d.className = "date";
+        d.textContent = item.date;
+        li.appendChild(d);
+      }
+      ul.appendChild(li);
+    });
+  }
+
+  fetch(URL_DONNEES, { cache: "no-store" })
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      remplirListe(document.getElementById("actus"), d.actus || []);
+
+      const conteneur = document.getElementById("pages");
+      (d.pages || []).forEach(function (p) {
+        const section = document.createElement("section");
+        const h2 = document.createElement("h2");
+        h2.textContent = p.nom;
+        const ul = document.createElement("ul");
+        section.appendChild(h2);
+        section.appendChild(ul);
+        conteneur.appendChild(section);
+        remplirListe(ul, p.liens || []);
+      });
+
+      document.getElementById("maj").textContent = "Dernière mise à jour : " + d.maj;
+    })
+    .catch(function () {
+      document.getElementById("maj").textContent =
+        "Données indisponibles. Vérifie l’adresse URL_DONNEES dans index.html.";
+    });
+
+  // Météo en direct (Open-Meteo, gratuit, sans clé)
+  fetch("https://api.open-meteo.com/v1/forecast?latitude=48.746&longitude=2.351&current=temperature_2m,wind_speed_10m&timezone=Europe/Paris")
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      document.getElementById("meteo").textContent =
+        Math.round(d.current.temperature_2m) + " °C, vent " + Math.round(d.current.wind_speed_10m) + " km/h";
+    })
+    .catch(function () {
+      document.getElementById("meteo").textContent = "Météo indisponible.";
+    });
+</script>
+</body>
+</html>
