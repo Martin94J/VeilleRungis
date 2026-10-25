@@ -1,5 +1,5 @@
 {
-  "maj": "2026-10-25T13:45:12.186279+00:00",
+  "maj": "2026-10-25T15:21:49.214891+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -14,6 +14,15 @@
       "source": "horticulture-abadie-pyrenees.com",
       "date": "2026-10-25T10:45:15+00:00",
       "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUU3QTIzVUFiT0FNSDJDVkVCbnVRdDVDYnNYc3ptWHV3eXJtTlhzbndpTWJlNDAxMU8zejZIeFlESS12c1NZTURLcDk3VTFVNVRSc25kWC0wQk0zWnkyUlp3aVc5TFFPMjl0NjZCTXYyc2ZseUJHTTZ0c2hFVkZ4OUNOUGxrMWFuSUhzT2hNUDZ4MnkxaVpUQjcyRnhxQl82Z2JCeWFPRFFaQy1WQWhGZUFwUEh6UVllWXBPUmV1MDZQT2liUnlfRFkzSjNCNFZWa1pGZjZn?oc=5",
+      "titre": "Un début de saison des champignons compromis par des sols exceptionnellement secs",
+      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUU3QTIzVUFiT0FNSDJDVkVCbnVRdDVDYnNYc3ptWHV3eXJtTlhzbndpTWJlNDAxMU8zejZIeFlESS12c1NZTURLcDk3VTFVNVRSc25kWC0wQk0zWnkyUlp3aVc5TFFPMjl0NjZCTXYyc2ZseUJHTTZ0c2hFVkZ4OUNOUGxrMWFuSUhzT2hNUDZ4MnkxaVpUQjcyRnhxQl82Z2JCeWFPRFFaQy1WQWhGZUFwUEh6UVllWXBPUmV1MDZQT2liUnlfRFkzSjNCNFZWa1pGZjZn?oc=5",
+      "image": "",
+      "source": "France 24",
+      "date": "2026-10-24T06:14:59+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdDYyZXNJbnVjUlotbU9IYUpiS3BUdF9MNFFYaXY4Vkx0ZEpkaHg3YXhqeWpuRTRaZ0hhMGtSX0U0SnpHUHJpdzVIVkVhNUlJYzAzbHl2b0s5UC02UzNsLWV4bGEwWUVUM043amdzN1U0Zk1XT0FKb2cydktpeDd6cjl0WUlvRkIwMVBGV3FZNFpySXl3ZG5neUpvM0hqNG5PX0Y2cGhYRGVlZlBQQlVLeWpzOEp1TzBsZG9Jam5fZEo2cUtxVFZVSDhHcHZXQTFKbWdzVENYc2J4X3VqLUxXZlBHMWdQN1h6OUZB?oc=5",
@@ -139,6 +148,15 @@
       "image": "",
       "source": "Le Figaro",
       "date": "2026-10-12T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXhtOWswRXpmUkFKbTBBNjFmSGJ0X2dtUFFVMGZuaDViVFFmanhveTJHN0N2Mmg0SkdMNGdGYnNmOC0zNGQ3UndRSWZEck5jRUNxVFV2WFJ3enh5TjNheGlVeV9OYlgzRUdueUpiRVBfWDUtYTgtSnVJcFg0UTdLSnRtZ3h0djZMS0tfNDVIUnpXSmFoblk0bzc5bkppYU9jSURsUjFEU3A2WUx3TDVwc2NZWHM2X2RZRUMxR1RjcVdVUVFvOUVsTlpNTUFYdUZ0R2VsN0IxbkRLMUcxWnc?oc=5",
+      "titre": "Fleuriste à Paris facturée via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification artisanale et comment contester le redressement",
+      "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXhtOWswRXpmUkFKbTBBNjFmSGJ0X2dtUFFVMGZuaDViVFFmanhveTJHN0N2Mmg0SkdMNGdGYnNmOC0zNGQ3UndRSWZEck5jRUNxVFV2WFJ3enh5TjNheGlVeV9OYlgzRUdueUpiRVBfWDUtYTgtSnVJcFg0UTdLSnRtZ3h0djZMS0tfNDVIUnpXSmFoblk0bzc5bkppYU9jSURsUjFEU3A2WUx3TDVwc2NZWHM2X2RZRUMxR1RjcVdVUVFvOUVsTlpNTUFYdUZ0R2VsN0IxbkRLMUcxWnc?oc=5",
+      "image": "",
+      "source": "Kohen Avocats",
+      "date": "2026-10-11T19:52:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -187,6 +205,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGtrWWdkZU1GZ2ZuYXU3TkpyeW10My0wc2VQRjNsWDBxOWxYX3BkSG9QSTFpN2V1ZGdVTzY1Q1VZZ2hiY0RRc255UVU3ZEVGSy1wa1lXandPaThMN0JlNTdMZWhVVncyS0VNaVdRdXZYcjZ0RDgyaXhPclA4aFFPOHNWdHY1d0dKQmNfQVloRWtlRmVnVHVUNkhvTXBxUmMtOHBOTk16ekxnWVpzeGFpSnlLQlpVSk1GZ2dLc0hZeEROWVUyUi0zbzUyR01mTks0M2FYSGNRUnF1Z3Mwb2VZ?oc=5",
+      "titre": "\"Trop de difficultés, pas assez d’aides, j'arrête\" : les maraîchers au bord du gouffre après un été catastrophique",
+      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGtrWWdkZU1GZ2ZuYXU3TkpyeW10My0wc2VQRjNsWDBxOWxYX3BkSG9QSTFpN2V1ZGdVTzY1Q1VZZ2hiY0RRc255UVU3ZEVGSy1wa1lXandPaThMN0JlNTdMZWhVVncyS0VNaVdRdXZYcjZ0RDgyaXhPclA4aFFPOHNWdHY1d0dKQmNfQVloRWtlRmVnVHVUNkhvTXBxUmMtOHBOTk16ekxnWVpzeGFpSnlLQlpVSk1GZ2dLc0hZeEROWVUyUi0zbzUyR01mTks0M2FYSGNRUnF1Z3Mwb2VZ?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-04T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVFOMHJLSVlydnhwdTh2MHpabjRqalRjeXV5ZjJDdmYyUDVyYS1IYXZYVk5kT1pfOEhVLVVPN25wU0tUcUQyMFgyM1BjUktQVmNKTWZCM0t0YUpCN204ajBfNmNRaUp5ejdfSDlqYWJZUmNhZUlqV3h1NGRYcE1GMHNkZjJHcEdHRGdiMTUySW5lNEFCdnc?oc=5",
       "titre": "Piano Piano à Rungis : le piano se joue à deux",
       "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVFOMHJLSVlydnhwdTh2MHpabjRqalRjeXV5ZjJDdmYyUDVyYS1IYXZYVk5kT1pfOEhVLVVPN25wU0tUcUQyMFgyM1BjUktQVmNKTWZCM0t0YUpCN204ajBfNmNRaUp5ejdfSDlqYWJZUmNhZUlqV3h1NGRYcE1GMHNkZjJHcEdHRGdiMTUySW5lNEFCdnc?oc=5",
@@ -203,15 +230,6 @@
       "source": "La Croix",
       "date": "2026-10-01T07:00:00+00:00",
       "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjJBWWlaWUJiOUg2cVVTZG9kdktFblR3cno1ZGdNTmZ1ZGxFb2txbWZVQWl2S09fRnhfTHFFTzZmZUFLaHNmS2dTMkJ0ZmpJd2VxUU8xN0E5SzJBOTE5am5NaTNuNG8wb0lwZmdIRlZMU01nZTduZE82SVkxYjJOcDd0eDJ1TmZBbWtScUJqNWh5dEJoeVRXYjB1SGZNWldMMDdJM21LVzZkUGs?oc=5",
-      "titre": "Camembert fermier au lait cru rappelé le 1er octobre 2026 : ce que doivent décider grossistes, crémiers et restaurateurs",
-      "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjJBWWlaWUJiOUg2cVVTZG9kdktFblR3cno1ZGdNTmZ1ZGxFb2txbWZVQWl2S09fRnhfTHFFTzZmZUFLaHNmS2dTMkJ0ZmpJd2VxUU8xN0E5SzJBOTE5am5NaTNuNG8wb0lwZmdIRlZMU01nZTduZE82SVkxYjJOcDd0eDJ1TmZBbWtScUJqNWh5dEJoeVRXYjB1SGZNWldMMDdJM21LVzZkUGs?oc=5",
-      "image": "",
-      "source": "Kohen Avocats",
-      "date": "2026-10-01T07:00:00+00:00",
-      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHZTVFAwUGF4Nmp6dFRYajg4aXZwbjdiYjJJZVk2M1RRUGRsYndmcDB1U3dST0duWElqMTVVb1I4dG9EbDdpS1RrSEZkOEttRm5peW1BRjNCRERLRTBUUjMzVXdhQVYyLVZMUVdodTVLRTN5dGc4eXNMWUxLekVaTTZnWHBCRzJKZlJzbGZlVEJmcWFZWWhtdUE2ZnI3bVZCZmtwVmh4eWRaaXVoeFp5YjZkUzNyLW1sUW56VmpKUFhhQmVxdEE?oc=5",
@@ -254,7 +272,7 @@
       "titre": "EN ATTENTE DE VALIDATION Biodéchets : leur valorisation a augmenté de 40 % en un an au Min de Rungis",
       "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUlZMFVkOGNQN29RZDJsb010YXVFYjZZZTdHUFhtSlhITEhoaVE2cEJzMDl2UUVOdHU5bUtITWE4UExfY3l4M3l3X0FwNDZ6Y1MyWkhOc0hNUkZOSVhOQXlYbFhiVmdReTdLSUhVamt6bnZJb0tyOTJncE5YSzZzUzUzNTZ0R0d1UHBybEZNQVFjU19SWGthS2Y3TENhWVBKbW9rTmExNzVheVY1V1pSaVFhWE9uRGtJ?oc=5",
       "image": "",
-      "source": "www.agra.fr",
+      "source": "agra.fr",
       "date": "2026-09-28T14:08:01+00:00",
       "theme": "Acteurs"
     },
