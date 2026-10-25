@@ -30,7 +30,9 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RungisInfoBot/1.0)"}
 THEMES = [
     ("Ville", "ville de Rungis", "Mairie de Rungis", "Rungis Wissous",
      "Bruno Marcillaud", "Maire de Rungis", "Parking Rungis Wissous"),
-    ("Acteurs", "Semmaris", "Sogaris Rungis", "Orly Rungis", "Entreprise Rungis", "Marché de Rungis"),
+    ("Acteurs", "Semmaris", "Sogaris Rungis", "Orly Rungis",
+     "Entreprise Rungis", "Marché de Rungis"),
+    ("Divers", "Rungis travaux", "Rungis événement", "Rungis faits divers"),
 ]
 
 # Ancienneté maximale des articles (ex. 7d = 7 jours, 30d = 30 jours)
