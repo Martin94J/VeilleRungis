@@ -1,5 +1,5 @@
 {
-  "maj": "2026-10-25T20:13:37.702106+00:00",
+  "maj": "2026-10-25T22:57:37.040645+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -14,6 +14,24 @@
       "source": "La Voix du Nord",
       "date": "2026-10-25T17:15:00+00:00",
       "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-25T15:55:36+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
+      "titre": "Ragapop à Rungis 2026 | billets de Ragapop",
+      "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
+      "image": "",
+      "source": "jds.fr",
+      "date": "2026-10-25T12:44:09+00:00",
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
@@ -32,6 +50,15 @@
       "source": "Ville de Paris",
       "date": "2026-10-22T07:00:00+00:00",
       "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
+      "titre": "Le gestionnaire de Rungis convoite les marchés de gros en Égypte",
+      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
+      "image": "",
+      "source": "africabusinessplus.com",
+      "date": "2026-10-21T13:16:00+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
@@ -67,15 +94,6 @@
       "image": "",
       "source": "20 Minutes",
       "date": "2026-10-18T22:20:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-18T15:30:49+00:00",
       "theme": "Divers"
     },
     {
@@ -120,7 +138,7 @@
       "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkowX2NtVjJFU1lEd3BiTmkzZkl6RmZ0WjhNeWdnTFB1bmZJNzFJY3R3cVQtZmFldmZDaWYtcWltYjlXZDdzUWdlZm5Vdkx4R0R0dXRRNF9kUldBUjFiZHphd0JJQ0tIWFVrZUwzMU5fTXNPTjJ6ZU5HdHVCa2VPNg?oc=5",
       "image": "",
       "source": "94.snuipp.fr",
-      "date": "2026-10-16T12:06:41+00:00",
+      "date": "2026-10-16T07:00:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -193,6 +211,15 @@
       "image": "",
       "source": "Toute la Franchise",
       "date": "2026-10-06T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGtrWWdkZU1GZ2ZuYXU3TkpyeW10My0wc2VQRjNsWDBxOWxYX3BkSG9QSTFpN2V1ZGdVTzY1Q1VZZ2hiY0RRc255UVU3ZEVGSy1wa1lXandPaThMN0JlNTdMZWhVVncyS0VNaVdRdXZYcjZ0RDgyaXhPclA4aFFPOHNWdHY1d0dKQmNfQVloRWtlRmVnVHVUNkhvTXBxUmMtOHBOTk16ekxnWVpzeGFpSnlLQlpVSk1GZ2dLc0hZeEROWVUyUi0zbzUyR01mTks0M2FYSGNRUnF1Z3Mwb2VZ?oc=5",
+      "titre": "\"Trop de difficultés, pas assez d’aides, j'arrête\" : les maraîchers au bord du gouffre après un été catastrophique",
+      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGtrWWdkZU1GZ2ZuYXU3TkpyeW10My0wc2VQRjNsWDBxOWxYX3BkSG9QSTFpN2V1ZGdVTzY1Q1VZZ2hiY0RRc255UVU3ZEVGSy1wa1lXandPaThMN0JlNTdMZWhVVncyS0VNaVdRdXZYcjZ0RDgyaXhPclA4aFFPOHNWdHY1d0dKQmNfQVloRWtlRmVnVHVUNkhvTXBxUmMtOHBOTk16ekxnWVpzeGFpSnlLQlpVSk1GZ2dLc0hZeEROWVUyUi0zbzUyR01mTks0M2FYSGNRUnF1Z3Mwb2VZ?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-04T07:00:00+00:00",
       "theme": "Acteurs"
     },
     {
