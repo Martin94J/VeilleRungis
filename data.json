@@ -1,80 +1,263 @@
 {
-  "maj": "25/10/2026 à 10:20 UTC",
+  "maj": "2026-10-25T11:05:51.832249+00:00",
+  "themes": [
+    "Ville",
+    "Marché",
+    "Travaux",
+    "Événements"
+  ],
   "actus": [
     {
-      "titre": "Contre le gaspillage alimentaire, « Rungis est prêt à être le premier terrain d'application » - Les Echos",
+      "titre": "Un début de saison des champignons compromis par des sols exceptionnellement secs",
+      "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRGNGZ205eXFWWFhVVlE4MU1yVm9UQ1RfZWNtZElZYkdfc0pPcENkSF9MMXczQWN2YjhwZEctSlZwSzkwMWVPNGFEdTJkdEhjdF9pNThqT3VZVFVtTlEwQUJJVDdjVWxCLWdsMm5wQXhBSUd2WVZ2M2N2eVF3WjZzQWI1Snh5Vll4REp2eG9wLVl0ZS0wZGV5VjlqaTVhbkhEMnRLRGtQTFNYclE0QlZtdHRDZWgzdXYxV1JNbmlqdWFwRS14QjdaakJtNzRYc0k2c3JteGUzb0ljTlNqZXl5V1ZZMk1zcjM0cWpQT2VIaGwzaDAxSlJGSFFaaFlIaW9kc2JxaTRJVE3SAYgCQVVfeXFMTURjRmdtOXlxVlhYVVZRODFNclZvVENUX2VjbWRJWWJHX3NKT3BDZEhfTDF3M0FjdmI4cGRHLUpWcEs5MDFlTzRhRHUyZHRIY3RfaTU4ak91WVRVbU5RMEFCSVQ3Y1VsQi1nbDJucEF4QUlHdllWdjNjdnlRd1o2c0FiNUp4eVZZeERKdnhvcC1ZdGUtMGRleVY5amk1YW5IRDJ0S0RrUExTWHJRNEJWbXR0Q2VoM3V2MVdSTW5panVhcEUteEI3WmpCbTc0WHNJNnNybXhlM29JY05TamV5eVdWWTJNc3IzNHFqUE9lSGhsM2gwMUpSRkhRWmhZSGlvZHNicWk0SVRN?oc=5",
+      "source": "Boursorama",
+      "date": "2026-10-24T06:12:21+00:00",
+      "theme": "Marché"
+    },
+    {
+      "titre": "Les Trophées Pudlo des Bistrots reviennent le 7 décembre",
+      "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xHamJndVRta1RPZTVHQThOMkM0QVpkTE1QQkJtOUwyeE9OcUsteGdPM1NwMURMbjdyRS0xVVE4Q2FNcGtkbHFsNGJzenhrZjE0OWRvcXVlUXh5NjY3NDR5LWFOWVAwV3kxU0kxZWVQX0FmQ0FpUXdZeXNMQ1F6QXpEaFpOQ2dFN3NkNEE5WUZjeUhJ?oc=5",
+      "source": "Au cœur du CHR",
+      "date": "2026-10-22T14:07:13+00:00",
+      "theme": "Ville"
+    },
+    {
+      "titre": "Brocantes et vide-greniers : on chine où en octobre ?",
+      "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRXpQYk5tTFAwWGtjX0Y0cDBxbGNwM0xvaGtHU3MzY09MNW9FQUtNMmotSlFNakxzUG5MQXU0dk5EMGNJMzhhUmNXNXE3eGJmY3R2S28xUmV6VTQ2a2hwQ2kyMFdVWHRDOVBHb2huNTU0bHNxWlhTOGdRd08xS28?oc=5",
+      "source": "Ville de Paris",
+      "date": "2026-10-22T07:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "titre": "Le gestionnaire de Rungis convoite les marchés de gros en Égypte",
+      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
+      "source": "africabusinessplus.com",
+      "date": "2026-10-21T13:16:00+00:00",
+      "theme": "Marché"
+    },
+    {
+      "titre": "Denrées périssables avariées dans un camion bloqué par les émeutes : qui indemnise le commerçant et combien",
+      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZhcDRfN29jRXMwVE1ZNFBIWFViZDYtX0VaMGxydjdrTGRNQkJYR3drYWI5MjRHOGdDNFY5WS1lb3dhSXdaaXBIQzh6ajVGUmxHQWltWjBFX1RrVU9hUmlyNjVvSk9VRGpyWXlaa1AtaHhnTUJCd3poU1A3cnhKak1VQzhwdFNXZHJNb3E2cGxPMkgxWmplZkNpU3l3dnI3Q283NHNzWW5FcFM3SEpYdVkzQ051dTg?oc=5",
+      "source": "Kohen Avocats",
+      "date": "2026-10-20T23:17:00+00:00",
+      "theme": "Événements"
+    },
+    {
+      "titre": "1998 : le plus grand marché aux poissons d'Europe",
+      "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUlkTjZPR1M3S1dBcjF5N2lyZHBSRk40Tk9CR19Fc0hIeFljeXl6SGRFWjQwNU44ZnJMVmZLWnRfS0Z3THpWWElCTnVEOFRkTDlSNS1TU3I5U0xjQUsyNjN3M2gxamtFZ0FOVmFWSmgtTUw3N2JHOHhtUUNoMFZxXzFJQVBFUXdET3VqU1JYRXdnd21sSGpuTnY3YmhwQQ?oc=5",
+      "source": "France TV",
+      "date": "2026-10-19T22:00:00+00:00",
+      "theme": "Marché"
+    },
+    {
+      "titre": "Asnières-lès-Dijon. 700 000 € de travaux à la jardinerie Villaverde pour réduire son impact environnemental",
+      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVl2X0x3Q3BVUkpPVlY4QlQ1NTIyREtIZzA3Vks5TGRZcjhiTEpYX1RyRVhKemlHUHVRTUJ5TnhzdHpGN2p0S28tdXJYdHpnWHhVYmEweFhBdmloeGNqcEZKSFlsV0ZFTmw4U2VIV3dYRUpQNlVMWWpyV3BoTFZFQkxkQWhieWFuaTdNT3JhazVCOTdnUkhFWDJDOWtORGtzbUc3LVJQaUlMaWczcTY0N2RCTS1tUHZDU3Z0ci1XVDM?oc=5",
+      "source": "JAF-info Jardinerie Animalerie Fleuriste",
+      "date": "2026-10-19T18:25:17+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "Les perturbations RATP & SNCF du 19 au 25 octobre à Paris et Île-de-France",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
+      "source": "20 Minutes",
+      "date": "2026-10-18T22:20:00+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "RATP et SNCF : quelles perturbations dans les transports du 12 au 18 octobre ?",
+      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
+      "source": "mesinfos",
+      "date": "2026-10-18T16:11:00+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "source": "Actu.fr",
+      "date": "2026-10-18T15:30:49+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "Villepin à Rungis",
+      "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFFyaEphY3VSV3V4d3N1UFVLeVoxNHpnNVBNYlFDc2NWU0hVNTRHN3pmMWJHYnMxZkdQV1pzeE44MXE3SFREZjJtSTRtNVZWWndoeEJLcko5OGMtMGduMXFLWmdBU1RzUElvNV9DZEdWdkE5UmRYWUEtWnVHamNKZ3ZUZ0x0c3hqd0E?oc=5",
+      "source": "Orange Actualités",
+      "date": "2026-10-18T09:04:15+00:00",
+      "theme": "Marché"
+    },
+    {
+      "titre": "Les Crogs à Rungis 2027 | Tournée des Crogs : billets-",
+      "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwYmdKT2JRdHRveE04OWZmY2FMVW1Qd3J4czRDUE5TbGpYblJ2MW94YlQySk9PZzlkcGQtekE4YlhZcTVOczh0MEtpc2xvSVhkN21uZl81SFFZc1Q5RjhnYlNtOA?oc=5",
+      "source": "jds.fr",
+      "date": "2026-10-17T12:19:19+00:00",
+      "theme": "Événements"
+    },
+    {
+      "titre": "Ligne 6, RER C et D coupés… Les perturbations du week-end des 17 et 18 octobre dans les transports en Île-de-France",
+      "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVERleEY1T0RmSEZESWVWNWFkUlcxOUQyM1pMYzFuRTBrMV9jRHdvMUpHMEFNTkE3V3UzNHFHNFFsc29KS3JGOGlSdkJhb3UyZl83TkZpZWdoWFR1UlFDWTBYbGk1RlM5VGlFMGZpUWdhUk1wWE1mMTBpOGdfOG15OXpnWWtXd3RPc3VabnNVMld5alA4dXNZekZVcG8xbzhXTVR4OFQ3dkkzbURVUkk4dVEzQTM0TVZTNl9JLTJfczZCWE4tZkttME5Lc05OSElnNkRzUnpRSUdQZUo3YzNCY3JTNklaMmVidTlqQVNRY2dWQkpscURsTUtucXpPalUwTndvTWI0VkdhTlVMUFRYcFczTHcwOXBMNFVDU1p3WGZPc2hkdzJ0YXhEWnRkaFBLNmpOYi1IdzRfSjBSeXBUUUIzVzQ?oc=5",
+      "source": "Le Parisien",
+      "date": "2026-10-16T07:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "titre": "Contre le gaspillage alimentaire, « Rungis est prêt à être le premier terrain d'application »",
       "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkg2b3N3bzJVZGduTEZhbFItN0YtRk5yU1RLalpodWgwOXByVzN6YjY2MEwxV0FLckRWTG9STlhoWG5zOUk0b0ctY2xWY3VmOENEdUcydUNzWGY5dmpUYjlEWFBzZXdPMnMteW40bU44RV9XVFRFSU1aN3FpbzNHZlhoLUhaSlIzMG0tVDlWUTBSc09DbzM3U0VRamhRVEtob2ZNcVdrakRXZ3YtMVB2akRzZWs0N1pnU0lHbWpiczh0U05qYThRSnpLMG9EYmRGNkZ5X3JB?oc=5",
-      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "source": "Les Echos",
+      "date": "2026-10-16T07:00:00+00:00",
+      "theme": "Marché"
     },
     {
-      "titre": "La rue de la Fontaine à Mulard et la place de Rungis végétalisées - Ville de Paris",
-      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnZheDlrMEN5MkVZQVVaS29kdF9HUWljM1JXXzczOUVLYzltMXNJVV9JQ1ZVSFo3RmJxT2pYc3J1VGlXLUpOMHFVRk11UGJCSU1MM1I2anNUXzZ4bHNBbHFvcy11VmdfVzdJS3Vjck9UNUFJWXZhZGhKRzNiLWQxMFZSSWpaeHZ1YXpTcms1dVppMG1KaFhUU1RLaWN2clU?oc=5",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+      "titre": "Paris : l’emblématique Marché des Enfants Rouges ravagé par un impressionnant incendie, les pompiers sur place",
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9va2E5RDBER3NaWEtYV29ncnM4M1pkdG1FMmd2YVBYU1Y0Z1YwV3pod0Jfa0hSTXVCZHI3UGFvMFpNV05nNXREV0twOXpmcU5oOUlCWlluMFhGZm55NlhyVlFCWldTRUU1RUZOVExocDMza1QyM1VsNjFpQWZQTEdjYkxveWdseGlLLUNuME5sbU9QOXRSTzd1NWtfZXh1MThMNlByMVhlZWNKd3dEY2I3alRreUc5WE94NnRDWVU1VTNITW9wNU5tSGc0YUJlZmc?oc=5",
+      "source": "Le Figaro",
+      "date": "2026-10-12T07:00:00+00:00",
+      "theme": "Marché"
     },
     {
-      "titre": "À Rungis avec les sentinelles du contrôle sanitaire - agriculture.gouv.fr",
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ral96QjNVWmg4UkdXdFV4X0loYTZXMG41emlxbXhJNlpHTHZyek5MOExKNjR5bGQ4WTd6cHROQ0RBTmtNUWxVU3hoanNfQk1I?oc=5",
-      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+      "titre": "Les perturbations RATP et SNCF du 12 au 18 octobre à Paris et Île-de-France",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3E1akNTYWNPNVRiVHBWeEI2YWpnVy0xQXYzelVFLWtONkFZaTVnZVRpNUJhMXJZQW8tN3FMVW1UOTM5MVlEOEU3SjZOMHZfN2dLVVhzTWNFS0J1ZDl3dTVoVmVSSjA0cFRNRHlvc3djN0hJMWRZTzhHZWItS2lJcDZwWDJ4U094THZsVTZDZ2lmQXFZRVVPdHlMX2ZmMUdLXy1jWTlKZw?oc=5",
+      "source": "20 Minutes",
+      "date": "2026-10-12T07:00:00+00:00",
+      "theme": "Travaux"
     },
     {
-      "titre": "«Rungis est le plus grand marché de gros alimentaire du monde», rappelle son président - RFI",
-      "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUnlNWTl0dmtyMDV3SWF2YUxFc2Q0WXlXcGFFbno1Y3FQRWxnU2xFVmo1OTVxUndHRkVqU1ZKTjFZT1B2VVg4V1BlN2JrUDFJRGhfS2wwUm5LLWlrNVJkRHZQSGpPREtxVndvTXMyNjZyU0g0S0VYTFNBV1A5dGJCajBULXJncjN3YW1BM0Nwa1ZiSlNEc3I4amZvSzJaTEdTbDNnTWJSSDVTUE5ZNTQ0VnJOZTh4RGhOOXBsYXhSNUVtZ25MNHd3ejAwOWZsOEN4NzZYUDV3RTJUanBTdjZheXpzUVJzNnhDOVE?oc=5",
-      "date": "Sat, 02 May 2026 07:00:00 GMT"
+      "titre": "RATP et SNCF : à quoi s'attendre dans les transports du 12 au 18 octobre ?",
+      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjIzQXVXb3Izc1NPQkF6c0dCSzM4ajNZbVBRV3VaaGdqRmliS3BCUXNveVpBd0JKLVNRYzhKWXlrZUFEVU9nMGhUVTkwY2xMcG02VHVmSGctTHptbnJmbU90WlJRbHY3Z3lXQlE2ZFoyVUhBajJHVUVaNTBEbllSYzBXZmdyNXExNmRDdGdRc3N3d3pkaXVFLUk1QUw5SG4zRkFNeVNzUWJPZkxLNk5ieDh3aDg3Y00?oc=5",
+      "source": "mesinfos",
+      "date": "2026-10-11T07:00:00+00:00",
+      "theme": "Travaux"
     },
     {
-      "titre": "\"Sur certaines variétés, on est à 100% de perte\" : au marché de Rungis, les effets de l’été caniculaire se font sentir - franceinfo",
-      "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOcnVtZVBMOXVmMUhGVVNWcmxGeGNJOTRob29lQkZGM19xVk50YUVsV3JhVC1xTmN1TWI3Mm9CcERMMFRjeGFTcURKU3FneGNKc3hZdVlkaDN1NkNkVE5ZSm95MGdJX3BRUUdSbl9XREhNZjdNNFpyQVd2alRYZHZzcEFQZUlwUUpvNlphaVNYdkNCVHl0RHAxbm9LTmhpa2tseEpZcU5NYW1CcEItT0JYLWlpNEdaNW9pMzBGTkRwRnFEdWhRb3N5M2xEeGxtVndJM3RxekR4YmpSRmp3ZEJyMnNFeVZEMi1YNUtkVm5mTm9mOFJmazVVU2JtLWJxSzhhcFRSTjAwLXdFRFZwaVY2VlRkeVJYOHJrdndSbF93NmZJSTcwbDZQWlYyampidGZIU3MwWmtB?oc=5",
-      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+      "titre": "HELP Confort : Robert Stelly rejoint le réseau pour entreprendre à Rungis",
+      "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13RTBDd2Nxa08wZVJjbzF2Qm15WkZ6ZTkxRUp6U2g1TldXTDZrc3pwZzIwX0NYOEJDM29qUmNldnJhUmxDRVBZZE9jSFdjaVhYMXc1UThnLVRNSVRpcDd0QjBTVEtvQXA0TTM3ajcyTmstM0d5SkM0VUNsUFFIZw?oc=5",
+      "source": "Toute la Franchise",
+      "date": "2026-10-10T07:00:00+00:00",
+      "theme": "Événements"
     },
     {
-      "titre": "À Rungis, un exercice de secours organisé ce mardi au Métropolis - Le Parisien",
-      "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ29hRjZ0a1VIYWdYU0RVeHdkdWptNGRSS1hkcnhsN3oxbTh6NVNwN19TWUlKSm1mOWNPRU1ZcTRiWm1MNFdxMS02X3J1LWN3WWh2VzVfbDFNWFAwcWJOV2VfVVItU2UybldFankzV0VXNlU2UUNBbGx6LTJWa0lFaS14QUlyRUlJcWJtVHZuTFRkUUNzM2tUaVF6VFdObGhUd0NPQzhvVXBQS0NLX0p6MU1Fa2NNcl9kVWFUU0pOc2RBVWxQV05KX1JmZ3g3Zw?oc=5",
-      "date": "Mon, 11 May 2026 07:00:00 GMT"
+      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
+      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
+      "source": "Ville de Paris",
+      "date": "2026-10-09T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
-      "titre": "Femmes dirigeantes : plongée au cœur du MIN de Rungis - www.cci-paris-idf.fr",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmh5bmdoNVNCd1cteERhc1JFamVBM3FRb3VsMVRSN21PZ1dHVG9iMTN6aUxBeUFmUHgzSGxVcUlSR2tvTDYtY04ySEVZOVJQX0JQNlE2WDhVM2RLbzRJd2w4N1RZeVlmekU3aHhxX1dZWVptNnl4S25ITmp2SFJXMTY2dnBLNS1VZUxqNnU1bGxUb0hBZ0IzeGVRMERLcElBcG9ldFhjOA?oc=5",
-      "date": "Tue, 24 Feb 2026 00:01:10 GMT"
+      "titre": "Ville de Rungis (94)",
+      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
+      "source": "Le Moniteur",
+      "date": "2026-10-07T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
-      "titre": "Les ambitions du Grand Marché de Toulouse, ce petit Rungis en pleine croissance - Le Monde.fr",
-      "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVWVkNVdxMjVlVkphbEk5NHdMRl96dUlRTUFpOUowU2N5d2c5TVRvNXdTY2tyLWZuWFhGcFZOVDlQRVg5dHVscjVPX24zdTAtd3N2QUVEN09GcVFaRDUzUWQ3WjRyMnlBcHZUZ1ZMaEpldHA0LTE0S0xTNnlMa3hKbjdxTXByZDNMTkU2dnRJc3hscmlQQkpCbUhiWHAtYk9hbEU1YzVQc1FEQnVlUG1yZjlSWnFVX3l6dm16VUY5ckhiMVUzU2sxajZLX2JRbWFRUEdHTHY5SDVpaWVLU0wtbw?oc=5",
-      "date": "Mon, 16 Feb 2026 08:00:00 GMT"
+      "titre": "HELP Confort : deux nouveaux franchisés en formation avant leur lancement à Toulon et Rungis",
+      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWFCTmJEUlk2enFtSnplZ04xNUxYdW1Sa19yeDQxc2d3cWRadktpZzlmbEtGWFRqeE9ONm9La09EYlB0TkVveGlIa29fREZwbENEVlB6a1RoQXJOdVljNjltY24yLXB3TVYyNUJxa3JmYXF6c3Q2NTB0YWpWUGFsWk1hMTcydFc4VGh0ckpQZE5mX2hyS3FJZDBUOW1sTDg1b01j?oc=5",
+      "source": "Toute la Franchise",
+      "date": "2026-10-06T07:00:00+00:00",
+      "theme": "Marché"
     },
     {
-      "titre": "Rungis-Rungis, le court-circuit d’un double quinquennat - Plein Champ",
-      "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVURPNk5aOGVBT010b1V6ODBnNE5EcDl4Q3g2TzAyZVVXRk05bW1MakR0aHlrUUhqcGUtY0FXTGpScDVvSVJqVXh1MTNXcGlNS2hzYnNvRDdNUWpvUnc1bDlNMlladE8tMm5JT1cwdmhlemh4Qkk0am5mYWItRGNmSXNJeUtyc0JlTXBqUEhDWWk1c3JOc2c?oc=5",
-      "date": "Fri, 20 Mar 2026 07:00:00 GMT"
+      "titre": "Camembert fermier rappelé le 2 octobre 2026 (listeria) : ce que doivent décider grossistes, crémiers et restaurateurs",
+      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmNLYjl2SEJNd0loZ2p1VXdFZ2xvc1BUY21fbWNOUnVtRlVnYVNCVTNsUkZ5bUY3NldTYVE2WkswN0Niald5aE15ZzEtUU9BOHFhY2dQMmpuc2RUQzhSSWpzUnpXellTVVVrRDA4NjcyX09ISFEydHBQSGJfWUhHeEk0VWZZSnpkVW9VMlVIUDVIYkhITHh6NDl3OENwTVk?oc=5",
+      "source": "Kohen Avocats",
+      "date": "2026-10-04T07:00:00+00:00",
+      "theme": "Marché"
     },
     {
-      "titre": "À Rungis, les légumes de saison affichent une hausse de 17 % sur un an selon l'association Que Choisir - FreshPlaza.fr",
-      "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTHR0aUdiYkVqbVlCRGNqTkJKWWl4aHBYQ2tzb1M3ZWs5RExrRnZlS3BjUVpReWNsMU5KbWdUSXNCck5JcnNCMFo1S2s4U1NhRkl6OWNacU84b3VUOEs1WVBmUTY0blpmQm1DSE80cDVkUHlORXhOSkVORXJqTFozUWVtd1k0c0NBWG1rc0pMTjJ5bHlLcHBVY1RBTHZVOHByX0hCRlJ6amlMQVpaY1VlXzRmX3BJSmYxaVRPMEo2OWtFaGlCX1Q4RkFqYTBDOWVUMU1RUks0RlR2UQ?oc=5",
-      "date": "Fri, 18 Sep 2026 07:00:00 GMT"
+      "titre": "Le grand vide-maison de “Krystel La Blonde” à Clamecy : une occasion unique pour les amateurs de brocante",
+      "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmMtTk1kWVNpSmNzdVQ3T1A2NHlEVTJzX1YxX2M2VEdYaWNHSFlIQU5XUU1aSW5wS09mbTJZUlhPUXdUU2hkNE9OM0Jka3RTZTY0b3liY2ZVYllPZlhpem1tWUhpLXFEVkZvaVh0U3RzajN3N1pDc20zVWxteXc3M3ZUYnJMMXlUeVpEbzZCR1JaMHQzRUZuNkRGa1otQjhNd01LRTBMbmVBYlFxUlE5aFdERzlyaEtfVkhWaFRULV9GNnh1T1VpMDBSWklBZkQ2WU44dTdpZTdaRFhISnFZclg4N2VhTVZ2VlhZ?oc=5",
+      "source": "Le Journal du Centre",
+      "date": "2026-10-02T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
-      "titre": "Le marché de Rungis devra bientôt se doter d'un nouvel incinérateur - Les Echos",
-      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVZSV19iTGVJT0xDTTlaaHkyVDJjMmVhNnpGcnVReVZhZ05ydndsVFNycGhhLTRnNUs1LW1HR3hrLWFHMnZfdjA5eU5QX19ZbktmVlg1WkswMEljcnJpNFlmd1FVeFFtTTZwODZjdGpXVGMwU2RVQUNxSDlPb1hoUGRhOU5KdVY1MG8ybVVJd3NvTlUxRjNqcDRxU2RVWFFYWndBa3AwcHo5ZmFzYlUtUHUySGFTQUg3UlJCcUt6eEIzUQ?oc=5",
-      "date": "Fri, 25 Sep 2026 07:00:00 GMT"
+      "titre": "Piano Piano à Rungis : le piano se joue à deux",
+      "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVFOMHJLSVlydnhwdTh2MHpabjRqalRjeXV5ZjJDdmYyUDVyYS1IYXZYVk5kT1pfOEhVLVVPN25wU0tUcUQyMFgyM1BjUktQVmNKTWZCM0t0YUpCN204ajBfNmNRaUp5ejdfSDlqYWJZUmNhZUlqV3h1NGRYcE1GMHNkZjJHcEdHRGdiMTUySW5lNEFCdnc?oc=5",
+      "source": "laclepublique.fr",
+      "date": "2026-10-01T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
-      "titre": "\"Ça peut faire peur\": comme à Rungis, près de 7 communes sur 10 ont une seule liste aux municipales - RMC",
-      "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTlk3SmlwTFN1MnhWQUZZZktTdXhaclh2ZGZEblJXYkotMG1TMFhkSnJUU3FDUTFydDQyYVFucXlsZmRlaVBoMXBUOFBiaG1ZNldnSExBV0NWVWh2NlRkMGI3VnZfbnBJSjVRX3h2LUlEenRlOHhMTUVFOThENlhnaU1NNEZlUWpDcEN0b3JJVk1CR1lCVXI1YmJDNmY2NEVtNTFOOGlmY2hmbGJKWTdFeHMwS08td1dEMDl0WnJqVVhZNnluRHZWbjJVMVRjWjdubFpmbHdFbzl4Zm1IbzV6NUlhazk3bnZGNlVkUENaSm4?oc=5",
-      "date": "Fri, 13 Mar 2026 07:00:00 GMT"
+      "titre": "Festival « Piano-Piano » : à Rungis, éclats, caresses et murmures des claviers",
+      "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVRZNEd0MF84NUx6Q1g0MURFMWtydG5oX2hOY3VraFl1UWhma09iSndtS2FnS0hjMU03RmlVeVlxR3ZjbVM5aGplYmdkTkRTVVQweHVPYXN3TlpOYlF4dW1fSFgyODQwS3U0YkRvTm1qb2NhUkt3RnI2UUJWRGVlWTZqd0ZmZ2daOXNYZXoxbVVoTmQ0QW1rdUc0Y2RndjZ1N1hBNTRUaWdRbEhsMExkRkxR?oc=5",
+      "source": "La Croix",
+      "date": "2026-10-01T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
-      "titre": "Marché de Rungis - Décarboner la chaine logistique alimentaire - Le Conseil économique social et environnemental",
-      "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRTVVpWYjVHV05DT1FHbzRXRU9qNWNhTEhVa0V4LXFsQV9OYThXS01sRHNZMW0yMzI1OG9ReUIwSGs4ZHF3Rk00T1BMUm1aaFJVZWpDUlZrRGlSVnpSZlBfdGM4MHAyUEx2RWNxRks1NjMxRU9RNFJNRUdyMmJFZ3hTdFQ2S3NTLW9XVVJ2X3FaWk1nbmRjYQ?oc=5",
-      "date": "Wed, 26 Nov 2025 08:00:00 GMT"
+      "titre": "Un envoutant voyage sur les terres catalanes avec Wilhem Latchoumia",
+      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHZTVFAwUGF4Nmp6dFRYajg4aXZwbjdiYjJJZVk2M1RRUGRsYndmcDB1U3dST0duWElqMTVVb1I4dG9EbDdpS1RrSEZkOEttRm5peW1BRjNCRERLRTBUUjMzVXdhQVYyLVZMUVdodTVLRTN5dGc4eXNMWUxLekVaTTZnWHBCRzJKZlJzbGZlVEJmcWFZWWhtdUE2ZnI3bVZCZmtwVmh4eWRaaXVoeFp5YjZkUzNyLW1sUW56VmpKUFhhQmVxdEE?oc=5",
+      "source": "Radio Classique",
+      "date": "2026-10-01T07:00:00+00:00",
+      "theme": "Événements"
     },
     {
-      "titre": "Embellir votre Quartier : Peupliers – Rungis - Mairie du 13ᵉ arrondissement de Paris",
-      "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXRHTmZKNC13TTBLZmFNU1pLM2VaVVFLOTJoTW5jX2NzaWtqQ3gxN2Jtc3RZMGtldnliaktLdGh6Q3h2OUIteUN2TEtqUHFNX2JJUGdjUU9hVHVUd19JcjVzSzFyZWJ4Q2MtVWViRE9OQ1lha2hPX3ZwYnp4WmFHNEN5dzI?oc=5",
-      "date": "Tue, 13 Jan 2026 08:00:00 GMT"
+      "titre": "Ce week-end à Paris… du 2 au 4 octobre",
+      "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1dPcHJhYWgyOE1ENEdZMXRnNk11NU9mWFBGRVVnMnFhbkRYYmV3M29kYUZaTWdwVHFGLWh0RGhJcG1tWHV0ckIwNWsyZHNtNko0NEdrT20wMk5xYkI2UjRMVU9IVk5STEc0OTJ2SlRDbVl1N1RpUjRfdzhhVlJEWV9XbXdxRTNzT0JV?oc=5",
+      "source": "Artistikrezo",
+      "date": "2026-10-01T07:00:00+00:00",
+      "theme": "Événements"
     },
     {
-      "titre": "650 ordinateurs volés dans une remorque à Rungis, près de 2 millions d’euros de préjudice - Le Parisien",
-      "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVHRYaTRMcjl2TjFmcW1aRDBRckdqWUxGRmQ0SEdHNjRYc3JjYkMxSDZYQmcyY256aEhKcUs3TTI0THQtN0ZBMGhnb2xBY3VfeU9ZUWw5ZndCemxKaVV6TVhjWFYyYkh2aEFvUXlWTWhldzl3OFNpX0s3QUVuSXpWYXFsbktoeUpJTkdKNGF3cWY1V3ZpQW9GakhQRFVBVTk4ZHhjakFFVFFqYUxFMmJrRXZiY2s1WjVYTEs0VGp4Z2UzWDl6UlBjRlJ6M2FzRkYzWUREUkxnRlN4T1MxbFFTaGF1SWRkNmtPNWJoRl9sTERwdUtxMEhhU0NZelQ?oc=5",
-      "date": "Sat, 04 Apr 2026 07:00:00 GMT"
+      "titre": "Alexander Tsfasman, le pionnier du jazz soviétique à l’honneur",
+      "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDQ1ZFd0c2J4dXgyWjZyT3M4Z2xJcWQ3c29TcXBsRjhYVzVmV3oxd3dMemhraXAzZ3NfVjIyLWlCd1Iwa1BKY0xFNEV1WVdIMXQyekdFLThXejBlSTE0TXJlQnZ0SHphaUJMaTJPLVg4RGVPZzlFLWd5a1YzN21MLWlPRGtQTjRqaURxT25uUTVfWEhBVUVuaWpRc2drRWNiN2Z2WQ?oc=5",
+      "source": "Le Figaro",
+      "date": "2026-10-01T07:00:00+00:00",
+      "theme": "Événements"
+    },
+    {
+      "titre": "Thiais, Val-de-Marne (code postal 94...",
+      "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02VWZETzlaUF9NUWlGTkZReGo3dmN4ZHBBU29xejZHelRaaGwzVkZCRmo5OXFKc2xIVmRXNEd6NGR2dy10Rm8wVnpjN0czc0t3UEhzRWZMQk1aYWZxWk9zWnFR?oc=5",
+      "source": "Linternaute.com",
+      "date": "2026-09-30T10:00:05+00:00",
+      "theme": "Ville"
+    },
+    {
+      "titre": "Agoralim : les soutiens s'organisent autour de ce futur pôle alimentaire global du Nord de l'Île-de-France",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYXZ2a1RjcWEtVWZIUzdFc195ZGU2MTV5Vld3end1NmxKTWdldUc5UElOUnNleU1kMUpkSEtFVk5WSDZ1Yy1teVQzNDdLZXVIT1pYTTdTalJjcUt0UHhFTXQzdFpGR2ozOHFYbDNQS1QxaUJ4Q3ppMF9aUHlqalpEZVZOVGZrdmF0VUgtUXRYNTF4Mk1iUF91UkJhQm9ycVNSVlR2TFVqVGxZc3p3Yl8xWk1teWVUS2FfaDFsY1p5MXdYMmtSdkxfODdlTDJydUZZNkgtUG52NXY1S1pZVldEVDZ2UE4wbEVtZ3dXVzVhT1FJUQ?oc=5",
+      "source": "Actu.fr",
+      "date": "2026-09-30T07:00:00+00:00",
+      "theme": "Marché"
+    },
+    {
+      "titre": "Transports à Paris et en Île-de-France : les perturbations attendues cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFlsVXRwRzR6amxDY3gyYUNOSVRndDBoQlNET1N6ZDc4aHFsd0loc2FrdnhNclVIV3g4QjJMaUw2M2FNQTk5WFpyWnBGdG84NWV1LUJHckpzc2FUakpjbFhHaFRJUDFQcnRQYXBoRG0zWi03WGYtOWxnenlrQVh1S3Jvb3NoUl9UVWNSeDdkc3ZORXlPemhqY0R3bm1hdDNEWC1MYTllZXcycmUzcC1ZZ2RDUmQxS256Tmx3WEh4V0RhdmE3?oc=5",
+      "source": "mesinfos",
+      "date": "2026-09-28T07:00:00+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "Légumes de France : un 69e congrès à Rungis pour construire l’avenir",
+      "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVZrVWlLVHd4ck4wOV9yby1BR2lKX19oTkVNWDdZQlhRWmNFWlVtc3VVQXdBLWk1eVhLc2VFcjlRSDFxSkR1ajZYVFJtLUNXbGdFM1FqU3VqMGlFV2I1Tnh2Wk5mNnJyMjg4R2pyX0JTT0ZwY1RnU282SnJmNVJRUXRtb3dkUVl4Y0lyQTRkS1M0bWZ3b0g3Tk1DRQ?oc=5",
+      "source": "Horizons-journal",
+      "date": "2026-09-28T07:00:00+00:00",
+      "theme": "Événements"
+    },
+    {
+      "titre": "Noix, tomates, coton… La Chine exporte de plus en plus sa production agricole du Xinjiang, région autonome ouïgoure",
+      "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkU0MUZyX254YU51c0FxcC0xLVI0N3czRUJGNWlmZ2E3bU5UNjBGaVVSTkRTemNSaWdyN3V5OFM5NXpwZVBoS2IycjhndWZmX0s2c2xDalRtZDJfeXhvVEhXd3JsdHpOMThEemlaa1lDSVdoZGtOSGFMREhQLVdSeTFoV3YxWmM2Rm9EYmpId0pUa0FBV1dpT3ZaMlJrV0NtQ0k2TmowY3VfbGVjejJ2NjhkbjJIRGFsY0JVTi1zZU92NmdyZHNSUlZ5OC1GMUpfQUdJOU1na3IzV1ZZVDc5Q1JVU25BY1ZUZUNz?oc=5",
+      "source": "Les Echos",
+      "date": "2026-09-27T07:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "titre": "Perturbations SNCF & RATP à Paris et Île-de-France du 28/09 au 4/10",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2k3cEhFNmUtODc1YW1TWDNQMHJkbmNJMkVoUl9mUzEyQVduNHJzRjNzRGJVMEZ2VjhzQnN0aW4yUUtoVE16UHpJdGhWNU5tMElVVFdvNUtFUXByUzFSLS1fejBhVFN5bE5xTGxlVXBfaVR0ckd4ZUs5aEdUbjJVMzA1dmtqaHFZZExycTdnTjBJMlJYZnY0c3RWX0REV21GQkxyVmRDNA?oc=5",
+      "source": "20 Minutes",
+      "date": "2026-09-27T07:00:00+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "RATP et SNCF. Les perturbations attendues dans les transports à Paris et en Île-de-France cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNzV5VmpTdFlkYl8wRHZpeVZPd3RXclN5Q2lRd0RkeDlFVDd4ZS0wNkYteHI1ZGROM3FPWWhVRWl1ZzVRWVZCQ2hVMlRMRmk1SDRBSVFNc2wyMHFyRzRwSUtmSDlsbmotSTlGMUdIRl9JcFhyZjZuM0pkd2dHTkZIcWNzVVREQVVHR3ZBbDVGTHhYWndRVEMxMlhlMlFBMDVjV2dmRE53cHlJTm9VV3RMVEJWdm1mY1JYUmowV3ZvLVdSZnd3dzJoaWdRU1FRZ3dURE1QVzNfa2NObUNnMDZCbVd4UGY0N1hLblA0TTVrakNnMDg?oc=5",
+      "source": "Actu.fr",
+      "date": "2026-09-27T07:00:00+00:00",
+      "theme": "Travaux"
+    },
+    {
+      "titre": "« Je suis devenu accro » : mangoustan, ramboutan… Des étals de marché à TikTok, tous fans des fruits ultra-exotiques",
+      "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYmhzWU1vUmlyWlNaUFJVbHFZZC1zbjBuN0ZlMVliam82QVVpdFNMb0Vab2s5SXJCdjMwdGJDMjJ6RTNGTzZTTzJBY2E4T0lVbk1pS2V5SGlCMl9FbEpZcUZPckRWOVZncjVtZWp1aFdjM3RPenlfMDlpd0tKX194NUlKRmNJQ3NnMFVoc2dEQzZaS1RXRUZfRzBMQmM0SVlaeDM1NkhHdUVfclRza2N3RnFFLVVPeVZReXVZTkZMby1ES2dtVnVub1BZeGVSUHR5X3I5TnFjS1NoM3hXSV9RQndXZE9CZG1wNVNoOHBQc1dWTm10OVJkNi1odk15X1JqdkVENUItLXRNVVVURTlOLU0zWXZmYS1L?oc=5",
+      "source": "Le Parisien",
+      "date": "2026-09-26T07:00:00+00:00",
+      "theme": "Marché"
     }
   ],
   "pages": [
