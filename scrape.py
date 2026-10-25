@@ -13,10 +13,9 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RungisInfoBot/1.0)"}
 # Thèmes de veille : (nom affiché sur la page, mots recherchés)
 # Ajoute, retire ou modifie des lignes. Garde la virgule en fin de ligne.
 THEMES = [
-    ("Ville", "ville de Rungis"),
-    ("Marché", "Marché de Rungis"),
-    ("Travaux", "Rungis travaux"),
-    ("Événements", "Rungis événement"),
+    ("Ville", "ville de Rungis", "Mairie de Rungis", "Rungis Wissous", "Bruno Marcillaud", "Maire de Rungis", Parking Rungis Wissous),
+    ("Acteurs", "Semmaris", "Sogaris Rungis", "Orly Rungis", "Entreprise Rungis"),
+    
 ]
 
 # Ancienneté maximale des articles (ex. 7d = 7 jours, 30d = 30 jours)
