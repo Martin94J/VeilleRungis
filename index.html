@@ -2,137 +2,311 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Rungis – Infos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f3f5f2" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14181a" media="(prefers-color-scheme: dark)">
+  <title>Rungis – Veille locale</title>
   <style>
     :root {
-      --fond: #f5f7f4;
-      --carte: #ffffff;
-      --texte: #1c2a22;
-      --discret: #5d6b63;
-      --trait: #d9e0da;
-      --accent: #1f6b45;
+      --bg: #f3f5f2;
+      --surface: #ffffff;
+      --ink: #1b2420;
+      --muted: #627068;
+      --line: #dde3de;
+      --accent: #9b2c5a;
+      --accent-soft: #f3e3eb;
+      --serif: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+      --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --fond: #121a15;
-        --carte: #1a251e;
-        --texte: #e6eee8;
-        --discret: #9db0a3;
-        --trait: #2b3a31;
-        --accent: #6fcf97;
+        --bg: #14181a;
+        --surface: #1b2124;
+        --ink: #e8eeea;
+        --muted: #93a39a;
+        --line: #2a3237;
+        --accent: #e58bb2;
+        --accent-soft: #3a2230;
       }
     }
     * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
     body {
       margin: 0;
-      padding: 1.25rem;
-      background: var(--fond);
-      color: var(--texte);
-      font: 1rem/1.55 Georgia, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+      font: 1rem/1.5 var(--sans);
+      padding-bottom: env(safe-area-inset-bottom, 0px);
     }
-    main { max-width: 760px; margin: 0 auto; }
-    h1 { font-size: 2rem; margin: 1rem 0 .25rem; }
-    h2 { font-size: 1.15rem; margin: 0 0 .75rem; color: var(--accent); }
-    .meteo-ligne { font-size: 1.4rem; margin: 0; }
-    section {
-      background: var(--carte);
-      border: 1px solid var(--trait);
-      border-radius: 8px;
-      padding: 1rem 1.25rem;
-      margin: 1rem 0;
+    .wrap {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding-left: max(1.25rem, env(safe-area-inset-left, 0px));
+      padding-right: max(1.25rem, env(safe-area-inset-right, 0px));
     }
-    ul { list-style: none; margin: 0; padding: 0; }
-    li { padding: .5rem 0; border-top: 1px solid var(--trait); }
-    li:first-child { border-top: 0; }
-    a { color: var(--texte); text-decoration-color: var(--accent); text-underline-offset: 3px; }
-    a:hover, a:focus-visible { color: var(--accent); }
-    .date { display: block; font-size: .8rem; color: var(--discret); }
-    .discret { color: var(--discret); font-size: .85rem; }
+
+    /* En-tête */
+    header { padding-top: calc(1.75rem + env(safe-area-inset-top, 0px)); padding-bottom: 1rem; }
+    .date { margin: 0; font-size: .875rem; color: var(--muted); text-transform: capitalize; }
+    h1 {
+      margin: .15rem 0 .5rem;
+      font: 700 clamp(2.6rem, 9vw, 4.2rem)/1 var(--serif);
+      letter-spacing: -.02em;
+    }
+    .meteo { display: flex; align-items: baseline; gap: .75rem; margin: 0; flex-wrap: wrap; }
+    .meteo b { font: 600 1.6rem/1 var(--serif); }
+    .meteo span { color: var(--muted); font-size: .95rem; }
+
+    /* Filtres (collés en haut au défilement) */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--line);
+      padding-top: env(safe-area-inset-top, 0px);
+    }
+    .chips {
+      display: flex;
+      gap: .5rem;
+      overflow-x: auto;
+      padding: .7rem 0;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+    .chips::-webkit-scrollbar { display: none; }
+    .chip {
+      flex: none;
+      min-height: 44px;
+      padding: 0 1.1rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--surface);
+      color: var(--ink);
+      font: 500 .95rem var(--sans);
+      cursor: pointer;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .chip[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+    @media (prefers-color-scheme: dark) { .chip[aria-selected="true"] { color: #1b1218; } }
+
+    /* Mise en page */
+    .layout { display: grid; gap: 2rem; padding-top: 1rem; padding-bottom: 3rem; }
+    @media (min-width: 880px) {
+      .layout { grid-template-columns: minmax(0, 1fr) 280px; gap: 3rem; padding-top: 1.5rem; }
+      aside { position: sticky; top: 5rem; align-self: start; }
+    }
+
+    /* Flux d'articles */
+    .flux { list-style: none; margin: 0; padding: 0; }
+    .flux li { border-bottom: 1px solid var(--line); content-visibility: auto; contain-intrinsic-size: auto 96px; }
+    .flux a {
+      display: block;
+      padding: 1rem 0;
+      color: inherit;
+      text-decoration: none;
+    }
+    .flux .titre {
+      display: block;
+      font: 600 1.15rem/1.35 var(--serif);
+      max-width: 62ch;
+      text-wrap: pretty;
+    }
+    .flux a:hover .titre, .flux a:focus-visible .titre { color: var(--accent); }
+    .meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .75rem; margin-top: .4rem; font-size: .85rem; color: var(--muted); }
+    .tag { padding: .1rem .55rem; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 500; }
+    .vide { padding: 2rem 0; color: var(--muted); }
+
+    /* Colonne latérale */
+    aside h2 { margin: 0 0 .5rem; font: 600 1rem var(--sans); }
+    aside section { margin-bottom: 2rem; }
+    aside ul { list-style: none; margin: 0; padding: 0; }
+    aside li { border-top: 1px solid var(--line); }
+    aside li a { display: block; padding: .7rem 0; color: inherit; text-decoration: none; font-size: .95rem; }
+    aside li a:hover, aside li a:focus-visible { color: var(--accent); }
+    .maj { font-size: .8rem; color: var(--muted); }
+
+    a:focus-visible, .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px; }
+
+    /* Chargement */
+    .sq { padding: 1rem 0; border-bottom: 1px solid var(--line); }
+    .sq i { display: block; height: .9rem; border-radius: 4px; background: var(--line); margin-bottom: .5rem; }
+    .sq i:nth-child(1) { width: 92%; } .sq i:nth-child(2) { width: 60%; }
+    @media (prefers-reduced-motion: no-preference) {
+      .sq i { animation: pouls 1.2s ease-in-out infinite; }
+      @keyframes pouls { 50% { opacity: .45; } }
+    }
   </style>
 </head>
 <body>
-<main>
-  <h1>Rungis en un coup d’œil</h1>
-  <p class="discret" id="maj">Chargement des données…</p>
+  <header>
+    <div class="wrap">
+      <p class="date" id="date"></p>
+      <h1>Rungis</h1>
+      <p class="meteo" id="meteo"><span>Météo en cours de chargement…</span></p>
+    </div>
+  </header>
 
-  <section>
-    <h2>Météo</h2>
-    <p class="meteo-ligne" id="meteo">Chargement…</p>
-  </section>
+  <nav aria-label="Thèmes">
+    <div class="wrap"><div class="chips" id="chips" role="tablist"></div></div>
+  </nav>
 
-  <section>
-    <h2>Actualités</h2>
-    <ul id="actus"></ul>
-  </section>
-
-  <div id="pages"></div>
-</main>
+  <div class="wrap layout">
+    <main>
+      <ol class="flux" id="flux">
+        <li class="sq"><i></i><i></i></li><li class="sq"><i></i><i></i></li><li class="sq"><i></i><i></i></li>
+        <li class="sq"><i></i><i></i></li><li class="sq"><i></i><i></i></li>
+      </ol>
+    </main>
+    <aside id="cote"></aside>
+  </div>
 
 <script>
-  // ⚠️ Remplace TON_PSEUDO par ton pseudo GitHub
+  // Adresse de tes données (ne pas modifier)
   const URL_DONNEES = "https://raw.githubusercontent.com/Martin94J/VeilleRungis/main/data.json";
+  const CLE_CACHE = "veille-rungis-v2";
 
-  function remplirListe(ul, items) {
-    ul.textContent = "";
-    if (!items.length) {
-      const li = document.createElement("li");
-      li.textContent = "Aucune information disponible pour le moment.";
-      ul.appendChild(li);
-      return;
-    }
-    items.forEach(function (item) {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = item.lien;
-      a.target = "_blank";
-      a.rel = "noopener";
-      a.textContent = item.titre;
-      li.appendChild(a);
-      if (item.date) {
-        const d = document.createElement("span");
-        d.className = "date";
-        d.textContent = item.date;
-        li.appendChild(d);
-      }
-      ul.appendChild(li);
+  let donnees = null;
+  let theme = "Tout";
+
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, classe, texte) => {
+    const n = document.createElement(tag);
+    if (classe) n.className = classe;
+    if (texte) n.textContent = texte;
+    return n;
+  };
+
+  // Date du jour
+  $("date").textContent = new Date().toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" });
+
+  // Temps écoulé (« il y a 3 heures »)
+  const rtf = new Intl.RelativeTimeFormat("fr", { numeric: "auto" });
+  function depuis(iso) {
+    if (!iso) return "";
+    const min = Math.round((new Date(iso) - Date.now()) / 60000);
+    if (Math.abs(min) < 60) return rtf.format(min, "minute");
+    const h = Math.round(min / 60);
+    if (Math.abs(h) < 24) return rtf.format(h, "hour");
+    return rtf.format(Math.round(h / 24), "day");
+  }
+
+  // Filtres
+  function dessinerFiltres() {
+    const zone = $("chips");
+    zone.textContent = "";
+    ["Tout"].concat(donnees.themes || []).forEach(function (nom) {
+      const b = el("button", "chip", nom);
+      b.type = "button";
+      b.setAttribute("role", "tab");
+      b.setAttribute("aria-selected", String(nom === theme));
+      b.addEventListener("click", function () {
+        theme = nom;
+        dessinerFiltres();
+        dessinerFlux();
+        b.scrollIntoView({ inline: "center", block: "nearest" });
+      });
+      zone.appendChild(b);
     });
   }
 
-  fetch(URL_DONNEES, { cache: "no-store" })
-    .then(function (r) { return r.json(); })
-    .then(function (d) {
-      remplirListe(document.getElementById("actus"), d.actus || []);
+  // Liste d'articles
+  function dessinerFlux() {
+    const liste = $("flux");
+    liste.textContent = "";
+    const items = (donnees.actus || []).filter(function (a) { return theme === "Tout" || a.theme === theme; });
+    if (!items.length) {
+      liste.appendChild(el("li", "vide", "Aucun article récent pour ce thème."));
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    items.forEach(function (a) {
+      const li = document.createElement("li");
+      const lien = el("a");
+      lien.href = a.lien;
+      lien.target = "_blank";
+      lien.rel = "noopener";
+      lien.appendChild(el("span", "titre", a.titre));
+      const meta = el("span", "meta");
+      if (theme === "Tout" && a.theme) meta.appendChild(el("span", "tag", a.theme));
+      if (a.source) meta.appendChild(el("span", "", a.source));
+      const t = depuis(a.date);
+      if (t) meta.appendChild(el("span", "", t));
+      lien.appendChild(meta);
+      li.appendChild(lien);
+      frag.appendChild(li);
+    });
+    liste.appendChild(frag);
+  }
 
-      const conteneur = document.getElementById("pages");
-      (d.pages || []).forEach(function (p) {
-        const section = document.createElement("section");
-        const h2 = document.createElement("h2");
-        h2.textContent = p.nom;
-        const ul = document.createElement("ul");
-        section.appendChild(h2);
-        section.appendChild(ul);
-        conteneur.appendChild(section);
-        remplirListe(ul, p.liens || []);
+  // Colonne latérale : liens du site de la ville
+  function dessinerCote() {
+    const cote = $("cote");
+    cote.textContent = "";
+    (donnees.pages || []).forEach(function (p) {
+      if (!p.liens || !p.liens.length) return;
+      const s = el("section");
+      s.appendChild(el("h2", "", p.nom));
+      const ul = el("ul");
+      p.liens.forEach(function (l) {
+        const li = el("li");
+        const a = el("a", "", l.titre);
+        a.href = l.lien; a.target = "_blank"; a.rel = "noopener";
+        li.appendChild(a);
+        ul.appendChild(li);
       });
-
-      document.getElementById("maj").textContent = "Dernière mise à jour : " + d.maj;
-    })
-    .catch(function () {
-      document.getElementById("maj").textContent =
-        "Données indisponibles. Vérifie l’adresse URL_DONNEES dans index.html.";
+      s.appendChild(ul);
+      cote.appendChild(s);
     });
+    if (donnees.maj) {
+      cote.appendChild(el("p", "maj", "Mis à jour " + depuis(donnees.maj)));
+    }
+  }
 
-  // Météo en direct (Open-Meteo, gratuit, sans clé)
-  fetch("https://api.open-meteo.com/v1/forecast?latitude=48.746&longitude=2.351&current=temperature_2m,wind_speed_10m&timezone=Europe/Paris")
+  function afficher(d) {
+    donnees = d;
+    if (theme !== "Tout" && (d.themes || []).indexOf(theme) === -1) theme = "Tout";
+    dessinerFiltres();
+    dessinerFlux();
+    dessinerCote();
+  }
+
+  // 1) Affichage instantané depuis le cache du navigateur
+  try {
+    const cache = localStorage.getItem(CLE_CACHE);
+    if (cache) afficher(JSON.parse(cache));
+  } catch (e) { /* pas de cache, on continue */ }
+
+  // 2) Mise à jour avec les données fraîches
+  fetch(URL_DONNEES + "?t=" + Math.floor(Date.now() / 600000))
     .then(function (r) { return r.json(); })
     .then(function (d) {
-      document.getElementById("meteo").textContent =
-        Math.round(d.current.temperature_2m) + " °C, vent " + Math.round(d.current.wind_speed_10m) + " km/h";
+      afficher(d);
+      try { localStorage.setItem(CLE_CACHE, JSON.stringify(d)); } catch (e) {}
     })
     .catch(function () {
-      document.getElementById("meteo").textContent = "Météo indisponible.";
+      if (!donnees) {
+        $("flux").textContent = "";
+        $("flux").appendChild(el("li", "vide", "Données indisponibles pour le moment. Réessaie dans quelques minutes."));
+      }
     });
+
+  // Météo (Open-Meteo, gratuit, sans clé)
+  const CIEL = { 0: "Ciel dégagé", 1: "Plutôt dégagé", 2: "Éclaircies", 3: "Couvert", 45: "Brouillard", 48: "Brouillard givrant",
+    51: "Bruine", 53: "Bruine", 55: "Bruine", 61: "Pluie faible", 63: "Pluie", 65: "Forte pluie", 71: "Neige faible", 73: "Neige",
+    75: "Forte neige", 80: "Averses", 81: "Averses", 82: "Fortes averses", 95: "Orage", 96: "Orage", 99: "Orage" };
+  fetch("https://api.open-meteo.com/v1/forecast?latitude=48.746&longitude=2.351&current=temperature_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=Europe/Paris&forecast_days=1")
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      const m = $("meteo");
+      m.textContent = "";
+      m.appendChild(el("b", "", Math.round(d.current.temperature_2m) + "°"));
+      m.appendChild(el("span", "", CIEL[d.current.weather_code] || "Météo"));
+      m.appendChild(el("span", "", "min " + Math.round(d.daily.temperature_2m_min[0]) + "° / max " + Math.round(d.daily.temperature_2m_max[0]) + "°"));
+    })
+    .catch(function () { $("meteo").textContent = ""; });
 </script>
 </body>
 </html>
