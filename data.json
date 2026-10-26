@@ -1,11 +1,29 @@
 {
-  "maj": "2026-10-26T02:35:41.463744+00:00",
+  "maj": "2026-10-26T08:21:00.676151+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENCS3M3Ny0zQ0E0azRhV2JPcmVWTUlVdWk1MVRQMzVyWTU5ZzBnclhIdEpNdDlsa0d4WVlGNVpnbXg4YXprc2xESVpjMXpwbE53TS05dG8tR0dNZk5tTHdXMDNPRmUyNlpPYV9CZ1ZIbmNCU25rSWxXbnJjekM5OTNwRWk3VzJlUVBSZGRyTVpLS0JSOXJ5Q2NnSUtyeGJoVk9GRENHbG9kWUZzU3M1X1FUTQ?oc=5",
+      "titre": "Omer-Decugis : accord pour une plateforme de Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENCS3M3Ny0zQ0E0azRhV2JPcmVWTUlVdWk1MVRQMzVyWTU5ZzBnclhIdEpNdDlsa0d4WVlGNVpnbXg4YXprc2xESVpjMXpwbE53TS05dG8tR0dNZk5tTHdXMDNPRmUyNlpPYV9CZ1ZIbmNCU25rSWxXbnJjekM5OTNwRWk3VzJlUVBSZGRyTVpLS0JSOXJ5Q2NnSUtyeGJoVk9GRENHbG9kWUZzU3M1X1FUTQ?oc=5",
+      "image": "",
+      "source": "Boursier.com",
+      "date": "2026-10-26T06:39:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP0gGQA0FVX3lxTFB2bG9WVVZIX09uZHNCd3EzNFMwcGtHeTBrRWV3Mjl2QnYxd0hsY29RS0NhR0xjYkpXdjJXVFo3SlBUY1o3TUdlbkxPWnhSTUdFNjVwdjNqdGRNZ253ek1jaF9uU0VvY1ZoVDE5TFJyVy1ZMENGeU5Mb052S09xc1I4cnM0MGdtN25nbnRRYUp4YV91ck91RTFBRHo2d1A0eTEzaHJ2eGdFc1UxOXVGRE1aSUZaNUxYWWJzanliVU9idldrREZDZUtaTWJENWxvSlpwTFJzYVpLUms5emNiQmV4UzNlYkxKemFqRjBZZkZBODVwZnd4T1dOUmk3bHNOMUhQU2JaMGhSbWt2UHU5LWZQMGhiTTRmMGk4ckZxUEM0ZTNRN0poZmdIbXJPZmRfWFZMdENRcVdORnlhSEdTX3U3WnFQUlN3LXJDVzJ2Y0ZSMTl3TUFyaUJ4YzlEVnJDcHFJOGp4VkNuUXB2T3hBSWZHSk40X1ZOQlQ5M21ickpXaXJGZWxMQWNweUk2RDhYd08?oc=5",
+      "titre": "OMER-DECUGIS & CIE : Omer-Decugis et Cie s'associe avec la SEMMARIS pour la réalisation de sa future plateform",
+      "lien": "https://news.google.com/rss/articles/CBMikANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP0gGQA0FVX3lxTFB2bG9WVVZIX09uZHNCd3EzNFMwcGtHeTBrRWV3Mjl2QnYxd0hsY29RS0NhR0xjYkpXdjJXVFo3SlBUY1o3TUdlbkxPWnhSTUdFNjVwdjNqdGRNZ253ek1jaF9uU0VvY1ZoVDE5TFJyVy1ZMENGeU5Mb052S09xc1I4cnM0MGdtN25nbnRRYUp4YV91ck91RTFBRHo2d1A0eTEzaHJ2eGdFc1UxOXVGRE1aSUZaNUxYWWJzanliVU9idldrREZDZUtaTWJENWxvSlpwTFJzYVpLUms5emNiQmV4UzNlYkxKemFqRjBZZkZBODVwZnd4T1dOUmk3bHNOMUhQU2JaMGhSbWt2UHU5LWZQMGhiTTRmMGk4ckZxUEM0ZTNRN0poZmdIbXJPZmRfWFZMdENRcVdORnlhSEdTX3U3WnFQUlN3LXJDVzJ2Y0ZSMTl3TUFyaUJ4YzlEVnJDcHFJOGp4VkNuUXB2T3hBSWZHSk40X1ZOQlQ5M21ickpXaXJGZWxMQWNweUk2RDhYd08?oc=5",
+      "image": "",
+      "source": "Boursorama",
+      "date": "2026-10-26T06:30:00+00:00",
+      "theme": "Acteurs"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
       "titre": "Perturbations SNCF & RATP à prévoir à Paris et Île-de-France (26/10-1/11)",
@@ -175,7 +193,7 @@
       "image": "",
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
-      "theme": "Acteurs"
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
@@ -211,15 +229,6 @@
       "image": "",
       "source": "Toute la Franchise",
       "date": "2026-10-06T07:00:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGtrWWdkZU1GZ2ZuYXU3TkpyeW10My0wc2VQRjNsWDBxOWxYX3BkSG9QSTFpN2V1ZGdVTzY1Q1VZZ2hiY0RRc255UVU3ZEVGSy1wa1lXandPaThMN0JlNTdMZWhVVncyS0VNaVdRdXZYcjZ0RDgyaXhPclA4aFFPOHNWdHY1d0dKQmNfQVloRWtlRmVnVHVUNkhvTXBxUmMtOHBOTk16ekxnWVpzeGFpSnlLQlpVSk1GZ2dLc0hZeEROWVUyUi0zbzUyR01mTks0M2FYSGNRUnF1Z3Mwb2VZ?oc=5",
-      "titre": "\"Trop de difficultés, pas assez d’aides, j'arrête\" : les maraîchers au bord du gouffre après un été catastrophique",
-      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGtrWWdkZU1GZ2ZuYXU3TkpyeW10My0wc2VQRjNsWDBxOWxYX3BkSG9QSTFpN2V1ZGdVTzY1Q1VZZ2hiY0RRc255UVU3ZEVGSy1wa1lXandPaThMN0JlNTdMZWhVVncyS0VNaVdRdXZYcjZ0RDgyaXhPclA4aFFPOHNWdHY1d0dKQmNfQVloRWtlRmVnVHVUNkhvTXBxUmMtOHBOTk16ekxnWVpzeGFpSnlLQlpVSk1GZ2dLc0hZeEROWVUyUi0zbzUyR01mTks0M2FYSGNRUnF1Z3Mwb2VZ?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-04T07:00:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -320,15 +329,6 @@
       "source": "Les Echos",
       "date": "2026-09-27T07:00:00+00:00",
       "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONS1OT2dTdnpXVS1aZzdSV2cwOWxNck1MSmo0YzdKYi1hTXpvNUhTLTNHeHJWUGx3MFp2WWdvaWdaYWZ1b21iRzhMeUlNWHg0YTlnU0pLR0Vjdl9VVTl5N2ZLQ0kxbUY5Y0R2c2NNM0VoVm1sNEdUM1NhTXZKck1vVVUtbkZCXy1SbUMzeEdJNEs?oc=5",
-      "titre": "Agoralim : à Goussainville, le projet passe du plan au terrain",
-      "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONS1OT2dTdnpXVS1aZzdSV2cwOWxNck1MSmo0YzdKYi1hTXpvNUhTLTNHeHJWUGx3MFp2WWdvaWdaYWZ1b21iRzhMeUlNWHg0YTlnU0pLR0Vjdl9VVTl5N2ZLQ0kxbUY5Y0R2c2NNM0VoVm1sNEdUM1NhTXZKck1vVVUtbkZCXy1SbUMzeEdJNEs?oc=5",
-      "image": "",
-      "source": "laclepublique.fr",
-      "date": "2026-09-26T07:00:00+00:00",
-      "theme": "Acteurs"
     }
   ],
   "pages": [
