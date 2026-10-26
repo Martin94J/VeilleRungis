@@ -1,11 +1,20 @@
 {
-  "maj": "2026-10-25T22:57:37.040645+00:00",
+  "maj": "2026-10-26T02:35:41.463744+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
+      "titre": "Perturbations SNCF & RATP à prévoir à Paris et Île-de-France (26/10-1/11)",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
+      "image": "",
+      "source": "20 Minutes",
+      "date": "2026-10-26T00:28:00+00:00",
+      "theme": "Divers"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONUc0X0ZuWjZBMFlOaXYyVklhYkw3akZJNHZpSU8tUGhVc2h5SmRTeGg5THJZOVdLampLbkppYmZCY3l6Q0dyN3JQS0Mwb0FvNThPTGozZm9xLUVOYVhjenhIZHFCVG5ZcVQzQVRDSTJkcUp5OUE5R3ZvQVIwSmpTdU56V0JkLUpuRmMzSHp6S0Rtb29tTkl1cm0xaks1QkluY0V6akJLeEN6WWphSGpmS0FwQnF3NXpxZVhXelJFdzM5U0hUYlFnUFBnalMySjg?oc=5",
       "titre": "Le marché de Rungis valide son investissement dans le port de Dunkerque : « Ce sera un site unique en France",
@@ -14,24 +23,6 @@
       "source": "La Voix du Nord",
       "date": "2026-10-25T17:15:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-25T15:55:36+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
-      "titre": "Ragapop à Rungis 2026 | billets de Ragapop",
-      "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
-      "image": "",
-      "source": "jds.fr",
-      "date": "2026-10-25T12:44:09+00:00",
-      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
@@ -94,6 +85,15 @@
       "image": "",
       "source": "20 Minutes",
       "date": "2026-10-18T22:20:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-18T15:30:49+00:00",
       "theme": "Divers"
     },
     {
@@ -178,15 +178,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTm5mNWRib2NvT2JKaDdEVzl5amQ2UHZjcndvTjl1eFZoRUNWOWNPRkI1SE9nYi1BVlZaYTFfZ1ZyUFcyZl9yV3ZlUS1zMmNLc1ZZRTJGUEptaDZvc1pOazUxb3B4elFRNGdpOG1SOUlnVHZaY3ZZTDEyYkNUU2c2a2pXU2JIczBkX3R0dkFBM2VWQUdsWmFQbXBXb0k4bWMwVFlpdWVJZjUyX3l5WjFqR2JELXhJMG9NYWNXVi1PT1kzSS1COVpvOE05WDJ0VGIxWHdpeVg5M3hGcE14cFRfZUZyUlRvVTg1N2U4SzJuaTRHMnR4RS0zZFFaSkJQd19zaXhRRHV3Q3RCdTg?oc=5",
-      "titre": "HELP Confort accueille deux nouveaux franchisés en formation initiale pour Toulon et Rungis",
-      "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTm5mNWRib2NvT2JKaDdEVzl5amQ2UHZjcndvTjl1eFZoRUNWOWNPRkI1SE9nYi1BVlZaYTFfZ1ZyUFcyZl9yV3ZlUS1zMmNLc1ZZRTJGUEptaDZvc1pOazUxb3B4elFRNGdpOG1SOUlnVHZaY3ZZTDEyYkNUU2c2a2pXU2JIczBkX3R0dkFBM2VWQUdsWmFQbXBXb0k4bWMwVFlpdWVJZjUyX3l5WjFqR2JELXhJMG9NYWNXVi1PT1kzSS1COVpvOE05WDJ0VGIxWHdpeVg5M3hGcE14cFRfZUZyUlRvVTg1N2U4SzJuaTRHMnR4RS0zZFFaSkJQd19zaXhRRHV3Q3RCdTg?oc=5",
-      "image": "",
-      "source": "Observatoire de la franchise",
-      "date": "2026-10-07T07:23:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
       "titre": "Ville de Rungis (94)",
       "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
@@ -194,6 +185,15 @@
       "source": "Le Moniteur",
       "date": "2026-10-07T07:00:00+00:00",
       "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTm5mNWRib2NvT2JKaDdEVzl5amQ2UHZjcndvTjl1eFZoRUNWOWNPRkI1SE9nYi1BVlZaYTFfZ1ZyUFcyZl9yV3ZlUS1zMmNLc1ZZRTJGUEptaDZvc1pOazUxb3B4elFRNGdpOG1SOUlnVHZaY3ZZTDEyYkNUU2c2a2pXU2JIczBkX3R0dkFBM2VWQUdsWmFQbXBXb0k4bWMwVFlpdWVJZjUyX3l5WjFqR2JELXhJMG9NYWNXVi1PT1kzSS1COVpvOE05WDJ0VGIxWHdpeVg5M3hGcE14cFRfZUZyUlRvVTg1N2U4SzJuaTRHMnR4RS0zZFFaSkJQd19zaXhRRHV3Q3RCdTg?oc=5",
+      "titre": "HELP Confort accueille deux nouveaux franchisés en formation initiale pour Toulon et Rungis",
+      "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTm5mNWRib2NvT2JKaDdEVzl5amQ2UHZjcndvTjl1eFZoRUNWOWNPRkI1SE9nYi1BVlZaYTFfZ1ZyUFcyZl9yV3ZlUS1zMmNLc1ZZRTJGUEptaDZvc1pOazUxb3B4elFRNGdpOG1SOUlnVHZaY3ZZTDEyYkNUU2c2a2pXU2JIczBkX3R0dkFBM2VWQUdsWmFQbXBXb0k4bWMwVFlpdWVJZjUyX3l5WjFqR2JELXhJMG9NYWNXVi1PT1kzSS1COVpvOE05WDJ0VGIxWHdpeVg5M3hGcE14cFRfZUZyUlRvVTg1N2U4SzJuaTRHMnR4RS0zZFFaSkJQd19zaXhRRHV3Q3RCdTg?oc=5",
+      "image": "",
+      "source": "Observatoire de la franchise",
+      "date": "2026-10-07T07:00:00+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3lxakRZSzV1bmZpSkw0cS1tbGtkRUh6TzR1T0htay1fakluVHhqVlhTZ0E1ZEVMWTBWdUtHWC1MNThlNTBFRk1kcVV4QTZocHlwY2tZbk9VYjFORFJYZHNEb2VwaGxXcHRmeVRYRGM2cHZoSVF2ZXlta1g2NDRnNDByXzdXNFIzRTF3eFB0dmp3d2VESEI2eVlzQUQzNnItbVprZ0ZxQUQyU2JaV0ZkTS1YTDJkbVEyY3EwOXZsLUxCdG0xRGpqcXRLXzdFOHNfUFg5Tg?oc=5",
@@ -320,15 +320,6 @@
       "source": "Les Echos",
       "date": "2026-09-27T07:00:00+00:00",
       "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2k3cEhFNmUtODc1YW1TWDNQMHJkbmNJMkVoUl9mUzEyQVduNHJzRjNzRGJVMEZ2VjhzQnN0aW4yUUtoVE16UHpJdGhWNU5tMElVVFdvNUtFUXByUzFSLS1fejBhVFN5bE5xTGxlVXBfaVR0ckd4ZUs5aEdUbjJVMzA1dmtqaHFZZExycTdnTjBJMlJYZnY0c3RWX0REV21GQkxyVmRDNA?oc=5",
-      "titre": "Perturbations SNCF & RATP à Paris et Île-de-France du 28/09 au 4/10",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2k3cEhFNmUtODc1YW1TWDNQMHJkbmNJMkVoUl9mUzEyQVduNHJzRjNzRGJVMEZ2VjhzQnN0aW4yUUtoVE16UHpJdGhWNU5tMElVVFdvNUtFUXByUzFSLS1fejBhVFN5bE5xTGxlVXBfaVR0ckd4ZUs5aEdUbjJVMzA1dmtqaHFZZExycTdnTjBJMlJYZnY0c3RWX0REV21GQkxyVmRDNA?oc=5",
-      "image": "",
-      "source": "20 Minutes",
-      "date": "2026-09-27T07:00:00+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONS1OT2dTdnpXVS1aZzdSV2cwOWxNck1MSmo0YzdKYi1hTXpvNUhTLTNHeHJWUGx3MFp2WWdvaWdaYWZ1b21iRzhMeUlNWHg0YTlnU0pLR0Vjdl9VVTl5N2ZLQ0kxbUY5Y0R2c2NNM0VoVm1sNEdUM1NhTXZKck1vVVUtbkZCXy1SbUMzeEdJNEs?oc=5",
