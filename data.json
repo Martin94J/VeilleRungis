@@ -1,11 +1,29 @@
 {
-  "maj": "2026-10-27T11:21:48.461422+00:00",
+  "maj": "2026-10-27T17:09:30.705229+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
+      "titre": "À Orly, les parkings sauvages restent ouverts malgré les condamnations",
+      "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
+      "image": "",
+      "source": "horticulture-abadie-pyrenees.com",
+      "date": "2026-10-27T12:42:34+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
+      "titre": "Chauffage dans les écoles : une réponse obtenue grâce à l’intervention de la FSU-SNUipp Ville de Créteil",
+      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
+      "image": "",
+      "source": "94.snuipp.fr",
+      "date": "2026-10-27T11:42:45+00:00",
+      "theme": "Ville"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
       "titre": "Omer-Decugis & Cie s'allie à Semmaris pour une plateforme de fruits à Dunkerque",
@@ -43,12 +61,12 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
-      "titre": "Omer-Decugis franchit une nouvelle étape dans son plan stratégique 2025-2030...",
-      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFdpckV6M2t3UzJ5YU44M2VWQk5Wam9kWXNDSGFqZTEyWlJLa2F6OEt0ZzNILTFjX08xQVdSU29hX01JaVpCY0paSVJxRXJPUUxxaldaT2dNZ3hBZFZqdkw4UHk4OTRDd3hhbF9JY2J5aDdRVElSeFlXSHN4M0t3RW9WUlIzRWtmUHlqV0k3YVNSS0ZhZUV2WGlyRTkxRkwxbS14T2lnMXlkcm9BZ3dSaUlIcmd1Rk8zQ3lZRVN5QXJWOGxiMXpDOTVscWRaNUlfX0FQZnJB?oc=5",
+      "titre": "Omer-Decugis s’associe avec la SEMMARIS pour une plateforme de 25 000 m² à Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFdpckV6M2t3UzJ5YU44M2VWQk5Wam9kWXNDSGFqZTEyWlJLa2F6OEt0ZzNILTFjX08xQVdSU29hX01JaVpCY0paSVJxRXJPUUxxaldaT2dNZ3hBZFZqdkw4UHk4OTRDd3hhbF9JY2J5aDdRVElSeFlXSHN4M0t3RW9WUlIzRWtmUHlqV0k3YVNSS0ZhZUV2WGlyRTkxRkwxbS14T2lnMXlkcm9BZ3dSaUlIcmd1Rk8zQ3lZRVN5QXJWOGxiMXpDOTVscWRaNUlfX0FQZnJB?oc=5",
       "image": "",
-      "source": "Fortuneo",
-      "date": "2026-10-26T06:59:00+00:00",
+      "source": "Investing.com France",
+      "date": "2026-10-26T08:32:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -58,15 +76,6 @@
       "image": "",
       "source": "Boursorama",
       "date": "2026-10-26T06:59:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENCS3M3Ny0zQ0E0azRhV2JPcmVWTUlVdWk1MVRQMzVyWTU5ZzBnclhIdEpNdDlsa0d4WVlGNVpnbXg4YXprc2xESVpjMXpwbE53TS05dG8tR0dNZk5tTHdXMDNPRmUyNlpPYV9CZ1ZIbmNCU25rSWxXbnJjekM5OTNwRWk3VzJlUVBSZGRyTVpLS0JSOXJ5Q2NnSUtyeGJoVk9GRENHbG9kWUZzU3M1X1FUTQ?oc=5",
-      "titre": "Omer-Decugis : accord pour une plateforme de Dunkerque",
-      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENCS3M3Ny0zQ0E0azRhV2JPcmVWTUlVdWk1MVRQMzVyWTU5ZzBnclhIdEpNdDlsa0d4WVlGNVpnbXg4YXprc2xESVpjMXpwbE53TS05dG8tR0dNZk5tTHdXMDNPRmUyNlpPYV9CZ1ZIbmNCU25rSWxXbnJjekM5OTNwRWk3VzJlUVBSZGRyTVpLS0JSOXJ5Q2NnSUtyeGJoVk9GRENHbG9kWUZzU3M1X1FUTQ?oc=5",
-      "image": "",
-      "source": "Boursier.com",
-      "date": "2026-10-26T06:39:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -97,6 +106,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-25T15:55:36+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
       "titre": "Ragapop à Rungis 2026 | billets de Ragapop",
       "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
@@ -106,13 +124,13 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
-      "titre": "À Orly, les parkings sauvages restent ouverts malgré les condamnations",
-      "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2NWVzlWNjllNU1PQ0lTU3EtQjdGenRURmJFazJYdExteXZGb1pzd2ZldUg5YS1IX0gtbFJnZmdqREJwRFlnNmU2aTFOekllcVdieGx2QU14eFdOc2xhel94Y3Z3LThRczc4RDZnclhxVU0tWHZTWGRreTRQSjBKMzhza3Q?oc=5",
+      "titre": "Rungis : SG intègre le label Marché Durable à son accompagnement",
+      "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2NWVzlWNjllNU1PQ0lTU3EtQjdGenRURmJFazJYdExteXZGb1pzd2ZldUg5YS1IX0gtbFJnZmdqREJwRFlnNmU2aTFOekllcVdieGx2QU14eFdOc2xhel94Y3Z3LThRczc4RDZnclhxVU0tWHZTWGRreTRQSjBKMzhza3Q?oc=5",
       "image": "",
-      "source": "horticulture-abadie-pyrenees.com",
-      "date": "2026-10-25T10:45:15+00:00",
-      "theme": "Ville"
+      "source": "Au cœur du CHR",
+      "date": "2026-10-23T20:17:00+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRXpQYk5tTFAwWGtjX0Y0cDBxbGNwM0xvaGtHU3MzY09MNW9FQUtNMmotSlFNakxzUG5MQXU0dk5EMGNJMzhhUmNXNXE3eGJmY3R2S28xUmV6VTQ2a2hwQ2kyMFdVWHRDOVBHb2huNTU0bHNxWlhTOGdRd08xS28?oc=5",
@@ -151,30 +169,21 @@
       "theme": "Divers"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemR0TnpyN1diV1pCa0NySmNrM1h3ZldvNVNoNi1CS1JhaXB1Y251TUI0bm9UM2JGVW9DME1GUDdLVmg4a285R092eWt1VG5iRFlCWUhVaHVDWm5PczZpaGVkNGFjVlgza1NTZFNpcXNZemREclk3bG0wU1U1TzVuc2FtV055U2lhVWZMTVBwR2NMS2hxUTZLTnRPeUFNbTV3YjRjb2ZkTVZtUWs?oc=5",
+      "titre": "Au Rungis Piano-Piano Festival, Rachmaninov et l’Amérique mis à l’honneur",
+      "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemR0TnpyN1diV1pCa0NySmNrM1h3ZldvNVNoNi1CS1JhaXB1Y251TUI0bm9UM2JGVW9DME1GUDdLVmg4a285R092eWt1VG5iRFlCWUhVaHVDWm5PczZpaGVkNGFjVlgza1NTZFNpcXNZemREclk3bG0wU1U1TzVuc2FtV055U2lhVWZMTVBwR2NMS2hxUTZLTnRPeUFNbTV3YjRjb2ZkTVZtUWs?oc=5",
+      "image": "",
+      "source": "Cult News",
+      "date": "2026-10-19T13:11:54+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
       "titre": "Les perturbations RATP & SNCF du 19 au 25 octobre à Paris et Île-de-France",
       "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
       "image": "",
       "source": "20 Minutes",
       "date": "2026-10-19T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFFyaEphY3VSV3V4d3N1UFVLeVoxNHpnNVBNYlFDc2NWU0hVNTRHN3pmMWJHYnMxZkdQV1pzeE44MXE3SFREZjJtSTRtNVZWWndoeEJLcko5OGMtMGduMXFLWmdBU1RzUElvNV9DZEdWdkE5UmRYWUEtWnVHamNKZ3ZUZ0x0c3hqd0E?oc=5",
-      "titre": "Villepin à Rungis",
-      "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFFyaEphY3VSV3V4d3N1UFVLeVoxNHpnNVBNYlFDc2NWU0hVNTRHN3pmMWJHYnMxZkdQV1pzeE44MXE3SFREZjJtSTRtNVZWWndoeEJLcko5OGMtMGduMXFLWmdBU1RzUElvNV9DZEdWdkE5UmRYWUEtWnVHamNKZ3ZUZ0x0c3hqd0E?oc=5",
-      "image": "",
-      "source": "Orange Actualités",
-      "date": "2026-10-18T09:04:15+00:00",
-      "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-18T07:00:00+00:00",
       "theme": "Divers"
     },
     {
@@ -257,15 +266,6 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
-      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "image": "",
-      "source": "Ville de Paris",
-      "date": "2026-10-09T07:00:00+00:00",
-      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
