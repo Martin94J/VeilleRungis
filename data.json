@@ -1,5 +1,5 @@
 {
-  "maj": "2026-10-27T17:09:30.705229+00:00",
+  "maj": "2026-10-27T21:39:57.990154+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -21,7 +21,7 @@
       "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
       "image": "",
       "source": "94.snuipp.fr",
-      "date": "2026-10-27T11:42:45+00:00",
+      "date": "2026-10-27T09:30:00+00:00",
       "theme": "Ville"
     },
     {
@@ -70,6 +70,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "titre": "Omer-Decugis franchit une nouvelle étape dans son plan stratégique 2025-2030...",
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "image": "",
+      "source": "Fortuneo",
+      "date": "2026-10-26T06:59:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOakV6VVlhYi1ZaV9kNHctVDNPT0tJMTJ2R3pJSHhBUWNRQmtndWtGdVQ3UkJVZDgwb3lMOFFPd1h0MURCNHY0b0JKZ2h2Y01pVzZueFk0UThpU3V0NDFHLVBKUFg5MmFGY1owYzVsRE9hNS1zcURsTXBmczItaHA5ZlRwVlFva082WTdWQTZuQTZzSGUzYWdkNzhyaWNsczJIY0xVXzUxaHppY1R5VjJqNGpQaWZnLU9FdERWZW8ycXpTaUJ6TG1oellEU1B5bzlNby10WENnYVY0U0J4cUpkUFZwYmV0RUZISHQ3em1RTdIB7wFBVV95cUxOakV6VVlhYi1ZaV9kNHctVDNPT0tJMTJ2R3pJSHhBUWNRQmtndWtGdVQ3UkJVZDgwb3lMOFFPd1h0MURCNHY0b0JKZ2h2Y01pVzZueFk0UThpU3V0NDFHLVBKUFg5MmFGY1owYzVsRE9hNS1zcURsTXBmczItaHA5ZlRwVlFva082WTdWQTZuQTZzSGUzYWdkNzhyaWNsczJIY0xVXzUxaHppY1R5VjJqNGpQaWZnLU9FdERWZW8ycXpTaUJ6TG1oellEU1B5bzlNby10WENnYVY0U0J4cUpkUFZwYmV0RUZISHQ3em1RTQ?oc=5",
       "titre": "Omer-Decugis franchit une nouvelle étape dans son plan stratégique 2025-2030",
       "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOakV6VVlhYi1ZaV9kNHctVDNPT0tJMTJ2R3pJSHhBUWNRQmtndWtGdVQ3UkJVZDgwb3lMOFFPd1h0MURCNHY0b0JKZ2h2Y01pVzZueFk0UThpU3V0NDFHLVBKUFg5MmFGY1owYzVsRE9hNS1zcURsTXBmczItaHA5ZlRwVlFva082WTdWQTZuQTZzSGUzYWdkNzhyaWNsczJIY0xVXzUxaHppY1R5VjJqNGpQaWZnLU9FdERWZW8ycXpTaUJ6TG1oellEU1B5bzlNby10WENnYVY0U0J4cUpkUFZwYmV0RUZISHQ3em1RTdIB7wFBVV95cUxOakV6VVlhYi1ZaV9kNHctVDNPT0tJMTJ2R3pJSHhBUWNRQmtndWtGdVQ3UkJVZDgwb3lMOFFPd1h0MURCNHY0b0JKZ2h2Y01pVzZueFk0UThpU3V0NDFHLVBKUFg5MmFGY1owYzVsRE9hNS1zcURsTXBmczItaHA5ZlRwVlFva082WTdWQTZuQTZzSGUzYWdkNzhyaWNsczJIY0xVXzUxaHppY1R5VjJqNGpQaWZnLU9FdERWZW8ycXpTaUJ6TG1oellEU1B5bzlNby10WENnYVY0U0J4cUpkUFZwYmV0RUZISHQ3em1RTQ?oc=5",
@@ -104,15 +113,6 @@
       "source": "La Voix du Nord",
       "date": "2026-10-25T17:00:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-25T15:55:36+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
@@ -175,7 +175,7 @@
       "image": "",
       "source": "Cult News",
       "date": "2026-10-19T13:11:54+00:00",
-      "theme": "Divers"
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
@@ -184,6 +184,15 @@
       "image": "",
       "source": "20 Minutes",
       "date": "2026-10-19T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-18T07:00:00+00:00",
       "theme": "Divers"
     },
     {
@@ -247,7 +256,7 @@
       "image": "",
       "source": "L’Écho Républicain",
       "date": "2026-10-15T07:00:00+00:00",
-      "theme": "Ville"
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9va2E5RDBER3NaWEtYV29ncnM4M1pkdG1FMmd2YVBYU1Y0Z1YwV3pod0Jfa0hSTXVCZHI3UGFvMFpNV05nNXREV0twOXpmcU5oOUlCWlluMFhGZm55NlhyVlFCWldTRUU1RUZOVExocDMza1QyM1VsNjFpQWZQTEdjYkxveWdseGlLLUNuME5sbU9QOXRSTzd1NWtfZXh1MThMNlByMVhlZWNKd3dEY2I3alRreUc5WE94NnRDWVU1VTNITW9wNU5tSGc0YUJlZmc?oc=5",
