@@ -1,11 +1,20 @@
 {
-  "maj": "2026-10-27T03:10:11.491159+00:00",
+  "maj": "2026-10-27T11:21:48.461422+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
+      "titre": "Omer-Decugis & Cie s'allie à Semmaris pour une plateforme de fruits à Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
+      "image": "",
+      "source": "Idéal Investisseur",
+      "date": "2026-10-26T17:29:00+00:00",
+      "theme": "Acteurs"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
       "titre": "25 000 m² d'ici fin 2027 : Omer-Decugis concrétise avec la Semmaris son installation à Dunkerque",
@@ -31,6 +40,15 @@
       "image": "",
       "source": "FreshPlaza.fr",
       "date": "2026-10-26T10:40:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "titre": "Omer-Decugis franchit une nouvelle étape dans son plan stratégique 2025-2030...",
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "image": "",
+      "source": "Fortuneo",
+      "date": "2026-10-26T06:59:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -70,13 +88,13 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
+      "titre": "À Dunkerque, la plus grande mûrisserie de France devrait sortir de terre en 2027, 400 emplois annoncés",
+      "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
       "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-25T15:55:36+00:00",
-      "theme": "Divers"
+      "source": "La Voix du Nord",
+      "date": "2026-10-25T17:00:00+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUkpULUhXZ0w1UUpraXhvbzJYTW52RzNHTUF3SjUxMWFMNUJHbEw4ay1wcVVELVJZcUNUZTdDNFJMaGJVTVVkZHlhT3ZwN2pZWVIyTFVTdDFjZkhSUDVzTmUtSXN4NHVGVGNj?oc=5",
@@ -138,7 +156,7 @@
       "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
       "image": "",
       "source": "20 Minutes",
-      "date": "2026-10-18T22:20:00+00:00",
+      "date": "2026-10-19T07:00:00+00:00",
       "theme": "Divers"
     },
     {
@@ -149,6 +167,24 @@
       "source": "Orange Actualités",
       "date": "2026-10-18T09:04:15+00:00",
       "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-18T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
+      "titre": "RATP et SNCF : quelles perturbations dans les transports du 12 au 18 octobre ?",
+      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
+      "image": "",
+      "source": "mesinfos",
+      "date": "2026-10-18T07:00:00+00:00",
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEN1VHRzY0dqX2xGWVg2TlV0VldTMUNTMnNpNTAtSENZeDN3ZFdpZDg0b3RKeDRiVUh0eWJpUjhxNTM4dkFJamxybFJ3NEk4emdCNnJRcDBYMUhWNnhWLVhKSUQ4amQ1UUNMZlBFZlZfZFJyNmEyc3JDRkF3czdFS1BXX0oyZlNoMG1aYUd2V2NCcTNYS3dzNGZaLWYycXVsV0ZpRnNIdlN1MDJZMlE?oc=5",
@@ -221,6 +257,15 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
+      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
+      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
+      "image": "",
+      "source": "Ville de Paris",
+      "date": "2026-10-09T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
@@ -346,24 +391,6 @@
       "image": "",
       "source": "Horizons-journal",
       "date": "2026-09-28T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkU0MUZyX254YU51c0FxcC0xLVI0N3czRUJGNWlmZ2E3bU5UNjBGaVVSTkRTemNSaWdyN3V5OFM5NXpwZVBoS2IycjhndWZmX0s2c2xDalRtZDJfeXhvVEhXd3JsdHpOMThEemlaa1lDSVdoZGtOSGFMREhQLVdSeTFoV3YxWmM2Rm9EYmpId0pUa0FBV1dpT3ZaMlJrV0NtQ0k2TmowY3VfbGVjejJ2NjhkbjJIRGFsY0JVTi1zZU92NmdyZHNSUlZ5OC1GMUpfQUdJOU1na3IzV1ZZVDc5Q1JVU25BY1ZUZUNz?oc=5",
-      "titre": "Noix, tomates, coton… La Chine exporte de plus en plus sa production agricole du Xinjiang, région autonome ouïgoure",
-      "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkU0MUZyX254YU51c0FxcC0xLVI0N3czRUJGNWlmZ2E3bU5UNjBGaVVSTkRTemNSaWdyN3V5OFM5NXpwZVBoS2IycjhndWZmX0s2c2xDalRtZDJfeXhvVEhXd3JsdHpOMThEemlaa1lDSVdoZGtOSGFMREhQLVdSeTFoV3YxWmM2Rm9EYmpId0pUa0FBV1dpT3ZaMlJrV0NtQ0k2TmowY3VfbGVjejJ2NjhkbjJIRGFsY0JVTi1zZU92NmdyZHNSUlZ5OC1GMUpfQUdJOU1na3IzV1ZZVDc5Q1JVU25BY1ZUZUNz?oc=5",
-      "image": "",
-      "source": "Les Echos",
-      "date": "2026-09-27T07:00:00+00:00",
-      "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2k3cEhFNmUtODc1YW1TWDNQMHJkbmNJMkVoUl9mUzEyQVduNHJzRjNzRGJVMEZ2VjhzQnN0aW4yUUtoVE16UHpJdGhWNU5tMElVVFdvNUtFUXByUzFSLS1fejBhVFN5bE5xTGxlVXBfaVR0ckd4ZUs5aEdUbjJVMzA1dmtqaHFZZExycTdnTjBJMlJYZnY0c3RWX0REV21GQkxyVmRDNA?oc=5",
-      "titre": "Perturbations SNCF & RATP à Paris et Île-de-France du 28/09 au 4/10",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2k3cEhFNmUtODc1YW1TWDNQMHJkbmNJMkVoUl9mUzEyQVduNHJzRjNzRGJVMEZ2VjhzQnN0aW4yUUtoVE16UHpJdGhWNU5tMElVVFdvNUtFUXByUzFSLS1fejBhVFN5bE5xTGxlVXBfaVR0ckd4ZUs5aEdUbjJVMzA1dmtqaHFZZExycTdnTjBJMlJYZnY0c3RWX0REV21GQkxyVmRDNA?oc=5",
-      "image": "",
-      "source": "20 Minutes",
-      "date": "2026-09-27T07:00:00+00:00",
       "theme": "Divers"
     }
   ],
