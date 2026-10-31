@@ -1,20 +1,11 @@
 {
-  "maj": "2026-10-31T11:29:46.797839+00:00",
+  "maj": "2026-10-31T16:37:41.776966+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWJFV0ZDQ0I0QUx1X0lfUkVnYk5icC1jTnlTTlFxSnQ4YTMyT2N1NGhSNVRRNnJ0WktQckhEc2RibTVUbEU3SXBXMm9xRHUxQ0ptRlR3bldlRjVKd3M4bTRzRHYzY1EyTHk5Qm5fY2x1SUloakdZZ2ZkRnhBNi02QTRjSEpfYV9Ua01nbHRHYmU5WEZUYmJ5U1EzUHZQZWRqZC00M1BLNDdZRW1mLUxId0J4bjZnbnhtNmc?oc=5",
-      "titre": "Grève nationale du 5 novembre : à quoi faut-il s'attendre dans les transports ?",
-      "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWJFV0ZDQ0I0QUx1X0lfUkVnYk5icC1jTnlTTlFxSnQ4YTMyT2N1NGhSNVRRNnJ0WktQckhEc2RibTVUbEU3SXBXMm9xRHUxQ0ptRlR3bldlRjVKd3M4bTRzRHYzY1EyTHk5Qm5fY2x1SUloakdZZ2ZkRnhBNi02QTRjSEpfYV9Ua01nbHRHYmU5WEZUYmJ5U1EzUHZQZWRqZC00M1BLNDdZRW1mLUxId0J4bjZnbnhtNmc?oc=5",
-      "image": "",
-      "source": "www.deplacementspros.com",
-      "date": "2026-10-30T15:13:33+00:00",
-      "theme": "Acteurs"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
       "titre": "À Orly, les parkings sauvages restent ouverts malgré les condamnations",
@@ -25,22 +16,13 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
-      "titre": "Le constructeur chinois Farizon by Geely précise ses ambitions en France avec ses véhicules utilitaires électriques",
-      "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
-      "image": "",
-      "source": "Auto Infos",
-      "date": "2026-10-29T15:20:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
       "titre": "Le Farizon SV, année-modèle 2027, fait ses débuts français à Rungis, testé en conditions réelles de livraison",
       "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
       "image": "",
       "source": "Yahoo Finance France",
       "date": "2026-10-28T16:37:00+00:00",
-      "theme": "Divers"
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
@@ -79,6 +61,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTk4dHM4ZVlhZnVBSTdlNmdpVmxkajh6QmZhSG1EdHBmcXBGX3R1X2RmUjhsdGR4Uk54SUprTExNTWtHbEFRMTFJejlXR2gtdGNLdlJicU1xTWdpVVZGaTBZSk5NQ2V5anlPeUFXZFFSeV9OZlhwV2psdGJVdWl1S2JfSGtuS3VFckk3ODcxTmY2Q2Z3dEtQd0s5MV9Hb2llQ2JJcF9zNmN2cWUtUmc?oc=5",
+      "titre": "Le supermétro débarquera bien à Orly en 2024",
+      "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTk4dHM4ZVlhZnVBSTdlNmdpVmxkajh6QmZhSG1EdHBmcXBGX3R1X2RmUjhsdGR4Uk54SUprTExNTWtHbEFRMTFJejlXR2gtdGNLdlJicU1xTWdpVVZGaTBZSk5NQ2V5anlPeUFXZFFSeV9OZlhwV2psdGJVdWl1S2JfSGtuS3VFckk3ODcxTmY2Q2Z3dEtQd0s5MV9Hb2llQ2JJcF9zNmN2cWUtUmc?oc=5",
+      "image": "",
+      "source": "Le Parisien",
+      "date": "2026-10-27T13:44:45+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
       "titre": "Chauffage dans les écoles : une réponse obtenue grâce à l’intervention de la FSU-SNUipp Ville de Créteil",
       "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
@@ -94,15 +85,6 @@
       "image": "",
       "source": "Idéal Investisseur",
       "date": "2026-10-26T17:29:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
-      "titre": "25 000 m² d'ici fin 2027 : Omer-Decugis concrétise avec la Semmaris son installation à Dunkerque",
-      "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
-      "image": "",
-      "source": "Voxlog",
-      "date": "2026-10-26T10:47:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -142,6 +124,15 @@
       "theme": "Ville"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "titre": "Omer-Decugis franchit une nouvelle étape dans son plan stratégique 2025-2030...",
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
+      "image": "",
+      "source": "Fortuneo",
+      "date": "2026-10-26T06:59:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNmJaZmNrYTY2dnI1bXFrMWRGejFYVkV6TXBhY1RGdjljUnUyTGtRRHRTZjBPbGMtdHpqQ3RXU2ZWOURnN04tTVIzRmlDcUxUWkwtZmE3WTRxX004SDN5bHNyX1VydFBUclBmN3VfUUI0VktDU1N5eXlFVGloRW5iMmowa1BiWm9ON2Y0VEdDX1pXdWthZmNZVmxzeWozQVBvNzV3S0pKUG5Bb3FyN3ZRUl9hZW1ZUVhwWkxJa2hzOWptOEFVLVo1WkVMMkZyWkdOU1hvZmZnRG8tUFVDcUNLNWNwX0hFOFJyRThlUW9hTDA3R1JEMG5rLXZUclFuMWtRczNndWg5S1lZbHRyOC0tbmRScWg1dUdSLWxqdFU0U0Z1SG0xSlZ0blVYSjhaQ19UMXdXeTBTT1dKVV9iOG9wSXNmLUd5bGpybW83ZDc4VjE1bUxlcGxWWUZ4dWFyQjNZVnByT3RTYUR3S0VoT3owT1RwQkltYXFlNm9KN09Ld1RIQ2R5c1RLRlZZMNIBkANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP?oc=5",
       "titre": "OMER-DECUGIS & CIE : Omer-Decugis et Cie s'associe avec la SEMMARIS pour la réalisation de sa future plateform",
       "lien": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNmJaZmNrYTY2dnI1bXFrMWRGejFYVkV6TXBhY1RGdjljUnUyTGtRRHRTZjBPbGMtdHpqQ3RXU2ZWOURnN04tTVIzRmlDcUxUWkwtZmE3WTRxX004SDN5bHNyX1VydFBUclBmN3VfUUI0VktDU1N5eXlFVGloRW5iMmowa1BiWm9ON2Y0VEdDX1pXdWthZmNZVmxzeWozQVBvNzV3S0pKUG5Bb3FyN3ZRUl9hZW1ZUVhwWkxJa2hzOWptOEFVLVo1WkVMMkZyWkdOU1hvZmZnRG8tUFVDcUNLNWNwX0hFOFJyRThlUW9hTDA3R1JEMG5rLXZUclFuMWtRczNndWg5S1lZbHRyOC0tbmRScWg1dUdSLWxqdFU0U0Z1SG0xSlZ0blVYSjhaQ19UMXdXeTBTT1dKVV9iOG9wSXNmLUd5bGpybW83ZDc4VjE1bUxlcGxWWUZ4dWFyQjNZVnByT3RTYUR3S0VoT3owT1RwQkltYXFlNm9KN09Ld1RIQ2R5c1RLRlZZMNIBkANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP?oc=5",
@@ -151,13 +142,22 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
+      "titre": "Perturbations SNCF & RATP à prévoir à Paris et Île-de-France (26/10-1/11)",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
+      "image": "",
+      "source": "20 Minutes",
+      "date": "2026-10-26T00:28:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONUc0X0ZuWjZBMFlOaXYyVklhYkw3akZJNHZpSU8tUGhVc2h5SmRTeGg5THJZOVdLampLbkppYmZCY3l6Q0dyN3JQS0Mwb0FvNThPTGozZm9xLUVOYVhjenhIZHFCVG5ZcVQzQVRDSTJkcUp5OUE5R3ZvQVIwSmpTdU56V0JkLUpuRmMzSHp6S0Rtb29tTkl1cm0xaks1QkluY0V6akJLeEN6WWphSGpmS0FwQnF3NXpxZVhXelJFdzM5U0hUYlFnUFBnalMySjg?oc=5",
       "titre": "Le marché de Rungis valide son investissement dans le port de Dunkerque : « Ce sera un site unique en France",
       "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONUc0X0ZuWjZBMFlOaXYyVklhYkw3akZJNHZpSU8tUGhVc2h5SmRTeGg5THJZOVdLampLbkppYmZCY3l6Q0dyN3JQS0Mwb0FvNThPTGozZm9xLUVOYVhjenhIZHFCVG5ZcVQzQVRDSTJkcUp5OUE5R3ZvQVIwSmpTdU56V0JkLUpuRmMzSHp6S0Rtb29tTkl1cm0xaks1QkluY0V6akJLeEN6WWphSGpmS0FwQnF3NXpxZVhXelJFdzM5U0hUYlFnUFBnalMySjg?oc=5",
       "image": "",
       "source": "La Voix du Nord",
       "date": "2026-10-25T17:15:00+00:00",
-      "theme": "Ville"
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
@@ -205,6 +205,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZhcDRfN29jRXMwVE1ZNFBIWFViZDYtX0VaMGxydjdrTGRNQkJYR3drYWI5MjRHOGdDNFY5WS1lb3dhSXdaaXBIQzh6ajVGUmxHQWltWjBFX1RrVU9hUmlyNjVvSk9VRGpyWXlaa1AtaHhnTUJCd3poU1A3cnhKak1VQzhwdFNXZHJNb3E2cGxPMkgxWmplZkNpU3l3dnI3Q283NHNzWW5FcFM3SEpYdVkzQ051dTg?oc=5",
+      "titre": "Denrées périssables avariées dans un camion bloqué par les émeutes : qui indemnise le commerçant et combien",
+      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZhcDRfN29jRXMwVE1ZNFBIWFViZDYtX0VaMGxydjdrTGRNQkJYR3drYWI5MjRHOGdDNFY5WS1lb3dhSXdaaXBIQzh6ajVGUmxHQWltWjBFX1RrVU9hUmlyNjVvSk9VRGpyWXlaa1AtaHhnTUJCd3poU1A3cnhKak1VQzhwdFNXZHJNb3E2cGxPMkgxWmplZkNpU3l3dnI3Q283NHNzWW5FcFM3SEpYdVkzQ051dTg?oc=5",
+      "image": "",
+      "source": "Kohen Avocats",
+      "date": "2026-10-20T23:17:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
       "titre": "Pont Niki de Saint Phalle : une portion structurante du site propre du Tzen 5 est livrée aux Ardoines",
       "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
@@ -236,7 +245,7 @@
       "titre": "Grèves locales, lettre des directions de Vitry 2, de Fresnes et d'Orly : mobilisations tous azimuts dans le Val de Marne",
       "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkowX2NtVjJFU1lEd3BiTmkzZkl6RmZ0WjhNeWdnTFB1bmZJNzFJY3R3cVQtZmFldmZDaWYtcWltYjlXZDdzUWdlZm5Vdkx4R0R0dXRRNF9kUldBUjFiZHphd0JJQ0tIWFVrZUwzMU5fTXNPTjJ6ZU5HdHVCa2VPNg?oc=5",
       "image": "",
-      "source": "94.snuipp.fr",
+      "source": "FSU-SNUipp",
       "date": "2026-10-16T07:00:00+00:00",
       "theme": "Acteurs"
     },
@@ -248,15 +257,6 @@
       "source": "Les Echos",
       "date": "2026-10-16T07:00:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
-      "titre": "Les travaux de voirie en cours dans le 13e",
-      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
-      "image": "",
-      "source": "Mairie du 13ᵉ arrondissement de Paris",
-      "date": "2026-10-16T07:00:00+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Vkp1RjIyVm5ZdWttLVVMQWlrdU1Kdktha0hXOWU2Qkkyc180akRkdkk5RzRlUW84NlV4UEJjcUVWUUZfZ1pkT3pyS01kQkhiQzVlVS1fMjJfRlJzSjI4SjVtRWFyLWtOQWxsVkJ4cw?oc=5",
@@ -286,6 +286,15 @@
       "theme": "Divers"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHpqVFM5NzBNRW1Malo2cFl1TFBxVWV1N1dReGM3dkREQnhISjZVWk5ReDVuc1duZjl1ZnFXREpNVzM4S0xkLXJYRExfWVVHOGhjSGVuWmg3d0xNLXZnUmJ0a0liM2E5NFY5WTZrUDNFWEhUZkxHdzktVHR1bDBZRDlIbE1pVVBnQm43V2ZsT0l0ekxlODRBOXQ1QjRVVWdHbXg2SDJfUWN5R3lmQW5kTkNscDI2S1o4N3hYQXFrTEhlckVpNVpGS29CV1h1OXpxWGl4cUNiZE9UeFJCV2ZQUzN6SUxUaUJmOHZjal9sVDc4WV9ReHd3?oc=5",
+      "titre": "HELP Confort poursuit son développement avec une nouvelle signature à Rungis",
+      "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHpqVFM5NzBNRW1Malo2cFl1TFBxVWV1N1dReGM3dkREQnhISjZVWk5ReDVuc1duZjl1ZnFXREpNVzM4S0xkLXJYRExfWVVHOGhjSGVuWmg3d0xNLXZnUmJ0a0liM2E5NFY5WTZrUDNFWEhUZkxHdzktVHR1bDBZRDlIbE1pVVBnQm43V2ZsT0l0ekxlODRBOXQ1QjRVVWdHbXg2SDJfUWN5R3lmQW5kTkNscDI2S1o4N3hYQXFrTEhlckVpNVpGS29CV1h1OXpxWGl4cUNiZE9UeFJCV2ZQUzN6SUxUaUJmOHZjal9sVDc4WV9ReHd3?oc=5",
+      "image": "",
+      "source": "Observatoire de la franchise",
+      "date": "2026-10-08T07:26:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
       "titre": "Ville de Rungis (94)",
       "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1lZUTlTc19Idm5hdlYyRjFUczRhNE82eFAtWFdQdEp5MjNkdFpVRVZEZER0ZmE0cWpOdGd2UFRHU2hlUkNjTVI2TmdZYTZYSXZYSF9DTU1ZQ3ZZeW9vUmcxaUlsX2Rja2xCSmVaOW5LWGd1ckE0SWxRS0pUZ0xieFF4MkNPNzQ0cUVaMTlLQ1o2MDJHNnNGQURKc2w2ZUtWZ2tIRWNEbE1IOVlpQzdr?oc=5",
@@ -293,15 +302,6 @@
       "source": "Le Moniteur",
       "date": "2026-10-07T07:00:00+00:00",
       "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTm5mNWRib2NvT2JKaDdEVzl5amQ2UHZjcndvTjl1eFZoRUNWOWNPRkI1SE9nYi1BVlZaYTFfZ1ZyUFcyZl9yV3ZlUS1zMmNLc1ZZRTJGUEptaDZvc1pOazUxb3B4elFRNGdpOG1SOUlnVHZaY3ZZTDEyYkNUU2c2a2pXU2JIczBkX3R0dkFBM2VWQUdsWmFQbXBXb0k4bWMwVFlpdWVJZjUyX3l5WjFqR2JELXhJMG9NYWNXVi1PT1kzSS1COVpvOE05WDJ0VGIxWHdpeVg5M3hGcE14cFRfZUZyUlRvVTg1N2U4SzJuaTRHMnR4RS0zZFFaSkJQd19zaXhRRHV3Q3RCdTg?oc=5",
-      "titre": "HELP Confort accueille deux nouveaux franchisés en formation initiale pour Toulon et Rungis",
-      "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTm5mNWRib2NvT2JKaDdEVzl5amQ2UHZjcndvTjl1eFZoRUNWOWNPRkI1SE9nYi1BVlZaYTFfZ1ZyUFcyZl9yV3ZlUS1zMmNLc1ZZRTJGUEptaDZvc1pOazUxb3B4elFRNGdpOG1SOUlnVHZaY3ZZTDEyYkNUU2c2a2pXU2JIczBkX3R0dkFBM2VWQUdsWmFQbXBXb0k4bWMwVFlpdWVJZjUyX3l5WjFqR2JELXhJMG9NYWNXVi1PT1kzSS1COVpvOE05WDJ0VGIxWHdpeVg5M3hGcE14cFRfZUZyUlRvVTg1N2U4SzJuaTRHMnR4RS0zZFFaSkJQd19zaXhRRHV3Q3RCdTg?oc=5",
-      "image": "",
-      "source": "Observatoire de la franchise",
-      "date": "2026-10-07T07:00:00+00:00",
-      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3lxakRZSzV1bmZpSkw0cS1tbGtkRUh6TzR1T0htay1fakluVHhqVlhTZ0E1ZEVMWTBWdUtHWC1MNThlNTBFRk1kcVV4QTZocHlwY2tZbk9VYjFORFJYZHNEb2VwaGxXcHRmeVRYRGM2cHZoSVF2ZXlta1g2NDRnNDByXzdXNFIzRTF3eFB0dmp3d2VESEI2eVlzQUQzNnItbVprZ0ZxQUQyU2JaV0ZkTS1YTDJkbVEyY3EwOXZsLUxCdG0xRGpqcXRLXzdFOHNfUFg5Tg?oc=5",
