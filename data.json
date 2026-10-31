@@ -1,11 +1,20 @@
 {
-  "maj": "2026-10-31T16:37:41.776966+00:00",
+  "maj": "2026-10-31T20:51:12.075912+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
+      "titre": "Plusieurs accidents, 450 km de bouchons : circulation infernale sur les routes d’Île-de-France ce vendredi",
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-30T17:05:19+00:00",
+      "theme": "Divers"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
       "titre": "À Orly, les parkings sauvages restent ouverts malgré les condamnations",
@@ -345,6 +354,15 @@
       "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHZTVFAwUGF4Nmp6dFRYajg4aXZwbjdiYjJJZVk2M1RRUGRsYndmcDB1U3dST0duWElqMTVVb1I4dG9EbDdpS1RrSEZkOEttRm5peW1BRjNCRERLRTBUUjMzVXdhQVYyLVZMUVdodTVLRTN5dGc4eXNMWUxLekVaTTZnWHBCRzJKZlJzbGZlVEJmcWFZWWhtdUE2ZnI3bVZCZmtwVmh4eWRaaXVoeFp5YjZkUzNyLW1sUW56VmpKUFhhQmVxdEE?oc=5",
       "image": "",
       "source": "Radio Classique",
+      "date": "2026-10-02T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDVaTHF3SVduVWhXMWdaTWlZRm4zMlhFY1JlSGRHTWw5MV9BcGY1RWsyRlJLaWI1a0RGVzFkQ1pCUk05Rm5rQXptcnhEUG5OZXhZbm9kWk8wT3dKUDBuWnNBZFhfZDhIZXdRTnBtMExRbU5QdUtFM0MxRXNLWWxmSVpMRDJ3RVM0ZHNNX2xPZjNXZm9FVExvWC1KSDV6NWp4OEdmLXJWRlRDYUlaRVA4NlJiT3pBRjYwR0NSRkxDTDBvNDJiVWc?oc=5",
+      "titre": "Meulan-en-Yvelines : le Festival des Fromages met déjà l’eau à la bouche",
+      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDVaTHF3SVduVWhXMWdaTWlZRm4zMlhFY1JlSGRHTWw5MV9BcGY1RWsyRlJLaWI1a0RGVzFkQ1pCUk05Rm5rQXptcnhEUG5OZXhZbm9kWk8wT3dKUDBuWnNBZFhfZDhIZXdRTnBtMExRbU5QdUtFM0MxRXNLWWxmSVpMRDJ3RVM0ZHNNX2xPZjNXZm9FVExvWC1KSDV6NWp4OEdmLXJWRlRDYUlaRVA4NlJiT3pBRjYwR0NSRkxDTDBvNDJiVWc?oc=5",
+      "image": "",
+      "source": "mesinfos",
       "date": "2026-10-02T07:00:00+00:00",
       "theme": "Divers"
     }
