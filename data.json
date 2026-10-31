@@ -1,20 +1,11 @@
 {
-  "maj": "2026-10-31T03:33:49.745047+00:00",
+  "maj": "2026-10-31T11:29:46.797839+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
-      "titre": "Plusieurs accidents, 450 km de bouchons : circulation infernale sur les routes d’Île-de-France ce vendredi",
-      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-30T17:05:19+00:00",
-      "theme": "Divers"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWJFV0ZDQ0I0QUx1X0lfUkVnYk5icC1jTnlTTlFxSnQ4YTMyT2N1NGhSNVRRNnJ0WktQckhEc2RibTVUbEU3SXBXMm9xRHUxQ0ptRlR3bldlRjVKd3M4bTRzRHYzY1EyTHk5Qm5fY2x1SUloakdZZ2ZkRnhBNi02QTRjSEpfYV9Ua01nbHRHYmU5WEZUYmJ5U1EzUHZQZWRqZC00M1BLNDdZRW1mLUxId0J4bjZnbnhtNmc?oc=5",
       "titre": "Grève nationale du 5 novembre : à quoi faut-il s'attendre dans les transports ?",
@@ -59,6 +50,15 @@
       "source": "Les Echos",
       "date": "2026-10-28T15:25:18+00:00",
       "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVVkcFVaaU5XUFZ3WVRkZUxZbE1XdFpjTUFZODFqZ1RIYUtpYllmVWhKWkJuRHIzMzhKaVRPdndyMml4NDFMMlVOM1AybEpfUWFPcGpwcFhuUkI0R2lueWROOVdkSFVINmRWWXJCa0pJWWFlZzF1bFZWVm5RbXJDRnpUOFNEaEN4LXI5Mm05ZTYxbS1talJVWmZqZV9mcnFJdFl2VFBKbG4tcmY4ZU11d215cWRFdVd5X1d4bHphSXdYazZJYlE?oc=5",
+      "titre": "Omer-Decugis et la Semmaris préparent une plateforme de fruits frais à Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVVkcFVaaU5XUFZ3WVRkZUxZbE1XdFpjTUFZODFqZ1RIYUtpYllmVWhKWkJuRHIzMzhKaVRPdndyMml4NDFMMlVOM1AybEpfUWFPcGpwcFhuUkI0R2lueWROOVdkSFVINmRWWXJCa0pJWWFlZzF1bFZWVm5RbXJDRnpUOFNEaEN4LXI5Mm05ZTYxbS1talJVWmZqZV9mcnFJdFl2VFBKbG4tcmY4ZU11d215cWRFdVd5X1d4bHphSXdYazZJYlE?oc=5",
+      "image": "",
+      "source": "Process Alimentaire",
+      "date": "2026-10-28T15:21:00+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRXpQYk5tTFAwWGtjX0Y0cDBxbGNwM0xvaGtHU3MzY09MNW9FQUtNMmotSlFNakxzUG5MQXU0dk5EMGNJMzhhUmNXNXE3eGJmY3R2S28xUmV6VTQ2a2hwQ2kyMFdVWHRDOVBHb2huNTU0bHNxWlhTOGdRd08xS28?oc=5",
@@ -133,13 +133,13 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFdpckV6M2t3UzJ5YU44M2VWQk5Wam9kWXNDSGFqZTEyWlJLa2F6OEt0ZzNILTFjX08xQVdSU29hX01JaVpCY0paSVJxRXJPUUxxaldaT2dNZ3hBZFZqdkw4UHk4OTRDd3hhbF9JY2J5aDdRVElSeFlXSHN4M0t3RW9WUlIzRWtmUHlqV0k3YVNSS0ZhZUV2WGlyRTkxRkwxbS14T2lnMXlkcm9BZ3dSaUlIcmd1Rk8zQ3lZRVN5QXJWOGxiMXpDOTVscWRaNUlfX0FQZnJB?oc=5",
-      "titre": "Omer-Decugis s’associe avec la SEMMARIS pour une plateforme de 25 000 m² à Dunkerque",
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFdpckV6M2t3UzJ5YU44M2VWQk5Wam9kWXNDSGFqZTEyWlJLa2F6OEt0ZzNILTFjX08xQVdSU29hX01JaVpCY0paSVJxRXJPUUxxaldaT2dNZ3hBZFZqdkw4UHk4OTRDd3hhbF9JY2J5aDdRVElSeFlXSHN4M0t3RW9WUlIzRWtmUHlqV0k3YVNSS0ZhZUV2WGlyRTkxRkwxbS14T2lnMXlkcm9BZ3dSaUlIcmd1Rk8zQ3lZRVN5QXJWOGxiMXpDOTVscWRaNUlfX0FQZnJB?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGstaVdNcEV2d29acnhBdVFfZWRvQXFGQzhhOU5aRWdaUDJyWVlyMkZxQnphelBxRzJWYkppNTVNM3JRMWk4S2pXcXZaOVlzOEF6YV82OWpNMXd5N0x4dVFZLWFBOXRwQVM5Zmd2T2c1ZVNUWXI5UFhXSUZNLXVIWktKNEFXUElJMFdKWGVxa0E4c3JnbEZBNlpoeDBPUkxUeVFlbmxCakdOSElDd1NvZ09ZdU9iWDlJRElyQ0VwOXU?oc=5",
+      "titre": "Visite Autour de la Poterne de Peupliers, les rails ont cédé la place à la végétation",
+      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGstaVdNcEV2d29acnhBdVFfZWRvQXFGQzhhOU5aRWdaUDJyWVlyMkZxQnphelBxRzJWYkppNTVNM3JRMWk4S2pXcXZaOVlzOEF6YV82OWpNMXd5N0x4dVFZLWFBOXRwQVM5Zmd2T2c1ZVNUWXI5UFhXSUZNLXVIWktKNEFXUElJMFdKWGVxa0E4c3JnbEZBNlpoeDBPUkxUeVFlbmxCakdOSElDd1NvZ09ZdU9iWDlJRElyQ0VwOXU?oc=5",
       "image": "",
-      "source": "Investing.com France",
-      "date": "2026-10-26T08:32:00+00:00",
-      "theme": "Acteurs"
+      "source": "Ville de Paris",
+      "date": "2026-10-26T09:06:21+00:00",
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNmJaZmNrYTY2dnI1bXFrMWRGejFYVkV6TXBhY1RGdjljUnUyTGtRRHRTZjBPbGMtdHpqQ3RXU2ZWOURnN04tTVIzRmlDcUxUWkwtZmE3WTRxX004SDN5bHNyX1VydFBUclBmN3VfUUI0VktDU1N5eXlFVGloRW5iMmowa1BiWm9ON2Y0VEdDX1pXdWthZmNZVmxzeWozQVBvNzV3S0pKUG5Bb3FyN3ZRUl9hZW1ZUVhwWkxJa2hzOWptOEFVLVo1WkVMMkZyWkdOU1hvZmZnRG8tUFVDcUNLNWNwX0hFOFJyRThlUW9hTDA3R1JEMG5rLXZUclFuMWtRczNndWg5S1lZbHRyOC0tbmRScWg1dUdSLWxqdFU0U0Z1SG0xSlZ0blVYSjhaQ19UMXdXeTBTT1dKVV9iOG9wSXNmLUd5bGpybW83ZDc4VjE1bUxlcGxWWUZ4dWFyQjNZVnByT3RTYUR3S0VoT3owT1RwQkltYXFlNm9KN09Ld1RIQ2R5c1RLRlZZMNIBkANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP?oc=5",
@@ -149,15 +149,6 @@
       "source": "Boursorama",
       "date": "2026-10-26T06:30:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
-      "titre": "Perturbations SNCF & RATP à prévoir à Paris et Île-de-France (26/10-1/11)",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
-      "image": "",
-      "source": "20 Minutes",
-      "date": "2026-10-26T00:28:00+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONUc0X0ZuWjZBMFlOaXYyVklhYkw3akZJNHZpSU8tUGhVc2h5SmRTeGg5THJZOVdLampLbkppYmZCY3l6Q0dyN3JQS0Mwb0FvNThPTGozZm9xLUVOYVhjenhIZHFCVG5ZcVQzQVRDSTJkcUp5OUE5R3ZvQVIwSmpTdU56V0JkLUpuRmMzSHp6S0Rtb29tTkl1cm0xaks1QkluY0V6akJLeEN6WWphSGpmS0FwQnF3NXpxZVhXelJFdzM5U0hUYlFnUFBnalMySjg?oc=5",
@@ -259,6 +250,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "titre": "Les travaux de voirie en cours dans le 13e",
+      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "image": "",
+      "source": "Mairie du 13ᵉ arrondissement de Paris",
+      "date": "2026-10-16T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Vkp1RjIyVm5ZdWttLVVMQWlrdU1Kdktha0hXOWU2Qkkyc180akRkdkk5RzRlUW84NlV4UEJjcUVWUUZfZ1pkT3pyS01kQkhiQzVlVS1fMjJfRlJzSjI4SjVtRWFyLWtOQWxsVkJ4cw?oc=5",
       "titre": "Les Conseils de Quartier",
       "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Vkp1RjIyVm5ZdWttLVVMQWlrdU1Kdktha0hXOWU2Qkkyc180akRkdkk5RzRlUW84NlV4UEJjcUVWUUZfZ1pkT3pyS01kQkhiQzVlVS1fMjJfRlJzSjI4SjVtRWFyLWtOQWxsVkJ4cw?oc=5",
@@ -331,22 +331,22 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVRZNEd0MF84NUx6Q1g0MURFMWtydG5oX2hOY3VraFl1UWhma09iSndtS2FnS0hjMU03RmlVeVlxR3ZjbVM5aGplYmdkTkRTVVQweHVPYXN3TlpOYlF4dW1fSFgyODQwS3U0YkRvTm1qb2NhUkt3RnI2UUJWRGVlWTZqd0ZmZ2daOXNYZXoxbVVoTmQ0QW1rdUc0Y2RndjZ1N1hBNTRUaWdRbEhsMExkRkxR?oc=5",
-      "titre": "Festival « Piano-Piano » : à Rungis, éclats, caresses et murmures des claviers",
-      "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVRZNEd0MF84NUx6Q1g0MURFMWtydG5oX2hOY3VraFl1UWhma09iSndtS2FnS0hjMU03RmlVeVlxR3ZjbVM5aGplYmdkTkRTVVQweHVPYXN3TlpOYlF4dW1fSFgyODQwS3U0YkRvTm1qb2NhUkt3RnI2UUJWRGVlWTZqd0ZmZ2daOXNYZXoxbVVoTmQ0QW1rdUc0Y2RndjZ1N1hBNTRUaWdRbEhsMExkRkxR?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmMtTk1kWVNpSmNzdVQ3T1A2NHlEVTJzX1YxX2M2VEdYaWNHSFlIQU5XUU1aSW5wS09mbTJZUlhPUXdUU2hkNE9OM0Jka3RTZTY0b3liY2ZVYllPZlhpem1tWUhpLXFEVkZvaVh0U3RzajN3N1pDc20zVWxteXc3M3ZUYnJMMXlUeVpEbzZCR1JaMHQzRUZuNkRGa1otQjhNd01LRTBMbmVBYlFxUlE5aFdERzlyaEtfVkhWaFRULV9GNnh1T1VpMDBSWklBZkQ2WU44dTdpZTdaRFhISnFZclg4N2VhTVZ2VlhZ?oc=5",
+      "titre": "Le grand vide-maison de “Krystel La Blonde” à Clamecy : une occasion unique pour les amateurs de brocante",
+      "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmMtTk1kWVNpSmNzdVQ3T1A2NHlEVTJzX1YxX2M2VEdYaWNHSFlIQU5XUU1aSW5wS09mbTJZUlhPUXdUU2hkNE9OM0Jka3RTZTY0b3liY2ZVYllPZlhpem1tWUhpLXFEVkZvaVh0U3RzajN3N1pDc20zVWxteXc3M3ZUYnJMMXlUeVpEbzZCR1JaMHQzRUZuNkRGa1otQjhNd01LRTBMbmVBYlFxUlE5aFdERzlyaEtfVkhWaFRULV9GNnh1T1VpMDBSWklBZkQ2WU44dTdpZTdaRFhISnFZclg4N2VhTVZ2VlhZ?oc=5",
       "image": "",
-      "source": "La Croix",
-      "date": "2026-10-01T07:00:00+00:00",
+      "source": "Le Journal du Centre",
+      "date": "2026-10-02T07:00:00+00:00",
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVFOMHJLSVlydnhwdTh2MHpabjRqalRjeXV5ZjJDdmYyUDVyYS1IYXZYVk5kT1pfOEhVLVVPN25wU0tUcUQyMFgyM1BjUktQVmNKTWZCM0t0YUpCN204ajBfNmNRaUp5ejdfSDlqYWJZUmNhZUlqV3h1NGRYcE1GMHNkZjJHcEdHRGdiMTUySW5lNEFCdnc?oc=5",
-      "titre": "Piano Piano à Rungis : le piano se joue à deux",
-      "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVFOMHJLSVlydnhwdTh2MHpabjRqalRjeXV5ZjJDdmYyUDVyYS1IYXZYVk5kT1pfOEhVLVVPN25wU0tUcUQyMFgyM1BjUktQVmNKTWZCM0t0YUpCN204ajBfNmNRaUp5ejdfSDlqYWJZUmNhZUlqV3h1NGRYcE1GMHNkZjJHcEdHRGdiMTUySW5lNEFCdnc?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHZTVFAwUGF4Nmp6dFRYajg4aXZwbjdiYjJJZVk2M1RRUGRsYndmcDB1U3dST0duWElqMTVVb1I4dG9EbDdpS1RrSEZkOEttRm5peW1BRjNCRERLRTBUUjMzVXdhQVYyLVZMUVdodTVLRTN5dGc4eXNMWUxLekVaTTZnWHBCRzJKZlJzbGZlVEJmcWFZWWhtdUE2ZnI3bVZCZmtwVmh4eWRaaXVoeFp5YjZkUzNyLW1sUW56VmpKUFhhQmVxdEE?oc=5",
+      "titre": "Un envoutant voyage sur les terres catalanes avec Wilhem Latchoumia",
+      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHZTVFAwUGF4Nmp6dFRYajg4aXZwbjdiYjJJZVk2M1RRUGRsYndmcDB1U3dST0duWElqMTVVb1I4dG9EbDdpS1RrSEZkOEttRm5peW1BRjNCRERLRTBUUjMzVXdhQVYyLVZMUVdodTVLRTN5dGc4eXNMWUxLekVaTTZnWHBCRzJKZlJzbGZlVEJmcWFZWWhtdUE2ZnI3bVZCZmtwVmh4eWRaaXVoeFp5YjZkUzNyLW1sUW56VmpKUFhhQmVxdEE?oc=5",
       "image": "",
-      "source": "laclepublique.fr",
-      "date": "2026-10-01T07:00:00+00:00",
-      "theme": "Ville"
+      "source": "Radio Classique",
+      "date": "2026-10-02T07:00:00+00:00",
+      "theme": "Divers"
     }
   ],
   "pages": [
