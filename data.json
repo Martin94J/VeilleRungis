@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-01T12:27:09.338017+00:00",
+  "maj": "2026-11-01T19:18:36.832623+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -43,22 +43,13 @@
       "theme": "Divers"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDI5RF9jN1Fza2t2eF9mYmFyNDdYN2xsdXFQWTNJcFg5MWtsa3ZBS3ROd190eDhnXzNDWi1WdVhsYWFYd1VCTTFyRWtJdHFrTi13RW93bGk5djVibENVWFhoSzExWTFwRFU2YjhoY1FOdjVuaUxKd2lBQVY4eURQLU4tU1drTlRYem9RT2JTZjFXdmhfYTI2ZFFTRjRUektXNzhqZzdxTW9VbF96RXh5RHRpcVRSTTM0U2JkSHh0ZktqcDBw?oc=5",
-      "titre": "Rungis : un vide-grenier couvert pour le Téléthon en décembre",
-      "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDI5RF9jN1Fza2t2eF9mYmFyNDdYN2xsdXFQWTNJcFg5MWtsa3ZBS3ROd190eDhnXzNDWi1WdVhsYWFYd1VCTTFyRWtJdHFrTi13RW93bGk5djVibENVWFhoSzExWTFwRFU2YjhoY1FOdjVuaUxKd2lBQVY4eURQLU4tU1drTlRYem9RT2JTZjFXdmhfYTI2ZFFTRjRUektXNzhqZzdxTW9VbF96RXh5RHRpcVRSTTM0U2JkSHh0ZktqcDBw?oc=5",
-      "image": "",
-      "source": "Sortir à Paris",
-      "date": "2026-10-29T14:44:05+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
       "titre": "Le Farizon SV, année-modèle 2027, fait ses débuts français à Rungis, testé en conditions réelles de livraison",
       "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
       "image": "",
       "source": "Yahoo Finance France",
       "date": "2026-10-28T16:37:00+00:00",
-      "theme": "Acteurs"
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
@@ -83,7 +74,7 @@
       "titre": "Brocantes et vide-greniers : on chine où en octobre ?",
       "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRXpQYk5tTFAwWGtjX0Y0cDBxbGNwM0xvaGtHU3MzY09MNW9FQUtNMmotSlFNakxzUG5MQXU0dk5EMGNJMzhhUmNXNXE3eGJmY3R2S28xUmV6VTQ2a2hwQ2kyMFdVWHRDOVBHb2huNTU0bHNxWlhTOGdRd08xS28?oc=5",
       "image": "",
-      "source": "Ville de Paris",
+      "source": "Paris.fr",
       "date": "2026-10-28T07:00:00+00:00",
       "theme": "Ville"
     },
@@ -110,7 +101,7 @@
       "titre": "Chauffage dans les écoles : une réponse obtenue grâce à l’intervention de la FSU-SNUipp Ville de Créteil",
       "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
       "image": "",
-      "source": "FSU-SNUipp",
+      "source": "94.snuipp.fr",
       "date": "2026-10-27T09:30:00+00:00",
       "theme": "Ville"
     },
@@ -205,15 +196,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-25T15:55:36+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2NWVzlWNjllNU1PQ0lTU3EtQjdGenRURmJFazJYdExteXZGb1pzd2ZldUg5YS1IX0gtbFJnZmdqREJwRFlnNmU2aTFOekllcVdieGx2QU14eFdOc2xhel94Y3Z3LThRczc4RDZnclhxVU0tWHZTWGRreTRQSjBKMzhza3Q?oc=5",
       "titre": "Rungis : SG intègre le label Marché Durable à son accompagnement",
       "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2NWVzlWNjllNU1PQ0lTU3EtQjdGenRURmJFazJYdExteXZGb1pzd2ZldUg5YS1IX0gtbFJnZmdqREJwRFlnNmU2aTFOekllcVdieGx2QU14eFdOc2xhel94Y3Z3LThRczc4RDZnclhxVU0tWHZTWGRreTRQSjBKMzhza3Q?oc=5",
@@ -232,6 +214,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xHamJndVRta1RPZTVHQThOMkM0QVpkTE1QQkJtOUwyeE9OcUsteGdPM1NwMURMbjdyRS0xVVE4Q2FNcGtkbHFsNGJzenhrZjE0OWRvcXVlUXh5NjY3NDR5LWFOWVAwV3kxU0kxZWVQX0FmQ0FpUXdZeXNMQ1F6QXpEaFpOQ2dFN3NkNEE5WUZjeUhJ?oc=5",
+      "titre": "Les Trophées Pudlo des Bistrots reviennent le 7 décembre",
+      "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xHamJndVRta1RPZTVHQThOMkM0QVpkTE1QQkJtOUwyeE9OcUsteGdPM1NwMURMbjdyRS0xVVE4Q2FNcGtkbHFsNGJzenhrZjE0OWRvcXVlUXh5NjY3NDR5LWFOWVAwV3kxU0kxZWVQX0FmQ0FpUXdZeXNMQ1F6QXpEaFpOQ2dFN3NkNEE5WUZjeUhJ?oc=5",
+      "image": "",
+      "source": "Au cœur du CHR",
+      "date": "2026-10-22T14:07:13+00:00",
+      "theme": "Ville"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
       "titre": "Le gestionnaire de Rungis convoite les marchés de gros en Égypte",
       "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
@@ -239,15 +230,6 @@
       "source": "africabusinessplus.com",
       "date": "2026-10-21T13:16:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZhcDRfN29jRXMwVE1ZNFBIWFViZDYtX0VaMGxydjdrTGRNQkJYR3drYWI5MjRHOGdDNFY5WS1lb3dhSXdaaXBIQzh6ajVGUmxHQWltWjBFX1RrVU9hUmlyNjVvSk9VRGpyWXlaa1AtaHhnTUJCd3poU1A3cnhKak1VQzhwdFNXZHJNb3E2cGxPMkgxWmplZkNpU3l3dnI3Q283NHNzWW5FcFM3SEpYdVkzQ051dTg?oc=5",
-      "titre": "Denrées périssables avariées dans un camion bloqué par les émeutes : qui indemnise le commerçant et combien",
-      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZhcDRfN29jRXMwVE1ZNFBIWFViZDYtX0VaMGxydjdrTGRNQkJYR3drYWI5MjRHOGdDNFY5WS1lb3dhSXdaaXBIQzh6ajVGUmxHQWltWjBFX1RrVU9hUmlyNjVvSk9VRGpyWXlaa1AtaHhnTUJCd3poU1A3cnhKak1VQzhwdFNXZHJNb3E2cGxPMkgxWmplZkNpU3l3dnI3Q283NHNzWW5FcFM3SEpYdVkzQ051dTg?oc=5",
-      "image": "",
-      "source": "Kohen Avocats",
-      "date": "2026-10-20T23:17:00+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
@@ -268,13 +250,13 @@
       "theme": "Divers"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
-      "titre": "RATP et SNCF : quelles perturbations dans les transports du 12 au 18 octobre ?",
-      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
       "image": "",
-      "source": "mesinfos",
+      "source": "Actu.fr",
       "date": "2026-10-18T07:00:00+00:00",
-      "theme": "Divers"
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkowX2NtVjJFU1lEd3BiTmkzZkl6RmZ0WjhNeWdnTFB1bmZJNzFJY3R3cVQtZmFldmZDaWYtcWltYjlXZDdzUWdlZm5Vdkx4R0R0dXRRNF9kUldBUjFiZHphd0JJQ0tIWFVrZUwzMU5fTXNPTjJ6ZU5HdHVCa2VPNg?oc=5",
@@ -320,15 +302,6 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
-      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "image": "",
-      "source": "Ville de Paris",
-      "date": "2026-10-09T07:00:00+00:00",
-      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHpqVFM5NzBNRW1Malo2cFl1TFBxVWV1N1dReGM3dkREQnhISjZVWk5ReDVuc1duZjl1ZnFXREpNVzM4S0xkLXJYRExfWVVHOGhjSGVuWmg3d0xNLXZnUmJ0a0liM2E5NFY5WTZrUDNFWEhUZkxHdzktVHR1bDBZRDlIbE1pVVBnQm43V2ZsT0l0ekxlODRBOXQ1QjRVVWdHbXg2SDJfUWN5R3lmQW5kTkNscDI2S1o4N3hYQXFrTEhlckVpNVpGS29CV1h1OXpxWGl4cUNiZE9UeFJCV2ZQUzN6SUxUaUJmOHZjal9sVDc4WV9ReHd3?oc=5",
