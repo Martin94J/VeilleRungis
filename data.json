@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-02T00:05:41.326042+00:00",
+  "maj": "2026-11-02T10:24:21.079121+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -23,6 +23,15 @@
       "source": "Actu.fr",
       "date": "2026-10-30T17:05:19+00:00",
       "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWJFV0ZDQ0I0QUx1X0lfUkVnYk5icC1jTnlTTlFxSnQ4YTMyT2N1NGhSNVRRNnJ0WktQckhEc2RibTVUbEU3SXBXMm9xRHUxQ0ptRlR3bldlRjVKd3M4bTRzRHYzY1EyTHk5Qm5fY2x1SUloakdZZ2ZkRnhBNi02QTRjSEpfYV9Ua01nbHRHYmU5WEZUYmJ5U1EzUHZQZWRqZC00M1BLNDdZRW1mLUxId0J4bjZnbnhtNmc?oc=5",
+      "titre": "Grève nationale du 5 novembre : à quoi faut-il s'attendre dans les transports ?",
+      "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWJFV0ZDQ0I0QUx1X0lfUkVnYk5icC1jTnlTTlFxSnQ4YTMyT2N1NGhSNVRRNnJ0WktQckhEc2RibTVUbEU3SXBXMm9xRHUxQ0ptRlR3bldlRjVKd3M4bTRzRHYzY1EyTHk5Qm5fY2x1SUloakdZZ2ZkRnhBNi02QTRjSEpfYV9Ua01nbHRHYmU5WEZUYmJ5U1EzUHZQZWRqZC00M1BLNDdZRW1mLUxId0J4bjZnbnhtNmc?oc=5",
+      "image": "",
+      "source": "www.deplacementspros.com",
+      "date": "2026-10-30T15:13:33+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
@@ -58,7 +67,7 @@
       "image": "",
       "source": "Yahoo Finance France",
       "date": "2026-10-28T16:37:00+00:00",
-      "theme": "Acteurs"
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
@@ -110,7 +119,7 @@
       "titre": "Chauffage dans les écoles : une réponse obtenue grâce à l’intervention de la FSU-SNUipp Ville de Créteil",
       "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmZuYlJTd0p4QWRQVmdtUHJhQU5PX0ZKREdoYmlySTZnNmFtTUlHeURPY045VEJCTUdrRFhBbEZpcndGb2FncmlSZzh2ZmdJbmZXX3I3a3AtSlBBSFhDcHFqZ3lQeWhOdmpWdm5XWUxWdVh5cGNRQ0ltVUlxTE05TW1XM0hOX0dac1NqTFVVc25UVEU0SjUtaGtCTDNZMW9GZWlXVmMzMWo5UGZZSG5nU05fNUxDSTRIT044dnF4TlQ0eEI3N19KQkJaTQ?oc=5",
       "image": "",
-      "source": "94.snuipp.fr",
+      "source": "FSU-SNUipp",
       "date": "2026-10-27T09:30:00+00:00",
       "theme": "Ville"
     },
@@ -158,6 +167,15 @@
       "source": "Ville de Paris",
       "date": "2026-10-26T09:06:21+00:00",
       "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
+      "titre": "Métro, RER, Transilien : les perturbations à Paris du 26 octobre au 1er novembre",
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
+      "image": "",
+      "source": "mesinfos",
+      "date": "2026-10-26T08:09:00+00:00",
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXFWX3F3V3FtNUZ3cVEzdlJ1c0lUalJuT1ZQUlFHMi1lWG5OUVUwZUlmN2JjeFF4anh5U2otQXhuVk02c1htYmFtTEMxVkR0NklfcENfeXE4MnV5SmpNU3ZJN3RWZ2VWY0FpRHdJUDE1NGpCVUt0VXFVYTdvWWZNNlRmcTlNUGhPRTlOWk5UNk5icnQwdzg3OEtaa184UE9SQ0JHb3ZLR0JhS2RiZUlMNFpwM0NQQjdUbWc3S2l1NNIBxAFBVV95cUxPeEQ3Y21laWNVLUl3a0ZIZzNiUGc3ZDRFQzdCLVRjdnNJMUlKYjVxMGtEYjVZeWJjVl95M0dKSnZ2OU53bndjYzh1dFZMMVZuNExnQUhMQjFjYnE0ZlpTUEVmV0RXVUE5YklQaDJoZmlid3ZqVGc4Q2JEMW1xRUZPaDFqX0N6cmg4ZlJORjRDRzRZaExOeG52TDZCWlJKanZ4c1YxdVlVRFl2cnZCWU1VZERtcUJXMmFUTnBSZzc0d1djNUtr?oc=5",
@@ -214,24 +232,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzl4QWtUNzdqbjh4bDRvb3pZQnhwS2xHYTdYcFExVnUxN080VkRSYlB2N1dZWDF6azV2WXp2dnZEblVjOHFOUndnb1dRVW1HdTFyNnp1SlJLVmJOUEM3M0g3Umc0am5MNS12Xzh0MlNSZVFERTM5SHMybXhEY2dsWGo5cHY1UEd2d0JlQXVQeVVDVVhTWTJrelAxenM5QnlWMGhqckx2VVJHQ3ljdUJaWlc2em9DYWRMZEFQc3FtNE5peWVNMXVXcmdVc09uclBNemxzT29wcFYwWWhWamVTeEFYSS03UlhRTzMtLVkycFp0eTltVW1FczA4TQ?oc=5",
-      "titre": "De fortes perturbations dans les transports publics à prévoir ce week-end entre la tempête Austen et les tempêtes sociales",
-      "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzl4QWtUNzdqbjh4bDRvb3pZQnhwS2xHYTdYcFExVnUxN080VkRSYlB2N1dZWDF6azV2WXp2dnZEblVjOHFOUndnb1dRVW1HdTFyNnp1SlJLVmJOUEM3M0g3Umc0am5MNS12Xzh0MlNSZVFERTM5SHMybXhEY2dsWGo5cHY1UEd2d0JlQXVQeVVDVVhTWTJrelAxenM5QnlWMGhqckx2VVJHQ3ljdUJaWlc2em9DYWRMZEFQc3FtNE5peWVNMXVXcmdVc09uclBNemxzT29wcFYwWWhWamVTeEFYSS03UlhRTzMtLVkycFp0eTltVW1FczA4TQ?oc=5",
-      "image": "",
-      "source": "Le Figaro",
-      "date": "2026-10-23T07:00:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xHamJndVRta1RPZTVHQThOMkM0QVpkTE1QQkJtOUwyeE9OcUsteGdPM1NwMURMbjdyRS0xVVE4Q2FNcGtkbHFsNGJzenhrZjE0OWRvcXVlUXh5NjY3NDR5LWFOWVAwV3kxU0kxZWVQX0FmQ0FpUXdZeXNMQ1F6QXpEaFpOQ2dFN3NkNEE5WUZjeUhJ?oc=5",
-      "titre": "Les Trophées Pudlo des Bistrots reviennent le 7 décembre",
-      "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xHamJndVRta1RPZTVHQThOMkM0QVpkTE1QQkJtOUwyeE9OcUsteGdPM1NwMURMbjdyRS0xVVE4Q2FNcGtkbHFsNGJzenhrZjE0OWRvcXVlUXh5NjY3NDR5LWFOWVAwV3kxU0kxZWVQX0FmQ0FpUXdZeXNMQ1F6QXpEaFpOQ2dFN3NkNEE5WUZjeUhJ?oc=5",
-      "image": "",
-      "source": "Au cœur du CHR",
-      "date": "2026-10-22T14:07:13+00:00",
-      "theme": "Ville"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
       "titre": "Le gestionnaire de Rungis convoite les marchés de gros en Égypte",
       "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
@@ -248,15 +248,6 @@
       "source": "Île-de-France Mobilités",
       "date": "2026-10-20T13:27:01+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
-      "titre": "Les perturbations RATP & SNCF du 19 au 25 octobre à Paris et Île-de-France",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
-      "image": "",
-      "source": "20 Minutes",
-      "date": "2026-10-19T07:00:00+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
@@ -286,6 +277,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "titre": "Les travaux de voirie en cours dans le 13e",
+      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "image": "",
+      "source": "Mairie du 13ᵉ arrondissement de Paris",
+      "date": "2026-10-16T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Vkp1RjIyVm5ZdWttLVVMQWlrdU1Kdktha0hXOWU2Qkkyc180akRkdkk5RzRlUW84NlV4UEJjcUVWUUZfZ1pkT3pyS01kQkhiQzVlVS1fMjJfRlJzSjI4SjVtRWFyLWtOQWxsVkJ4cw?oc=5",
       "titre": "Les Conseils de Quartier",
       "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Vkp1RjIyVm5ZdWttLVVMQWlrdU1Kdktha0hXOWU2Qkkyc180akRkdkk5RzRlUW84NlV4UEJjcUVWUUZfZ1pkT3pyS01kQkhiQzVlVS1fMjJfRlJzSjI4SjVtRWFyLWtOQWxsVkJ4cw?oc=5",
@@ -311,6 +311,24 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
+      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
+      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
+      "image": "",
+      "source": "Ville de Paris",
+      "date": "2026-10-09T07:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHpTaHgtWnVITkNubE9pdmRIWG1CajM5aGRLeGhncFg3T25uRnh5V0FmdkRpYmJIUlpISE8tb2lOTC1VakN1aXhXMVlrWDRLQ2VOcWxBZnNicmV2dFlKQmNtVzRITC1Fc3JZZjhjTmozVUNGOC1vQmp5VlV4MkhqdnVCYVlsd3VnRDhMSWlvcjd3ejlxcTltUXZ1aEdnSWtCeGR3S3lJMG5YNzRTUGRXUDJwTktSSXdFdDEzUFk3b2dwOGlEQjNFU0hZWVpnd18wN2lkbF9n?oc=5",
+      "titre": "Collomb à Rungis, Hulot dans le Var, Le Maire dans le Gers : le gouvernement en opération com'",
+      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHpTaHgtWnVITkNubE9pdmRIWG1CajM5aGRLeGhncFg3T25uRnh5V0FmdkRpYmJIUlpISE8tb2lOTC1VakN1aXhXMVlrWDRLQ2VOcWxBZnNicmV2dFlKQmNtVzRITC1Fc3JZZjhjTmozVUNGOC1vQmp5VlV4MkhqdnVCYVlsd3VnRDhMSWlvcjd3ejlxcTltUXZ1aEdnSWtCeGR3S3lJMG5YNzRTUGRXUDJwTktSSXdFdDEzUFk3b2dwOGlEQjNFU0hZWVpnd18wN2lkbF9n?oc=5",
+      "image": "",
+      "source": "Paris Match",
+      "date": "2026-10-09T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHpqVFM5NzBNRW1Malo2cFl1TFBxVWV1N1dReGM3dkREQnhISjZVWk5ReDVuc1duZjl1ZnFXREpNVzM4S0xkLXJYRExfWVVHOGhjSGVuWmg3d0xNLXZnUmJ0a0liM2E5NFY5WTZrUDNFWEhUZkxHdzktVHR1bDBZRDlIbE1pVVBnQm43V2ZsT0l0ekxlODRBOXQ1QjRVVWdHbXg2SDJfUWN5R3lmQW5kTkNscDI2S1o4N3hYQXFrTEhlckVpNVpGS29CV1h1OXpxWGl4cUNiZE9UeFJCV2ZQUzN6SUxUaUJmOHZjal9sVDc4WV9ReHd3?oc=5",
