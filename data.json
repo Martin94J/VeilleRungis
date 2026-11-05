@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-05T10:09:05.959568+00:00",
+  "maj": "2026-11-05T19:17:43.334063+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -7,12 +7,21 @@
   ],
   "actus": [
     {
+      "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2VRT2hUYjJ2bFlUT0F0Ym15bVh6b3d1WTdxdnI2b0RfWmRZWHNaM0dZdVQxaGdqSmx6Q2NLcV9mMHgwbFBmWWUzUHdaSDBoVXVoM0xvZXpoYUpzSHQyMGdZdEtsbXVyZ2Ftbi03RXRRLVR5U3lIZmVkRUdsb0VBTlhYeTg5UW9mcTluZWlzMW4wSVZOc1JUZEltS2ktQWRKeGM2UXZKa1hzMElaMkItLUlpdlFyODQ2M0tkZDBpRXBRcVhpUjFtTWVYcFRjVzM2djZSY2FHbw?oc=5",
+      "titre": "La Semmaris soumet son projet de plateforme agroalimentaire à 550 M€ à enquête publique",
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2VRT2hUYjJ2bFlUT0F0Ym15bVh6b3d1WTdxdnI2b0RfWmRZWHNaM0dZdVQxaGdqSmx6Q2NLcV9mMHgwbFBmWWUzUHdaSDBoVXVoM0xvZXpoYUpzSHQyMGdZdEtsbXVyZ2Ftbi03RXRRLVR5U3lIZmVkRUdsb0VBTlhYeTg5UW9mcTluZWlzMW4wSVZOc1JUZEltS2ktQWRKeGM2UXZKa1hzMElaMkItLUlpdlFyODQ2M0tkZDBpRXBRcVhpUjFtTWVYcFRjVzM2djZSY2FHbw?oc=5",
+      "image": "",
+      "source": "Le Journal des Entreprises",
+      "date": "2026-11-05T15:36:20+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
       "titre": "À Orly, les parkings sauvages restent ouverts malgré les condamnations",
       "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
       "image": "",
       "source": "horticulture-abadie-pyrenees.com",
-      "date": "2026-11-04T09:50:21+00:00",
+      "date": "2026-11-05T10:51:17+00:00",
       "theme": "Ville"
     },
     {
@@ -22,15 +31,6 @@
       "image": "",
       "source": "DECIDEURS IMMO",
       "date": "2026-11-04T08:57:05+00:00",
-      "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTG5OdW4yMVBXSXJ5TXJZemVpajBRSFhwNjNadXg2b29ZTklteUZrNTRQUDBGT1lLWG1GakNoN3lrTTROMXVKZXJWc1gyd09xcXhVdWRTRWZZNWxKTXIzd2hrYTBucW4xXzhFQ0p6YlJQZVJTdENnTzdIS2o5ZmtOMldTWDYxM3pSWF92bklEbGNmdFFMUlFteWphZkRZWGlHZmJYbWc1RVItWTBqYS1venYzSmc2eGvSAbwBQVVfeXFMTmlEdnhUS005U2JlRWRiWl9xaUtGamJsX2FDdlpXbktYY1RoSU9sRlFwaGJ3YllqN0tJR28xM1ZsUFlabGZzbHg1OGVzbE14ZVpCMWpDeDlWbjd2Y0VLUmZheWl4VFk3ZHlQMXgzOG1OemZ6cGpub0JuOTF3OVV6T19hbWhPOWcxZ2hTYmZnWmc0a0czcl9EdHBFQkxzblp3Rm15UVRtcHdHV3pOYkZBa2QzWVVsMmdQa2lzV1E?oc=5",
-      "titre": "Omer-Decugis : nouvelle année de croissance à deux chiffres en 2025-2026...",
-      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTG5OdW4yMVBXSXJ5TXJZemVpajBRSFhwNjNadXg2b29ZTklteUZrNTRQUDBGT1lLWG1GakNoN3lrTTROMXVKZXJWc1gyd09xcXhVdWRTRWZZNWxKTXIzd2hrYTBucW4xXzhFQ0p6YlJQZVJTdENnTzdIS2o5ZmtOMldTWDYxM3pSWF92bklEbGNmdFFMUlFteWphZkRZWGlHZmJYbWc1RVItWTBqYS1venYzSmc2eGvSAbwBQVVfeXFMTmlEdnhUS005U2JlRWRiWl9xaUtGamJsX2FDdlpXbktYY1RoSU9sRlFwaGJ3YllqN0tJR28xM1ZsUFlabGZzbHg1OGVzbE14ZVpCMWpDeDlWbjd2Y0VLUmZheWl4VFk3ZHlQMXgzOG1OemZ6cGpub0JuOTF3OVV6T19hbWhPOWcxZ2hTYmZnWmc0a0czcl9EdHBFQkxzblp3Rm15UVRtcHdHV3pOYkZBa2QzWVVsMmdQa2lzV1E?oc=5",
-      "image": "",
-      "source": "Fortuneo",
-      "date": "2026-11-03T17:25:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -187,15 +187,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
-      "titre": "Métro, RER, Transilien : les perturbations à Paris du 26 octobre au 1er novembre",
-      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
-      "image": "",
-      "source": "mesinfos",
-      "date": "2026-10-26T08:09:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUpuZTFlcHhNRGZVbDFHdnRXLUhBbF84Vk1PODZmWnlkbXV1OGhXc2tFeEhjaUlhOFpicVFKWHBuUkp1elp3blk5T0MwOWd0Mlh4TlNIS2J5djZRR1YzYmowQm54aGJ6LS1NN0txMnVFclVUWVpGRUVvbUNQUGR6V2FobkxPX01hOWpPaUx4aDJEOXZLU0pLSW11aTdGM3M?oc=5",
       "titre": "Visite des serres de production horticole de Paris à Rungis",
       "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUpuZTFlcHhNRGZVbDFHdnRXLUhBbF84Vk1PODZmWnlkbXV1OGhXc2tFeEhjaUlhOFpicVFKWHBuUkp1elp3blk5T0MwOWd0Mlh4TlNIS2J5djZRR1YzYmowQm54aGJ6LS1NN0txMnVFclVUWVpGRUVvbUNQUGR6V2FobkxPX01hOWpPaUx4aDJEOXZLU0pLSW11aTdGM3M?oc=5",
@@ -219,6 +210,15 @@
       "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
       "image": "",
       "source": "20 Minutes",
+      "date": "2026-10-26T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
+      "titre": "Métro, RER, Transilien : les perturbations à Paris du 26 octobre au 1er novembre",
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
+      "image": "",
+      "source": "mesinfos",
       "date": "2026-10-26T07:00:00+00:00",
       "theme": "Divers"
     },
@@ -274,7 +274,7 @@
       "image": "",
       "source": "20 Minutes",
       "date": "2026-10-19T07:00:00+00:00",
-      "theme": "Divers"
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
@@ -311,15 +311,6 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
-      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "image": "",
-      "source": "Ville de Paris",
-      "date": "2026-10-09T07:00:00+00:00",
-      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHpTaHgtWnVITkNubE9pdmRIWG1CajM5aGRLeGhncFg3T25uRnh5V0FmdkRpYmJIUlpISE8tb2lOTC1VakN1aXhXMVlrWDRLQ2VOcWxBZnNicmV2dFlKQmNtVzRITC1Fc3JZZjhjTmozVUNGOC1vQmp5VlV4MkhqdnVCYVlsd3VnRDhMSWlvcjd3ejlxcTltUXZ1aEdnSWtCeGR3S3lJMG5YNzRTUGRXUDJwTktSSXdFdDEzUFk3b2dwOGlEQjNFU0hZWVpnd18wN2lkbF9n?oc=5",
