@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-06T18:44:30.844344+00:00",
+  "maj": "2026-11-07T00:32:26.716709+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -124,6 +124,15 @@
       "theme": "Ville"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "titre": "Les travaux de voirie en cours dans le 13e",
+      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "image": "",
+      "source": "Mairie du 13ᵉ arrondissement de Paris",
+      "date": "2026-11-02T08:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHBWMTlKUHZsME1KUFdFLVQ5N3dGdUNxRnM4M2JOSUNuZEtWcWpSdnBQNUUxNWZQeVN2RlcxUDJkYnBBN183M2Fjb1JqRkY5N1pkSVZMRkVBSTJaRTNjUFR2Ml9xZmx4Sy0tRExZSHpVR2VBb1dpbUhGeV9vQmh3ZGg5RkVEQWxLbm1GZFZtdzc?oc=5",
       "titre": "Agoralim : la future plateforme de Rungis à Goussainville",
       "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHBWMTlKUHZsME1KUFdFLVQ5N3dGdUNxRnM4M2JOSUNuZEtWcWpSdnBQNUUxNWZQeVN2RlcxUDJkYnBBN183M2Fjb1JqRkY5N1pkSVZMRkVBSTJaRTNjUFR2Ml9xZmx4Sy0tRExZSHpVR2VBb1dpbUhGeV9vQmh3ZGg5RkVEQWxLbm1GZFZtdzc?oc=5",
@@ -151,12 +160,21 @@
       "theme": "Divers"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
+      "titre": "Le Farizon SV, année-modèle 2027, fait ses débuts français à Rungis, testé en conditions réelles de livraison",
+      "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
+      "image": "",
+      "source": "Yahoo Finance France",
+      "date": "2026-10-28T16:37:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
       "titre": "Sur le marché de Rungis, les grossistes incités à trier davantage leurs déchets",
       "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
       "image": "",
       "source": "Les Echos",
-      "date": "2026-10-28T15:25:18+00:00",
+      "date": "2026-10-28T07:00:00+00:00",
       "theme": "Ville"
     },
     {
@@ -196,9 +214,9 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1RjYS0wLThDT0g4M3ZmbmZONjhHMzNPOXN2UkstTmdSVXI2MjZxNkJQckpnUVZKWVFGbmIyZWo2S2RYYm43MDZmYzlBcnRBUVFIUElHT095VVE3ZnkzZE9DQjBHRVJwNHBEVERhVmRyamZ3SENCc0dveWp3eUlNLVNmY2kyS2R6WG5RcTQ0YV9RZ0VldDl2dlhQckpOTFlPYVRHNDhoaDMtaFpSZ0tNTnlR?oc=5",
-      "titre": "Omer-Decugis : accord pour une plateforme à Dunkerque",
-      "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1RjYS0wLThDT0g4M3ZmbmZONjhHMzNPOXN2UkstTmdSVXI2MjZxNkJQckpnUVZKWVFGbmIyZWo2S2RYYm43MDZmYzlBcnRBUVFIUElHT095VVE3ZnkzZE9DQjBHRVJwNHBEVERhVmRyamZ3SENCc0dveWp3eUlNLVNmY2kyS2R6WG5RcTQ0YV9RZ0VldDl2dlhQckpOTFlPYVRHNDhoaDMtaFpSZ0tNTnlR?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENCS3M3Ny0zQ0E0azRhV2JPcmVWTUlVdWk1MVRQMzVyWTU5ZzBnclhIdEpNdDlsa0d4WVlGNVpnbXg4YXprc2xESVpjMXpwbE53TS05dG8tR0dNZk5tTHdXMDNPRmUyNlpPYV9CZ1ZIbmNCU25rSWxXbnJjekM5OTNwRWk3VzJlUVBSZGRyTVpLS0JSOXJ5Q2NnSUtyeGJoVk9GRENHbG9kWUZzU3M1X1FUTQ?oc=5",
+      "titre": "Omer-Decugis : accord pour une plateforme de Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENCS3M3Ny0zQ0E0azRhV2JPcmVWTUlVdWk1MVRQMzVyWTU5ZzBnclhIdEpNdDlsa0d4WVlGNVpnbXg4YXprc2xESVpjMXpwbE53TS05dG8tR0dNZk5tTHdXMDNPRmUyNlpPYV9CZ1ZIbmNCU25rSWxXbnJjekM5OTNwRWk3VzJlUVBSZGRyTVpLS0JSOXJ5Q2NnSUtyeGJoVk9GRENHbG9kWUZzU3M1X1FUTQ?oc=5",
       "image": "",
       "source": "Boursier.com",
       "date": "2026-10-26T07:00:00+00:00",
@@ -210,15 +228,6 @@
       "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
       "image": "",
       "source": "20 Minutes",
-      "date": "2026-10-26T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
-      "titre": "Métro, RER, Transilien : les perturbations à Paris du 26 octobre au 1er novembre",
-      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1NRVmliM0ZUb0ZZeWtNWEwzOVl0MFhQYmp1b2piTlZCMHJId3lLNWFFTWs1R0RUTDVNb1hWNjEzd0d5U0NXemFzQVRYMVg4OG54bWFYTXNpMC1MRmpXRTBpTFBqQVN1OVUzcDJITDBXQVNuNnQ1ZTl0TnQwcWRsdGtaSjBRVldzSVJ0VVVnemZqMWZTaXNoTnlHdzFuN3ZYakt0TDNrV3M4a2VXN2ZiamNlV1hqRm5OSDRwRGhRaw?oc=5",
-      "image": "",
-      "source": "mesinfos",
       "date": "2026-10-26T07:00:00+00:00",
       "theme": "Divers"
     },
@@ -283,6 +292,15 @@
       "image": "",
       "source": "20 Minutes",
       "date": "2026-10-19T07:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
+      "titre": "RATP et SNCF : quelles perturbations dans les transports du 12 au 18 octobre ?",
+      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
+      "image": "",
+      "source": "mesinfos",
+      "date": "2026-10-18T07:00:00+00:00",
       "theme": "Divers"
     },
     {
@@ -302,15 +320,6 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "titre": "Comment les arbres sont-ils entretenus à Paris ?",
-      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGp0OHdZX0tzNEtGVlV2R3VkZlBTSklkLVZPLVh6QUNmYnBKY2F6LUFJX0tOb0FYUFE3TU1XTXMteXNGb1FMLUVhU0g4bVdUUTJYNE5FcTRfV2JRU215SlZGZFcxTEw0VEVpU19IazR6OW4wakZfWERaZ1ZYcllIbFlVZm53dw?oc=5",
-      "image": "",
-      "source": "Ville de Paris",
-      "date": "2026-10-09T07:00:00+00:00",
-      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHpTaHgtWnVITkNubE9pdmRIWG1CajM5aGRLeGhncFg3T25uRnh5V0FmdkRpYmJIUlpISE8tb2lOTC1VakN1aXhXMVlrWDRLQ2VOcWxBZnNicmV2dFlKQmNtVzRITC1Fc3JZZjhjTmozVUNGOC1vQmp5VlV4MkhqdnVCYVlsd3VnRDhMSWlvcjd3ejlxcTltUXZ1aEdnSWtCeGR3S3lJMG5YNzRTUGRXUDJwTktSSXdFdDEzUFk3b2dwOGlEQjNFU0hZWVpnd18wN2lkbF9n?oc=5",
