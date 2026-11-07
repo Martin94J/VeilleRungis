@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-07T17:14:38.875397+00:00",
+  "maj": "2026-11-07T21:17:02.575256+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -97,15 +97,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcF8wTHNkaE9aVDU3Qy02UDFoUU9TWnVRbGk5bnhUcmNNLXZaSkpWT3AzbEZ6Q01WR1diNS1DekFBXzVtVWhwUHRrM3VQRWpKc2ZPbEtKMTVMV21CTWotY2VhMFNocnFkNElJYjlVWEVGSW5oS0l1T3BmWVBMTmFVYzRLZlJiLUdoQlI2ZF9wMjBYYlVYbUZXLVppMlprY1A0V2NJZmNUWGRFeFVScHdXOGJzVXlsX3NRX042RGZLNlJfNnFmV19LTTRhZzNId1QwUmpaX0RMR1NNQUpsa1QySGVEYw?oc=5",
-      "titre": "Un septuagénaire a distribué par mégarde des sucettes au CBD lors de la fête d’Halloween à Imphy",
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcF8wTHNkaE9aVDU3Qy02UDFoUU9TWnVRbGk5bnhUcmNNLXZaSkpWT3AzbEZ6Q01WR1diNS1DekFBXzVtVWhwUHRrM3VQRWpKc2ZPbEtKMTVMV21CTWotY2VhMFNocnFkNElJYjlVWEVGSW5oS0l1T3BmWVBMTmFVYzRLZlJiLUdoQlI2ZF9wMjBYYlVYbUZXLVppMlprY1A0V2NJZmNUWGRFeFVScHdXOGJzVXlsX3NRX042RGZLNlJfNnFmV19LTTRhZzNId1QwUmpaX0RMR1NNQUpsa1QySGVEYw?oc=5",
-      "image": "",
-      "source": "Le Journal du Centre",
-      "date": "2026-11-02T20:49:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnFEdFhaOGdlaWpOdDRMU0FxVm1pWWd3MHdkMm5MaU1CMXBadFpSTWdlYnl6NGhyRG9xd05VSUpzMEtla3NjUHcyankxQ2VMZzREQk0wODlUQ3BQQlE1TXVuamtQVU55dlBqTDA0emRxZlp1VHRmbzR1YmdGa2l1bU5PbTB1QnhmMlZ6ZGJOZGtkVnBqRFRvOWU4ZWRfTE8zczhDOFpBZ0hobmhZRmtuRHJ5TWZNbVh1U3hlMk15cHZYV2QtYzd0U3JNZkpIaFU?oc=5",
       "titre": "Cité de la gastronomie de Rungis : de nouveaux visuels, mais toujours pas d'opérateur culturel",
       "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnFEdFhaOGdlaWpOdDRMU0FxVm1pWWd3MHdkMm5MaU1CMXBadFpSTWdlYnl6NGhyRG9xd05VSUpzMEtla3NjUHcyankxQ2VMZzREQk0wODlUQ3BQQlE1TXVuamtQVU55dlBqTDA0emRxZlp1VHRmbzR1YmdGa2l1bU5PbTB1QnhmMlZ6ZGJOZGtkVnBqRFRvOWU4ZWRfTE8zczhDOFpBZ0hobmhZRmtuRHJ5TWZNbVh1U3hlMk15cHZYV2QtYzd0U3JNZkpIaFU?oc=5",
@@ -160,6 +151,15 @@
       "theme": "Divers"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
+      "titre": "Plusieurs accidents, 450 km de bouchons : circulation infernale sur les routes d’Île-de-France ce vendredi",
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-30T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
       "titre": "Le constructeur chinois Farizon by Geely précise ses ambitions en France avec ses véhicules utilitaires électriques",
       "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
@@ -174,15 +174,6 @@
       "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHpDZnJsdjBlUWlfWHg5bjZyN0hCTUFoY1NkRG1EUE5ycVh0MzNVTlFOSDd2bGlvUFM2QkFUZ0o1T05HYk5tOHhfeGYzdGRVVXJhWkJ0d1NrR1FoN0FwQjRfWmtGRWdneW90SmdRMWVXWmhiZGNWN2RwSXpia1NpQ3NvZUZMRU5UWGJfLVNIQzZvU09YdVdIRnZfdUxqeVpMN1h1ZURRcFZCS1o2ZXRBRg?oc=5",
       "image": "",
       "source": "France Routes",
-      "date": "2026-10-29T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDI5RF9jN1Fza2t2eF9mYmFyNDdYN2xsdXFQWTNJcFg5MWtsa3ZBS3ROd190eDhnXzNDWi1WdVhsYWFYd1VCTTFyRWtJdHFrTi13RW93bGk5djVibENVWFhoSzExWTFwRFU2YjhoY1FOdjVuaUxKd2lBQVY4eURQLU4tU1drTlRYem9RT2JTZjFXdmhfYTI2ZFFTRjRUektXNzhqZzdxTW9VbF96RXh5RHRpcVRSTTM0U2JkSHh0ZktqcDBw?oc=5",
-      "titre": "Rungis : un vide-grenier couvert pour le Téléthon en décembre",
-      "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDI5RF9jN1Fza2t2eF9mYmFyNDdYN2xsdXFQWTNJcFg5MWtsa3ZBS3ROd190eDhnXzNDWi1WdVhsYWFYd1VCTTFyRWtJdHFrTi13RW93bGk5djVibENVWFhoSzExWTFwRFU2YjhoY1FOdjVuaUxKd2lBQVY4eURQLU4tU1drTlRYem9RT2JTZjFXdmhfYTI2ZFFTRjRUektXNzhqZzdxTW9VbF96RXh5RHRpcVRSTTM0U2JkSHh0ZktqcDBw?oc=5",
-      "image": "",
-      "source": "Sortir à Paris",
       "date": "2026-10-29T07:00:00+00:00",
       "theme": "Divers"
     },
@@ -220,6 +211,15 @@
       "image": "",
       "source": "Au cœur du CHR",
       "date": "2026-10-27T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdGFYdzZoaE5OTFZmVDU2aURJd2RfSXBnX180MzhISWkzVjI3M25vSVhld3NIZnRpR0htd2dvaWdvSWE3NmhvVkUxLXdkTTRoeDRIN1lZZGNEa0NqMUktaWhzUVZucm9ub3JPaEZtTXk2YXBzaklFX2VrN28zMFB4Y2ZGdVhOM1Y4aUtMLWRKVWk3NDRGOHlLWGxvbGx4LTFIeUllX00wUHBrTGlHajUtV0Q5VVB6YkFiMGRxMHhZc3k5eHJEWDN0VGxjcWRlUkkzSnRhdVZ2NndFSHh0cjllem5FT2tDbWN5Z3Q3T2pyYVM?oc=5",
+      "titre": "Omer-Decugis & Cie s'associe à la SEMMARIS pour développer une plateforme logistique de 25 000 m² au port de Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdGFYdzZoaE5OTFZmVDU2aURJd2RfSXBnX180MzhISWkzVjI3M25vSVhld3NIZnRpR0htd2dvaWdvSWE3NmhvVkUxLXdkTTRoeDRIN1lZZGNEa0NqMUktaWhzUVZucm9ub3JPaEZtTXk2YXBzaklFX2VrN28zMFB4Y2ZGdVhOM1Y4aUtMLWRKVWk3NDRGOHlLWGxvbGx4LTFIeUllX00wUHBrTGlHajUtV0Q5VVB6YkFiMGRxMHhZc3k5eHJEWDN0VGxjcWRlUkkzSnRhdVZ2NndFSHh0cjllem5FT2tDbWN5Z3Q3T2pyYVM?oc=5",
+      "image": "",
+      "source": "FreshPlaza.fr",
+      "date": "2026-10-26T10:40:00+00:00",
       "theme": "Acteurs"
     },
     {
