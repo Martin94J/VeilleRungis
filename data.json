@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-08T03:43:44.262426+00:00",
+  "maj": "2026-11-08T12:33:29.048155+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -31,7 +31,7 @@
       "image": "",
       "source": "L'Echo Ile-de-France",
       "date": "2026-11-06T13:24:53+00:00",
-      "theme": "Ville"
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaS1SbVBXaWl6MFdMZksyQ0FQc0xhTnFyTWJnT2F0X3hENWpKLTdlVW0zZU9Xay04ZDlXempFeVlzNFdvSk1YckJNM2xIb0tVV0oxTzdkWGdxZy0zWWtHekIwV0lNT1VubWd3WndDM3FwczVYMG5ITUFZQS00U09EZUVxRDB3SWYzY0pDbW51LW9hb3NXcERETXc5VnB5UU9UR18yWEJoMXBLM19FX0xzZEUzbFlOcjEwMnpv?oc=5",
@@ -88,6 +88,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQandlYjBDR1lZamFCY3FBNW9XX2RJVUdBVHdwbjIzMUxtY1NWa0xZMnFCWWxiMU5YZS1fcndEdFhnWmJOWFdUNUQyanNEaFVyOWJWQmt0cVMyUks1djRsUTFCLXE0eUZlSUxYdk1oN3JGRjhHZlFlM19oc1YxaFJ4bm9pZzFGaXVqVHBDUVVLRU5fMkxCSzRkMHJlNEVuQk9xZFlQS3B5ZE5BUTNrLVhhN3RIcFhHV0YwUWNEOUQtdUVzTEdFNno2NTZzbENIY1ZjdEdqSk1lSDhmckNVckFHdkczU0dRU2VHUHlad3VkNDBobEZXbldNTlhsbkhyTWhfbUNnOHc5NA?oc=5",
+      "titre": "Val-de-Marne: l'A86 fermée dans les deux sens pour une durée indéterminée à cause d'un incident dans le tunnel de Thiais",
+      "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQandlYjBDR1lZamFCY3FBNW9XX2RJVUdBVHdwbjIzMUxtY1NWa0xZMnFCWWxiMU5YZS1fcndEdFhnWmJOWFdUNUQyanNEaFVyOWJWQmt0cVMyUks1djRsUTFCLXE0eUZlSUxYdk1oN3JGRjhHZlFlM19oc1YxaFJ4bm9pZzFGaXVqVHBDUVVLRU5fMkxCSzRkMHJlNEVuQk9xZFlQS3B5ZE5BUTNrLVhhN3RIcFhHV0YwUWNEOUQtdUVzTEdFNno2NTZzbENIY1ZjdEdqSk1lSDhmckNVckFHdkczU0dRU2VHUHlad3VkNDBobEZXbldNTlhsbkhyTWhfbUNnOHc5NA?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-11-03T15:14:50+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm9HVjRzZldEZ0FQd1hNV2tRSW54Ul95eW93Vy0wdjNrXzRYeHNQblJMeWpZS3RIVjVHZ0MwM1hjb1NyV3dIWXFNZjYtb0pZb2RkcUZCSlBuSjFQTFJoRlZCUnJhT05BaHpCR3JjWG5fVnlFSGwxUXJXT0RnMG5Xc0w5S1RTM2p0YkdHekpTZ1BpdEVwbEo5V0xIVlFOaVdxbGU1dkJjYjdwa2hIb3dzb2xfcWhBaTJLb09uN1QzcjA?oc=5",
       "titre": "Après un changement d’actionnariat, So Eco cède deux établissements",
       "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm9HVjRzZldEZ0FQd1hNV2tRSW54Ul95eW93Vy0wdjNrXzRYeHNQblJMeWpZS3RIVjVHZ0MwM1hjb1NyV3dIWXFNZjYtb0pZb2RkcUZCSlBuSjFQTFJoRlZCUnJhT05BaHpCR3JjWG5fVnlFSGwxUXJXT0RnMG5Xc0w5S1RTM2p0YkdHekpTZ1BpdEVwbEo5V0xIVlFOaVdxbGU1dkJjYjdwa2hIb3dzb2xfcWhBaTJLb09uN1QzcjA?oc=5",
@@ -104,6 +113,15 @@
       "source": "CoStar",
       "date": "2026-11-03T05:54:00+00:00",
       "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcF8wTHNkaE9aVDU3Qy02UDFoUU9TWnVRbGk5bnhUcmNNLXZaSkpWT3AzbEZ6Q01WR1diNS1DekFBXzVtVWhwUHRrM3VQRWpKc2ZPbEtKMTVMV21CTWotY2VhMFNocnFkNElJYjlVWEVGSW5oS0l1T3BmWVBMTmFVYzRLZlJiLUdoQlI2ZF9wMjBYYlVYbUZXLVppMlprY1A0V2NJZmNUWGRFeFVScHdXOGJzVXlsX3NRX042RGZLNlJfNnFmV19LTTRhZzNId1QwUmpaX0RMR1NNQUpsa1QySGVEYw?oc=5",
+      "titre": "Un septuagénaire a distribué par mégarde des sucettes au CBD lors de la fête d’Halloween à Imphy",
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcF8wTHNkaE9aVDU3Qy02UDFoUU9TWnVRbGk5bnhUcmNNLXZaSkpWT3AzbEZ6Q01WR1diNS1DekFBXzVtVWhwUHRrM3VQRWpKc2ZPbEtKMTVMV21CTWotY2VhMFNocnFkNElJYjlVWEVGSW5oS0l1T3BmWVBMTmFVYzRLZlJiLUdoQlI2ZF9wMjBYYlVYbUZXLVppMlprY1A0V2NJZmNUWGRFeFVScHdXOGJzVXlsX3NRX042RGZLNlJfNnFmV19LTTRhZzNId1QwUmpaX0RMR1NNQUpsa1QySGVEYw?oc=5",
+      "image": "",
+      "source": "Le Journal du Centre",
+      "date": "2026-11-02T20:49:00+00:00",
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnFEdFhaOGdlaWpOdDRMU0FxVm1pWWd3MHdkMm5MaU1CMXBadFpSTWdlYnl6NGhyRG9xd05VSUpzMEtla3NjUHcyankxQ2VMZzREQk0wODlUQ3BQQlE1TXVuamtQVU55dlBqTDA0emRxZlp1VHRmbzR1YmdGa2l1bU5PbTB1QnhmMlZ6ZGJOZGtkVnBqRFRvOWU4ZWRfTE8zczhDOFpBZ0hobmhZRmtuRHJ5TWZNbVh1U3hlMk15cHZYV2QtYzd0U3JNZkpIaFU?oc=5",
@@ -133,15 +151,6 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zMFhmSHAzaXBoakktZ3ZaWnJMaE1ycEFwaEdwQWZfX000b21xQXB4NGdLZzNQMV9Fa3g1ODdfRGhVbXhBWU0ySnd5cTVQQnp1OVktdkxJU3diazRuT1ptcnRZakhyWDRPNXFCcFRyQUdoYnM?oc=5",
-      "titre": "Programme nature à Paris : des balades, ateliers et sorties gratuites pour tous",
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zMFhmSHAzaXBoakktZ3ZaWnJMaE1ycEFwaEdwQWZfX000b21xQXB4NGdLZzNQMV9Fa3g1ODdfRGhVbXhBWU0ySnd5cTVQQnp1OVktdkxJU3diazRuT1ptcnRZakhyWDRPNXFCcFRyQUdoYnM?oc=5",
-      "image": "",
-      "source": "Ville de Paris",
-      "date": "2026-11-02T08:00:00+00:00",
-      "theme": "Ville"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
       "titre": "Les travaux de voirie en cours dans le 13e",
       "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
@@ -157,16 +166,7 @@
       "image": "",
       "source": "laclepublique.fr",
       "date": "2026-10-31T23:11:39+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
-      "titre": "Plusieurs accidents, 450 km de bouchons : circulation infernale sur les routes d’Île-de-France ce vendredi",
-      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-30T07:00:00+00:00",
-      "theme": "Divers"
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
@@ -259,15 +259,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNmJaZmNrYTY2dnI1bXFrMWRGejFYVkV6TXBhY1RGdjljUnUyTGtRRHRTZjBPbGMtdHpqQ3RXU2ZWOURnN04tTVIzRmlDcUxUWkwtZmE3WTRxX004SDN5bHNyX1VydFBUclBmN3VfUUI0VktDU1N5eXlFVGloRW5iMmowa1BiWm9ON2Y0VEdDX1pXdWthZmNZVmxzeWozQVBvNzV3S0pKUG5Bb3FyN3ZRUl9hZW1ZUVhwWkxJa2hzOWptOEFVLVo1WkVMMkZyWkdOU1hvZmZnRG8tUFVDcUNLNWNwX0hFOFJyRThlUW9hTDA3R1JEMG5rLXZUclFuMWtRczNndWg5S1lZbHRyOC0tbmRScWg1dUdSLWxqdFU0U0Z1SG0xSlZ0blVYSjhaQ19UMXdXeTBTT1dKVV9iOG9wSXNmLUd5bGpybW83ZDc4VjE1bUxlcGxWWUZ4dWFyQjNZVnByT3RTYUR3S0VoT3owT1RwQkltYXFlNm9KN09Ld1RIQ2R5c1RLRlZZMNIBkANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP?oc=5",
-      "titre": "OMER-DECUGIS & CIE : Omer-Decugis et Cie s'associe avec la SEMMARIS pour la réalisation de sa future plateform",
-      "lien": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNmJaZmNrYTY2dnI1bXFrMWRGejFYVkV6TXBhY1RGdjljUnUyTGtRRHRTZjBPbGMtdHpqQ3RXU2ZWOURnN04tTVIzRmlDcUxUWkwtZmE3WTRxX004SDN5bHNyX1VydFBUclBmN3VfUUI0VktDU1N5eXlFVGloRW5iMmowa1BiWm9ON2Y0VEdDX1pXdWthZmNZVmxzeWozQVBvNzV3S0pKUG5Bb3FyN3ZRUl9hZW1ZUVhwWkxJa2hzOWptOEFVLVo1WkVMMkZyWkdOU1hvZmZnRG8tUFVDcUNLNWNwX0hFOFJyRThlUW9hTDA3R1JEMG5rLXZUclFuMWtRczNndWg5S1lZbHRyOC0tbmRScWg1dUdSLWxqdFU0U0Z1SG0xSlZ0blVYSjhaQ19UMXdXeTBTT1dKVV9iOG9wSXNmLUd5bGpybW83ZDc4VjE1bUxlcGxWWUZ4dWFyQjNZVnByT3RTYUR3S0VoT3owT1RwQkltYXFlNm9KN09Ld1RIQ2R5c1RLRlZZMNIBkANBVV95cUxQdmxvVlVWSF9PbmRzQndxMzRTMHBrR3kwa0VldzI5dkJ2MXdIbGNvUUtDYUdMY2JKV3YyV1RaN0pQVGNaN01HZW5MT1p4Uk1HRTY1cHYzanRkTWdud3pNY2hfblNFb2NWaFQxOUxSclctWTBDRnlOTG9OdktPcXNSOHJzNDBnbTduZ250UWFKeGFfdXJPdUUxQUR6NndQNHkxM2hydnhnRXNVMTl1RkRNWklGWjVMWFlic2p5YlVPYnZXa0RGQ2VLWk1iRDVsb0pacExSc2FaS1JrOXpjYkJleFMzZWJMSnphakYwWWZGQTg1cGZ3eE9XTlJpN2xzTjFIUFNiWjBoUm1rdlB1OS1mUDBoYk00ZjBpOHJGcVBDNGUzUTdKaGZnSG1yT2ZkX1hWTHRDUXFXTkZ5YUhHU191N1pxUFJTdy1yQ1cydmNGUjE5d01BcmlCeGM5RFZyQ3BxSThqeFZDblFwdk94QUlmR0pONF9WTkJUOTNtYnJKV2lyRmVsTEFjcHlJNkQ4WHdP?oc=5",
-      "image": "",
-      "source": "Boursorama",
-      "date": "2026-10-26T07:00:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
       "titre": "Perturbations SNCF & RATP à prévoir à Paris et Île-de-France (26/10-1/11)",
       "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzlRZzA4NmNGMVd5QXhMQmlPWFRlQ2dDZTduaXpnRlJZWDg5TFozU1I5d05iVFBST0d4NXBwTUw3TTdzM0IxekNFRUYtVmVsTTZjUG4tWUdJaXpkeEgtay0wa2xMcHhjWUhrdnFpaWk5RGEtb0hPMEZyc09RRlF6OUtCbzhuSUhON3R6NWw2QXk5Ny1KRXRYSExmSGRSdXE0Tl93UE5PMA?oc=5",
@@ -302,6 +293,15 @@
       "source": "africabusinessplus.com",
       "date": "2026-10-21T07:00:00+00:00",
       "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMEFFSlVkcUJXenZkMDFPa094YUFjclBTLVZ2OGRQUEd6dUZYa05ZZW5Oc1UwS3Q3R1hjcmNtbnR1aHZKUkNTZWtPLTAza3BIalEtY1JiRUg3WFUzMi1lZm0zaEY2ZDhMdWhsOGVFYTdycjBRVURGcFpsRGNtaHExNEltd2FQbU1UT1E0WW9kVU5LbDlPa0l6QW5vd29MWlNJLVhCQ21nVmkzdmw2Q3VnQi1LU2JLLVNYX0JjOW9OT1luSzVFZXg2WmtkVQ?oc=5",
+      "titre": "Edenred dépasse les attentes au T3 avec l'activité \"Mobilité\"",
+      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMEFFSlVkcUJXenZkMDFPa094YUFjclBTLVZ2OGRQUEd6dUZYa05ZZW5Oc1UwS3Q3R1hjcmNtbnR1aHZKUkNTZWtPLTAza3BIalEtY1JiRUg3WFUzMi1lZm0zaEY2ZDhMdWhsOGVFYTdycjBRVURGcFpsRGNtaHExNEltd2FQbU1UT1E0WW9kVU5LbDlPa0l6QW5vd29MWlNJLVhCQ21nVmkzdmw2Q3VnQi1LU2JLLVNYX0JjOW9OT1luSzVFZXg2WmtkVQ?oc=5",
+      "image": "",
+      "source": "Investir Les Echos",
+      "date": "2026-10-21T07:00:00+00:00",
+      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
@@ -347,15 +347,6 @@
       "source": "Toute la Franchise",
       "date": "2026-10-10T07:00:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHpTaHgtWnVITkNubE9pdmRIWG1CajM5aGRLeGhncFg3T25uRnh5V0FmdkRpYmJIUlpISE8tb2lOTC1VakN1aXhXMVlrWDRLQ2VOcWxBZnNicmV2dFlKQmNtVzRITC1Fc3JZZjhjTmozVUNGOC1vQmp5VlV4MkhqdnVCYVlsd3VnRDhMSWlvcjd3ejlxcTltUXZ1aEdnSWtCeGR3S3lJMG5YNzRTUGRXUDJwTktSSXdFdDEzUFk3b2dwOGlEQjNFU0hZWVpnd18wN2lkbF9n?oc=5",
-      "titre": "Collomb à Rungis, Hulot dans le Var, Le Maire dans le Gers : le gouvernement en opération com'",
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHpTaHgtWnVITkNubE9pdmRIWG1CajM5aGRLeGhncFg3T25uRnh5V0FmdkRpYmJIUlpISE8tb2lOTC1VakN1aXhXMVlrWDRLQ2VOcWxBZnNicmV2dFlKQmNtVzRITC1Fc3JZZjhjTmozVUNGOC1vQmp5VlV4MkhqdnVCYVlsd3VnRDhMSWlvcjd3ejlxcTltUXZ1aEdnSWtCeGR3S3lJMG5YNzRTUGRXUDJwTktSSXdFdDEzUFk3b2dwOGlEQjNFU0hZWVpnd18wN2lkbF9n?oc=5",
-      "image": "",
-      "source": "Paris Match",
-      "date": "2026-10-09T07:00:00+00:00",
-      "theme": "Ville"
     }
   ],
   "pages": [
