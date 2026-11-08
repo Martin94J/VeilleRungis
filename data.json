@@ -1,11 +1,20 @@
 {
-  "maj": "2026-11-08T12:33:29.048155+00:00",
+  "maj": "2026-11-08T19:15:37.857257+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JXdzB6aFYzNG9CaXp0VExRNmU1TWtVVkpOUlhTazhVbVJ2YWpZbml4VXBLOVpWN1JiOENHYzRHNUxUcWlSaVBzN0FWZ0ZzR21jQjU1ai10ZEtRZjNONF9WVDlndTJnZUlfU29aMXg1RHNjdDNjWGs3VWF1UVNSdW1JSUJlQW9rYzUzZGZ4NjJBUnBxb0g0ZEw5VF9CYmdtRzFwcWVoWm5DNWdiQ1RCbjlxUQ?oc=5",
+      "titre": "Transports en Île-de-France : quelles perturbations du 9 au 15 novembre ?",
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JXdzB6aFYzNG9CaXp0VExRNmU1TWtVVkpOUlhTazhVbVJ2YWpZbml4VXBLOVpWN1JiOENHYzRHNUxUcWlSaVBzN0FWZ0ZzR21jQjU1ai10ZEtRZjNONF9WVDlndTJnZUlfU29aMXg1RHNjdDNjWGs3VWF1UVNSdW1JSUJlQW9rYzUzZGZ4NjJBUnBxb0g0ZEw5VF9CYmdtRzFwcWVoWm5DNWdiQ1RCbjlxUQ?oc=5",
+      "image": "",
+      "source": "mesinfos",
+      "date": "2026-11-08T17:44:00+00:00",
+      "theme": "Divers"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEdaR3ZFZ0duZFhqQjc3aW1KdHhnVXFGbzB0SHl0UXpuaVQ2cHI1NmFvUVlLbDhvV1dYUUlmZUt3ZW9kalVhbzd4NnFQMnF1STdldUxDYUdUSkJhcFhEYUhpNXF5eVVuVnI0dkZZQ1Nob0tNMFE5cnlSMHdfZ0E5SWd1RTlRRFlFaGdnRUNvcExOM3ZFUWt3Q01wd0c?oc=5",
       "titre": "Emploi et handicap : le commerce de gros mobilisé à Rungis",
@@ -151,15 +160,6 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
-      "titre": "Les travaux de voirie en cours dans le 13e",
-      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
-      "image": "",
-      "source": "Mairie du 13ᵉ arrondissement de Paris",
-      "date": "2026-11-02T08:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHBWMTlKUHZsME1KUFdFLVQ5N3dGdUNxRnM4M2JOSUNuZEtWcWpSdnBQNUUxNWZQeVN2RlcxUDJkYnBBN183M2Fjb1JqRkY5N1pkSVZMRkVBSTJaRTNjUFR2Ml9xZmx4Sy0tRExZSHpVR2VBb1dpbUhGeV9vQmh3ZGg5RkVEQWxLbm1GZFZtdzc?oc=5",
       "titre": "Agoralim : la future plateforme de Rungis à Goussainville",
       "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHBWMTlKUHZsME1KUFdFLVQ5N3dGdUNxRnM4M2JOSUNuZEtWcWpSdnBQNUUxNWZQeVN2RlcxUDJkYnBBN183M2Fjb1JqRkY5N1pkSVZMRkVBSTJaRTNjUFR2Ml9xZmx4Sy0tRExZSHpVR2VBb1dpbUhGeV9vQmh3ZGg5RkVEQWxLbm1GZFZtdzc?oc=5",
@@ -295,15 +295,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMEFFSlVkcUJXenZkMDFPa094YUFjclBTLVZ2OGRQUEd6dUZYa05ZZW5Oc1UwS3Q3R1hjcmNtbnR1aHZKUkNTZWtPLTAza3BIalEtY1JiRUg3WFUzMi1lZm0zaEY2ZDhMdWhsOGVFYTdycjBRVURGcFpsRGNtaHExNEltd2FQbU1UT1E0WW9kVU5LbDlPa0l6QW5vd29MWlNJLVhCQ21nVmkzdmw2Q3VnQi1LU2JLLVNYX0JjOW9OT1luSzVFZXg2WmtkVQ?oc=5",
-      "titre": "Edenred dépasse les attentes au T3 avec l'activité \"Mobilité\"",
-      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMEFFSlVkcUJXenZkMDFPa094YUFjclBTLVZ2OGRQUEd6dUZYa05ZZW5Oc1UwS3Q3R1hjcmNtbnR1aHZKUkNTZWtPLTAza3BIalEtY1JiRUg3WFUzMi1lZm0zaEY2ZDhMdWhsOGVFYTdycjBRVURGcFpsRGNtaHExNEltd2FQbU1UT1E0WW9kVU5LbDlPa0l6QW5vd29MWlNJLVhCQ21nVmkzdmw2Q3VnQi1LU2JLLVNYX0JjOW9OT1luSzVFZXg2WmtkVQ?oc=5",
-      "image": "",
-      "source": "Investir Les Echos",
-      "date": "2026-10-21T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
       "titre": "Pont Niki de Saint Phalle : une portion structurante du site propre du Tzen 5 est livrée aux Ardoines",
       "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
@@ -313,20 +304,20 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
+      "titre": "Les perturbations RATP & SNCF du 19 au 25 octobre à Paris et Île-de-France",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
+      "image": "",
+      "source": "20 Minutes",
+      "date": "2026-10-19T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
       "titre": "RATP et SNCF : quelles perturbations dans les transports du 12 au 18 octobre ?",
       "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
       "image": "",
       "source": "mesinfos",
-      "date": "2026-10-18T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "image": "",
-      "source": "Actu.fr",
       "date": "2026-10-18T07:00:00+00:00",
       "theme": "Divers"
     },
