@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-08T19:15:37.857257+00:00",
+  "maj": "2026-11-09T00:24:10.457536+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -7,12 +7,30 @@
   ],
   "actus": [
     {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3docDd1TVNENHJ2bE1GWVRLZi1iSmJQTU9DRU1HZnl3bE9rbWctdEdoQW9YX09QRTNLeVRnNHBmT1NuQWFsdVBnTlRLYjVSMVZxUENEM1JZai1GR2pPdTlrVGJkX2J6NE0yY2d5TFp6cm53QUg5OHVoM3VyUEczc2s0YVdDZERkWWJUSmdaU05JNU1aOWdGdjFmb0ZmR0VkTy1ZVGRNTQ?oc=5",
+      "titre": "Les perturbations RATP et SNCF cette semaine à Paris et Île-de-France",
+      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3docDd1TVNENHJ2bE1GWVRLZi1iSmJQTU9DRU1HZnl3bE9rbWctdEdoQW9YX09QRTNLeVRnNHBmT1NuQWFsdVBnTlRLYjVSMVZxUENEM1JZai1GR2pPdTlrVGJkX2J6NE0yY2d5TFp6cm53QUg5OHVoM3VyUEczc2s0YVdDZERkWWJUSmdaU05JNU1aOWdGdjFmb0ZmR0VkTy1ZVGRNTQ?oc=5",
+      "image": "",
+      "source": "20 Minutes",
+      "date": "2026-11-09T00:10:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JXdzB6aFYzNG9CaXp0VExRNmU1TWtVVkpOUlhTazhVbVJ2YWpZbml4VXBLOVpWN1JiOENHYzRHNUxUcWlSaVBzN0FWZ0ZzR21jQjU1ai10ZEtRZjNONF9WVDlndTJnZUlfU29aMXg1RHNjdDNjWGs3VWF1UVNSdW1JSUJlQW9rYzUzZGZ4NjJBUnBxb0g0ZEw5VF9CYmdtRzFwcWVoWm5DNWdiQ1RCbjlxUQ?oc=5",
       "titre": "Transports en Île-de-France : quelles perturbations du 9 au 15 novembre ?",
       "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JXdzB6aFYzNG9CaXp0VExRNmU1TWtVVkpOUlhTazhVbVJ2YWpZbml4VXBLOVpWN1JiOENHYzRHNUxUcWlSaVBzN0FWZ0ZzR21jQjU1ai10ZEtRZjNONF9WVDlndTJnZUlfU29aMXg1RHNjdDNjWGs3VWF1UVNSdW1JSUJlQW9rYzUzZGZ4NjJBUnBxb0g0ZEw5VF9CYmdtRzFwcWVoWm5DNWdiQ1RCbjlxUQ?oc=5",
       "image": "",
       "source": "mesinfos",
       "date": "2026-11-08T17:44:00+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNREdwcnlVbHJYRlZWdi1kM1RqVThlY2pVMXhBTjctNERRSFd4T3FfbnRjTUNxLVFkU0w1OW9DcWN5OG1PQi1mYXdoMmVoWEw1MS00cFhTQW8xd3NBNklCQjFRZGpvU1l6TU1UZjVhekRMejVTVGNFRUlsVUt4RWFuVWgwLTZqTkxWOG5LUXhNMGJEVGRtcTI5YjNJVmhCbXZBNkFRUnpSbEd3enNZVDFaQ3VUd0pCRUlkTXBvRFdESnJHR1A2MXBIeEFsY211WFBYRVFUS0lIWkdaN0J0aFlmT3JNMVFPVEF3Vkw4ZUZ6Q0FyUk0?oc=5",
+      "titre": "RATP et SNCF. Les perturbations attendues dans les transports à Paris et en Île-de-France cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNREdwcnlVbHJYRlZWdi1kM1RqVThlY2pVMXhBTjctNERRSFd4T3FfbnRjTUNxLVFkU0w1OW9DcWN5OG1PQi1mYXdoMmVoWEw1MS00cFhTQW8xd3NBNklCQjFRZGpvU1l6TU1UZjVhekRMejVTVGNFRUlsVUt4RWFuVWgwLTZqTkxWOG5LUXhNMGJEVGRtcTI5YjNJVmhCbXZBNkFRUnpSbEd3enNZVDFaQ3VUd0pCRUlkTXBvRFdESnJHR1A2MXBIeEFsY211WFBYRVFUS0lIWkdaN0J0aFlmT3JNMVFPVEF3Vkw4ZUZ6Q0FyUk0?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-11-08T16:12:01+00:00",
       "theme": "Divers"
     },
     {
@@ -299,27 +317,9 @@
       "titre": "Pont Niki de Saint Phalle : une portion structurante du site propre du Tzen 5 est livrée aux Ardoines",
       "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnBtSlpRY1kteGRqMTJteFNYYXljQnF6NTN4SmxmYk5KZk1GbGpaQ2xtS3piWElEVGVMZE1HWXMwRFFPZzh6U245SFdteVlKQW53dlR0ekc5aDc1SmNqSDdCY0tPN1NXcjJhbktxQUZxRnpERWpNbW9qOUVCZGVLOEI1eThTZE51aWwtenk1NnFQQWJYaF8tYmt4Ykc5NlhDRG5naC02T2NiOFl1dnc?oc=5",
       "image": "",
-      "source": "Île-de-France Mobilités",
+      "source": "| Île-de-France Mobilités",
       "date": "2026-10-20T07:00:00+00:00",
       "theme": "Acteurs"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
-      "titre": "Les perturbations RATP & SNCF du 19 au 25 octobre à Paris et Île-de-France",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
-      "image": "",
-      "source": "20 Minutes",
-      "date": "2026-10-19T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
-      "titre": "RATP et SNCF : quelles perturbations dans les transports du 12 au 18 octobre ?",
-      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEYwQUFnVHhqS1hxRk05S3k4QWtCRmkySGRwcHA2Rk9lbmcyTm1DdTRzcHUzTWdGNl9DamVSamhDcGI3Y0J2R3V2SzhYcE83Z3RsSDZYYXpSV0VFMDBTVkhMWjI4Y2NmSXU0cHM5UWNSYXpIb19FQi1qVzlvd0wwakRJeDB0clNqbFd0a3VaeGNXdnFwU1BlaG9Pc2U0TzU3Nk1hM2xLRjFZc1NydG5NNGdBWEV3QW5kR3Jrcg?oc=5",
-      "image": "",
-      "source": "mesinfos",
-      "date": "2026-10-18T07:00:00+00:00",
-      "theme": "Divers"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9va2E5RDBER3NaWEtYV29ncnM4M1pkdG1FMmd2YVBYU1Y0Z1YwV3pod0Jfa0hSTXVCZHI3UGFvMFpNV05nNXREV0twOXpmcU5oOUlCWlluMFhGZm55NlhyVlFCWldTRUU1RUZOVExocDMza1QyM1VsNjFpQWZQTEdjYkxveWdseGlLLUNuME5sbU9QOXRSTzd1NWtfZXh1MThMNlByMVhlZWNKd3dEY2I3alRreUc5WE94NnRDWVU1VTNITW9wNU5tSGc0YUJlZmc?oc=5",
