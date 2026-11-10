@@ -1,11 +1,29 @@
 {
-  "maj": "2026-11-10T14:03:30.268906+00:00",
+  "maj": "2026-11-10T21:08:12.305085+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHgyRW5palJKMTdGNnJEZVNzY2JLQkFaTFhER2hEUmJGcEttdHBzRnRkaHNWTlF5aUJBRVRjN2stVlBjSHNsd3V0NTlzLUNPOVFpbjRFQW9oZGVhTzdwVEhMTnY0UWYySU5PTWY4ZWRzNmNJZmFMWGVBOFE5NWRnUV93OTRXSndNR0MtMXdscTYyN1c0UzhxQTlBV2xmbE51M1gwSWhJVGhBMUY4QVJpR3NkNVdjTHZKQUdCSXA2aDhRVDFsMHc?oc=5",
+      "titre": "Une nouvelle enquête publique pour le futur Rungis du Val-d'Oise",
+      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHgyRW5palJKMTdGNnJEZVNzY2JLQkFaTFhER2hEUmJGcEttdHBzRnRkaHNWTlF5aUJBRVRjN2stVlBjSHNsd3V0NTlzLUNPOVFpbjRFQW9oZGVhTzdwVEhMTnY0UWYySU5PTWY4ZWRzNmNJZmFMWGVBOFE5NWRnUV93OTRXSndNR0MtMXdscTYyN1c0UzhxQTlBV2xmbE51M1gwSWhJVGhBMUY4QVJpR3NkNVdjTHZKQUdCSXA2aDhRVDFsMHc?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-11-10T19:10:01+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUVaeFlhdE9Ock1IUzZZYVZGa1IwZ0g3Nmp6VnRWVGtibEFIQU9BeEhVV3kwZk9iZ1ZFTUp3RWxfaGZTRlBRTlRIOG1hX2RXMFc1LTRib0RQRHo4OE9ibHFhcjRVeW02eDV3VWxUUGVzZWo3SGpwaDJXZnhNaUF3Mm1kMVBRUGJjRWVFMVVlZnZfNzMtQXRoOU1TMzJOcElMRkJWRnBHMEt5X1hvV2c?oc=5",
+      "titre": "LADAPT et l’UNCGFL passent à l’action sur le handicap et l’emploi ce mois de novembre",
+      "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUVaeFlhdE9Ock1IUzZZYVZGa1IwZ0g3Nmp6VnRWVGtibEFIQU9BeEhVV3kwZk9iZ1ZFTUp3RWxfaGZTRlBRTlRIOG1hX2RXMFc1LTRib0RQRHo4OE9ibHFhcjRVeW02eDV3VWxUUGVzZWo3SGpwaDJXZnhNaUF3Mm1kMVBRUGJjRWVFMVVlZnZfNzMtQXRoOU1TMzJOcElMRkJWRnBHMEt5X1hvV2c?oc=5",
+      "image": "",
+      "source": "www.mediavenir.fr",
+      "date": "2026-11-10T18:02:31+00:00",
+      "theme": "Acteurs"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHVyQmRXYUx2X2hucU9TRUNJMXU5WHJoVGxFVDFTcUw3RzMxc19iSXJ6TVBpOVZZRUprLXZjOVpkaWZDMGVrWDNvZDJHYm5ocktnSWZKNEg0bDc0QnVMak1qTnJmU3hDdlI0bkVxZ1Z0MUQ1RElWRnRXdldJOVZtQ29HM0VwR0E3b2Z1bFlOb2xGN2EzZ1dVOGxVbnZlN2ZEdzVnTEFycjl0WHhYbmdQTzh4dw?oc=5",
       "titre": "Rungis : Légumes de France va dessiner les perspectives à horizon 2046",
@@ -34,12 +52,39 @@
       "theme": "Divers"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNREdwcnlVbHJYRlZWdi1kM1RqVThlY2pVMXhBTjctNERRSFd4T3FfbnRjTUNxLVFkU0w1OW9DcWN5OG1PQi1mYXdoMmVoWEw1MS00cFhTQW8xd3NBNklCQjFRZGpvU1l6TU1UZjVhekRMejVTVGNFRUlsVUt4RWFuVWgwLTZqTkxWOG5LUXhNMGJEVGRtcTI5YjNJVmhCbXZBNkFRUnpSbEd3enNZVDFaQ3VUd0pCRUlkTXBvRFdESnJHR1A2MXBIeEFsY211WFBYRVFUS0lIWkdaN0J0aFlmT3JNMVFPVEF3Vkw4ZUZ6Q0FyUk0?oc=5",
+      "titre": "RATP et SNCF. Les perturbations attendues dans les transports à Paris et en Île-de-France cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNREdwcnlVbHJYRlZWdi1kM1RqVThlY2pVMXhBTjctNERRSFd4T3FfbnRjTUNxLVFkU0w1OW9DcWN5OG1PQi1mYXdoMmVoWEw1MS00cFhTQW8xd3NBNklCQjFRZGpvU1l6TU1UZjVhekRMejVTVGNFRUlsVUt4RWFuVWgwLTZqTkxWOG5LUXhNMGJEVGRtcTI5YjNJVmhCbXZBNkFRUnpSbEd3enNZVDFaQ3VUd0pCRUlkTXBvRFdESnJHR1A2MXBIeEFsY211WFBYRVFUS0lIWkdaN0J0aFlmT3JNMVFPVEF3Vkw4ZUZ6Q0FyUk0?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-11-08T16:12:01+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbkdZM1VGRVp5SndKRmVUejctNjQwODFZeE40X1o4THJOMDVzTm9oa25LS3JOc0JaMjFtNnd0NjY2WGhxU2I2bFBsODgxUUhtQTZfUjJmZDhGQlhhUm1EazgwSlBVNFB4TWp5bEdJdjdSb25qRFZvT0loUWhtSmlLaE5tSmhybE9PM3JCeGpSOXpHQUVGTGNmaTM5SjlRSlFOMG9EdEZEWlJ1Y20xN3dCdTA2ZGxJZUMyRFdWalVPdmZzY1BBZG90ZGJMQUhpdXZUc3oxaQ?oc=5",
+      "titre": "Transports à Paris le 11 novembre 2026 : les travaux et perturbations prévus",
+      "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbkdZM1VGRVp5SndKRmVUejctNjQwODFZeE40X1o4THJOMDVzTm9oa25LS3JOc0JaMjFtNnd0NjY2WGhxU2I2bFBsODgxUUhtQTZfUjJmZDhGQlhhUm1EazgwSlBVNFB4TWp5bEdJdjdSb25qRFZvT0loUWhtSmlLaE5tSmhybE9PM3JCeGpSOXpHQUVGTGNmaTM5SjlRSlFOMG9EdEZEWlJ1Y20xN3dCdTA2ZGxJZUMyRFdWalVPdmZzY1BBZG90ZGJMQUhpdXZUc3oxaQ?oc=5",
+      "image": "",
+      "source": "Sortir à Paris",
+      "date": "2026-11-08T08:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEdaR3ZFZ0duZFhqQjc3aW1KdHhnVXFGbzB0SHl0UXpuaVQ2cHI1NmFvUVlLbDhvV1dYUUlmZUt3ZW9kalVhbzd4NnFQMnF1STdldUxDYUdUSkJhcFhEYUhpNXF5eVVuVnI0dkZZQ1Nob0tNMFE5cnlSMHdfZ0E5SWd1RTlRRFlFaGdnRUNvcExOM3ZFUWt3Q01wd0c?oc=5",
       "titre": "Emploi et handicap : le commerce de gros mobilisé à Rungis",
       "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEdaR3ZFZ0duZFhqQjc3aW1KdHhnVXFGbzB0SHl0UXpuaVQ2cHI1NmFvUVlLbDhvV1dYUUlmZUt3ZW9kalVhbzd4NnFQMnF1STdldUxDYUdUSkJhcFhEYUhpNXF5eVVuVnI0dkZZQ1Nob0tNMFE5cnlSMHdfZ0E5SWd1RTlRRFlFaGdnRUNvcExOM3ZFUWt3Q01wd0c?oc=5",
       "image": "",
       "source": "Presse Agence",
       "date": "2026-11-07T16:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0U3RVVlajJHbzBOOWhwUE12QWE2QWJTNlRLZWdNblg4bWhwUVV0cUNjQmtJNzlzcnM0dURTbHJvSDJXbC11ZC1ydmZjMlZRamgzTXVFOGtWMkg3bUZOOWlKcWtNYU5jU1JSd3BTSmlnTzNqQ1ZodExpWU9YMGdzaXM1YWVhYzZQUHVmYkNXNVhISDVla3RkYW14ZW9sZEhQa0tMLTdPSEpmaFhNOGc?oc=5",
+      "titre": "Carbonne. Une Carbonnaise au Championnat d’Europe des produits tripiers",
+      "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0U3RVVlajJHbzBOOWhwUE12QWE2QWJTNlRLZWdNblg4bWhwUVV0cUNjQmtJNzlzcnM0dURTbHJvSDJXbC11ZC1ydmZjMlZRamgzTXVFOGtWMkg3bUZOOWlKcWtNYU5jU1JSd3BTSmlnTzNqQ1ZodExpWU9YMGdzaXM1YWVhYzZQUHVmYkNXNVhISDVla3RkYW14ZW9sZEhQa0tMLTdPSEpmaFhNOGc?oc=5",
+      "image": "",
+      "source": "ladepeche.fr",
+      "date": "2026-11-07T04:14:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -106,24 +151,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQandlYjBDR1lZamFCY3FBNW9XX2RJVUdBVHdwbjIzMUxtY1NWa0xZMnFCWWxiMU5YZS1fcndEdFhnWmJOWFdUNUQyanNEaFVyOWJWQmt0cVMyUks1djRsUTFCLXE0eUZlSUxYdk1oN3JGRjhHZlFlM19oc1YxaFJ4bm9pZzFGaXVqVHBDUVVLRU5fMkxCSzRkMHJlNEVuQk9xZFlQS3B5ZE5BUTNrLVhhN3RIcFhHV0YwUWNEOUQtdUVzTEdFNno2NTZzbENIY1ZjdEdqSk1lSDhmckNVckFHdkczU0dRU2VHUHlad3VkNDBobEZXbldNTlhsbkhyTWhfbUNnOHc5NA?oc=5",
-      "titre": "Val-de-Marne: l'A86 fermée dans les deux sens pour une durée indéterminée à cause d'un incident dans le tunnel de Thiais",
-      "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQandlYjBDR1lZamFCY3FBNW9XX2RJVUdBVHdwbjIzMUxtY1NWa0xZMnFCWWxiMU5YZS1fcndEdFhnWmJOWFdUNUQyanNEaFVyOWJWQmt0cVMyUks1djRsUTFCLXE0eUZlSUxYdk1oN3JGRjhHZlFlM19oc1YxaFJ4bm9pZzFGaXVqVHBDUVVLRU5fMkxCSzRkMHJlNEVuQk9xZFlQS3B5ZE5BUTNrLVhhN3RIcFhHV0YwUWNEOUQtdUVzTEdFNno2NTZzbENIY1ZjdEdqSk1lSDhmckNVckFHdkczU0dRU2VHUHlad3VkNDBobEZXbldNTlhsbkhyTWhfbUNnOHc5NA?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-11-03T15:14:50+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm9HVjRzZldEZ0FQd1hNV2tRSW54Ul95eW93Vy0wdjNrXzRYeHNQblJMeWpZS3RIVjVHZ0MwM1hjb1NyV3dIWXFNZjYtb0pZb2RkcUZCSlBuSjFQTFJoRlZCUnJhT05BaHpCR3JjWG5fVnlFSGwxUXJXT0RnMG5Xc0w5S1RTM2p0YkdHekpTZ1BpdEVwbEo5V0xIVlFOaVdxbGU1dkJjYjdwa2hIb3dzb2xfcWhBaTJLb09uN1QzcjA?oc=5",
-      "titre": "Après un changement d’actionnariat, So Eco cède deux établissements",
-      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm9HVjRzZldEZ0FQd1hNV2tRSW54Ul95eW93Vy0wdjNrXzRYeHNQblJMeWpZS3RIVjVHZ0MwM1hjb1NyV3dIWXFNZjYtb0pZb2RkcUZCSlBuSjFQTFJoRlZCUnJhT05BaHpCR3JjWG5fVnlFSGwxUXJXT0RnMG5Xc0w5S1RTM2p0YkdHekpTZ1BpdEVwbEo5V0xIVlFOaVdxbGU1dkJjYjdwa2hIb3dzb2xfcWhBaTJLb09uN1QzcjA?oc=5",
-      "image": "",
-      "source": "Business Immo",
-      "date": "2026-11-03T14:54:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
       "titre": "News | Après un changement d’actionnariat, So Eco cède deux établissements",
       "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
@@ -157,6 +184,15 @@
       "image": "",
       "source": "laclepublique.fr",
       "date": "2026-10-31T23:11:39+00:00",
+      "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
+      "titre": "Plusieurs accidents, 450 km de bouchons : circulation infernale sur les routes d’Île-de-France ce vendredi",
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-30T07:00:00+00:00",
       "theme": "Divers"
     },
     {
@@ -232,15 +268,6 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGstaVdNcEV2d29acnhBdVFfZWRvQXFGQzhhOU5aRWdaUDJyWVlyMkZxQnphelBxRzJWYkppNTVNM3JRMWk4S2pXcXZaOVlzOEF6YV82OWpNMXd5N0x4dVFZLWFBOXRwQVM5Zmd2T2c1ZVNUWXI5UFhXSUZNLXVIWktKNEFXUElJMFdKWGVxa0E4c3JnbEZBNlpoeDBPUkxUeVFlbmxCakdOSElDd1NvZ09ZdU9iWDlJRElyQ0VwOXU?oc=5",
-      "titre": "Visite Autour de la Poterne de Peupliers, les rails ont cédé la place à la végétation",
-      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGstaVdNcEV2d29acnhBdVFfZWRvQXFGQzhhOU5aRWdaUDJyWVlyMkZxQnphelBxRzJWYkppNTVNM3JRMWk4S2pXcXZaOVlzOEF6YV82OWpNMXd5N0x4dVFZLWFBOXRwQVM5Zmd2T2c1ZVNUWXI5UFhXSUZNLXVIWktKNEFXUElJMFdKWGVxa0E4c3JnbEZBNlpoeDBPUkxUeVFlbmxCakdOSElDd1NvZ09ZdU9iWDlJRElyQ0VwOXU?oc=5",
-      "image": "",
-      "source": "Ville de Paris",
-      "date": "2026-10-26T07:00:00+00:00",
-      "theme": "Ville"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
       "titre": "Omer-Decugis & Cie s'allie à Semmaris pour une plateforme de fruits à Dunkerque",
       "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
@@ -277,15 +304,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-25T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
       "titre": "Le gestionnaire de Rungis convoite les marchés de gros en Égypte",
       "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
@@ -304,13 +322,13 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
-      "titre": "Les perturbations RATP & SNCF du 19 au 25 octobre à Paris et Île-de-France",
-      "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5Fd2FRVkhBeXVkbVJGeWRpTFNhMlJfNlV2UGh5M0N2d3hGaGVTcy0tV1hCdG9JVVVtbUk3ak9PVVN1cHJ1cEFDMXF0NDVoRzc1WGtfQlZzNFE2WjFkTXVBcDBkMUZKYmVtT3FHNWluUmw3QW1RNVRMNkZYVzBsQUctQ2FJbk9VMWxtc2ZOcEI1QWpVYXFmYmdxaVYwRFh6ekNSMkVvOA?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkg2b3N3bzJVZGduTEZhbFItN0YtRk5yU1RLalpodWgwOXByVzN6YjY2MEwxV0FLckRWTG9STlhoWG5zOUk0b0ctY2xWY3VmOENEdUcydUNzWGY5dmpUYjlEWFBzZXdPMnMteW40bU44RV9XVFRFSU1aN3FpbzNHZlhoLUhaSlIzMG0tVDlWUTBSc09DbzM3U0VRamhRVEtob2ZNcVdrakRXZ3YtMVB2akRzZWs0N1pnU0lHbWpiczh0U05qYThRSnpLMG9EYmRGNkZ5X3JB?oc=5",
+      "titre": "Contre le gaspillage alimentaire, « Rungis est prêt à être le premier terrain d'application »",
+      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkg2b3N3bzJVZGduTEZhbFItN0YtRk5yU1RLalpodWgwOXByVzN6YjY2MEwxV0FLckRWTG9STlhoWG5zOUk0b0ctY2xWY3VmOENEdUcydUNzWGY5dmpUYjlEWFBzZXdPMnMteW40bU44RV9XVFRFSU1aN3FpbzNHZlhoLUhaSlIzMG0tVDlWUTBSc09DbzM3U0VRamhRVEtob2ZNcVdrakRXZ3YtMVB2akRzZWs0N1pnU0lHbWpiczh0U05qYThRSnpLMG9EYmRGNkZ5X3JB?oc=5",
       "image": "",
-      "source": "20 Minutes",
-      "date": "2026-10-19T07:00:00+00:00",
-      "theme": "Divers"
+      "source": "Les Echos",
+      "date": "2026-10-16T07:00:00+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGJGbjRzSFk4eGdTS2ZRdGFoTWI3SmZoR3VjM3FvLXpXZ2dDYUFsWVFmb05uSm80MmRoNVNpaWR5bW1lS1lXWHN1NVdlQXdKYmM1WEpaUXVEeUFERngxdW4zTmFINjFMYXFjOUFzSlhEVk8tSkV4YWduVU5NckUtd2ZPdEVCMkFkaTkycHlUa2xVTkE?oc=5",
