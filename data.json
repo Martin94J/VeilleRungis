@@ -1,11 +1,20 @@
 {
-  "maj": "2026-11-10T05:30:00.685726+00:00",
+  "maj": "2026-11-10T14:03:30.268906+00:00",
   "themes": [
     "Ville",
     "Acteurs",
     "Divers"
   ],
   "actus": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHVyQmRXYUx2X2hucU9TRUNJMXU5WHJoVGxFVDFTcUw3RzMxc19iSXJ6TVBpOVZZRUprLXZjOVpkaWZDMGVrWDNvZDJHYm5ocktnSWZKNEg0bDc0QnVMak1qTnJmU3hDdlI0bkVxZ1Z0MUQ1RElWRnRXdldJOVZtQ29HM0VwR0E3b2Z1bFlOb2xGN2EzZ1dVOGxVbnZlN2ZEdzVnTEFycjl0WHhYbmdQTzh4dw?oc=5",
+      "titre": "Rungis : Légumes de France va dessiner les perspectives à horizon 2046",
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHVyQmRXYUx2X2hucU9TRUNJMXU5WHJoVGxFVDFTcUw3RzMxc19iSXJ6TVBpOVZZRUprLXZjOVpkaWZDMGVrWDNvZDJHYm5ocktnSWZKNEg0bDc0QnVMak1qTnJmU3hDdlI0bkVxZ1Z0MUQ1RElWRnRXdldJOVZtQ29HM0VwR0E3b2Z1bFlOb2xGN2EzZ1dVOGxVbnZlN2ZEdzVnTEFycjl0WHhYbmdQTzh4dw?oc=5",
+      "image": "",
+      "source": "mesinfos",
+      "date": "2026-11-10T11:53:00+00:00",
+      "theme": "Acteurs"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSW5HLWdHQXRMbzVCQnk3M1B0c3BZdk5JcjllZ1ZYMXpzektublpWdHN5dUZKLUpnTWRHeXV0ZTBSWmhyMkZkZEJIYWduTEdBeVFZd2NzejQta2JBQ2RURzJ0UnFMYnA3b21F?oc=5",
       "titre": "À Orly, les parkings sauvages restent ouverts malgré les condamnations",
@@ -48,15 +57,6 @@
       "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0Z3NnNzNnRab2poUnRJclJGdFV6UnMtbDF0TVREUlAyek1zYUhTOHdEMFNINy1lMGM0Q29jdkxWQ0VCM1NPd0hZdjIzTzJwZ2M5ZzBBZHBLZ1RjcmRxSlptRXROclRJeC1XaDlkOXNWRkgwVHBWTXl6bVZxbTZJekVfN2RETkRhaTdjVXFzY1JqaDcx?oc=5",
       "image": "",
       "source": "Icade",
-      "date": "2026-11-06T08:00:00+00:00",
-      "theme": "Ville"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TaW1tS3ptSWlhYzlRV2kzZVdzVTVHRFQzSzBObWdSUUg4VmVEWU1PNVNnYWR2M3l5b3ZCMkRIZVBMbzJEcjMzQmhZQllWc3hJako4ajhwNmtMRXJrOTRSZGIzWXd5Qjg4azlV?oc=5",
-      "titre": "« L’Atelier des songes » de Nicolas Sannier",
-      "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TaW1tS3ptSWlhYzlRV2kzZVdzVTVHRFQzSzBObWdSUUg4VmVEWU1PNVNnYWR2M3l5b3ZCMkRIZVBMbzJEcjMzQmhZQllWc3hJako4ajhwNmtMRXJrOTRSZGIzWXd5Qjg4azlV?oc=5",
-      "image": "",
-      "source": "Sceneweb",
       "date": "2026-11-06T08:00:00+00:00",
       "theme": "Ville"
     },
@@ -115,6 +115,15 @@
       "theme": "Divers"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm9HVjRzZldEZ0FQd1hNV2tRSW54Ul95eW93Vy0wdjNrXzRYeHNQblJMeWpZS3RIVjVHZ0MwM1hjb1NyV3dIWXFNZjYtb0pZb2RkcUZCSlBuSjFQTFJoRlZCUnJhT05BaHpCR3JjWG5fVnlFSGwxUXJXT0RnMG5Xc0w5S1RTM2p0YkdHekpTZ1BpdEVwbEo5V0xIVlFOaVdxbGU1dkJjYjdwa2hIb3dzb2xfcWhBaTJLb09uN1QzcjA?oc=5",
+      "titre": "Après un changement d’actionnariat, So Eco cède deux établissements",
+      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm9HVjRzZldEZ0FQd1hNV2tRSW54Ul95eW93Vy0wdjNrXzRYeHNQblJMeWpZS3RIVjVHZ0MwM1hjb1NyV3dIWXFNZjYtb0pZb2RkcUZCSlBuSjFQTFJoRlZCUnJhT05BaHpCR3JjWG5fVnlFSGwxUXJXT0RnMG5Xc0w5S1RTM2p0YkdHekpTZ1BpdEVwbEo5V0xIVlFOaVdxbGU1dkJjYjdwa2hIb3dzb2xfcWhBaTJLb09uN1QzcjA?oc=5",
+      "image": "",
+      "source": "Business Immo",
+      "date": "2026-11-03T14:54:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
       "titre": "News | Après un changement d’actionnariat, So Eco cède deux établissements",
       "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
@@ -151,15 +160,6 @@
       "theme": "Divers"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
-      "titre": "Plusieurs accidents, 450 km de bouchons : circulation infernale sur les routes d’Île-de-France ce vendredi",
-      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1B0OUl3QVhQdGF3V0lIVldDYzdTcmRNbUItbld4bHVtcnpBTTBkS2owNzFtMHk0VE9meWV0RlJVYVBBSnJnWFpYV2VIakxlZUktTlkteXZtdS03SXBYaEU2ZGVtNWpGeGI4bS1qNzJfV2pKTmgwemhLM1NpOWItWmJ5WGZVbUtQcWR1YTU4QV9PMFZybUJjb3VUNXRsb2V1UkRQbHZRTDFfS1pLbHJkb2FyTndCbU1KVUtpSWJya3R5RWZDZFNkVTlNSXNXSHA4VkhKY1dCRGU?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-30T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
       "titre": "Le constructeur chinois Farizon by Geely précise ses ambitions en France avec ses véhicules utilitaires électriques",
       "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmpuYW5lVXB1cjI5ZVBXYmppSjMzaVFVUTFEbDJVX094V3hkTUFDVHh2Y2p3NXFBZFFWVVh3SUdUanRwOHR2Q21pZGMyc2ZaMTdVTE1ZaXdydG8tWmtYb3pOSlVQVjdJOVpJSFNaa0hYeFJlZEtrY1JiRlNxN0Qyb2t1S253RDlTbmJiV0hHVEpLeVotRGlGMFdrVVZBaWY3Qm1waVZuOEI1cElvTHVlaVoxNGEyS3E0ZHI1NWhnWUdLWThwX1ZxREJqSVJUckhoRWJ2cnlBX0NEU285el91bmtZZU5GaHpaQ084aw?oc=5",
@@ -174,15 +174,6 @@
       "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDI5RF9jN1Fza2t2eF9mYmFyNDdYN2xsdXFQWTNJcFg5MWtsa3ZBS3ROd190eDhnXzNDWi1WdVhsYWFYd1VCTTFyRWtJdHFrTi13RW93bGk5djVibENVWFhoSzExWTFwRFU2YjhoY1FOdjVuaUxKd2lBQVY4eURQLU4tU1drTlRYem9RT2JTZjFXdmhfYTI2ZFFTRjRUektXNzhqZzdxTW9VbF96RXh5RHRpcVRSTTM0U2JkSHh0ZktqcDBw?oc=5",
       "image": "",
       "source": "Sortir à Paris",
-      "date": "2026-10-29T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHpDZnJsdjBlUWlfWHg5bjZyN0hCTUFoY1NkRG1EUE5ycVh0MzNVTlFOSDd2bGlvUFM2QkFUZ0o1T05HYk5tOHhfeGYzdGRVVXJhWkJ0d1NrR1FoN0FwQjRfWmtGRWdneW90SmdRMWVXWmhiZGNWN2RwSXpia1NpQ3NvZUZMRU5UWGJfLVNIQzZvU09YdVdIRnZfdUxqeVpMN1h1ZURRcFZCS1o2ZXRBRg?oc=5",
-      "titre": "Avant le poids lourd, Farizon est déjà présent sur le marché français du VUL électrique",
-      "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHpDZnJsdjBlUWlfWHg5bjZyN0hCTUFoY1NkRG1EUE5ycVh0MzNVTlFOSDd2bGlvUFM2QkFUZ0o1T05HYk5tOHhfeGYzdGRVVXJhWkJ0d1NrR1FoN0FwQjRfWmtGRWdneW90SmdRMWVXWmhiZGNWN2RwSXpia1NpQ3NvZUZMRU5UWGJfLVNIQzZvU09YdVdIRnZfdUxqeVpMN1h1ZURRcFZCS1o2ZXRBRg?oc=5",
-      "image": "",
-      "source": "France Routes",
       "date": "2026-10-29T07:00:00+00:00",
       "theme": "Divers"
     },
@@ -286,6 +277,15 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "image": "",
+      "source": "Actu.fr",
+      "date": "2026-10-25T07:00:00+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
       "titre": "Le gestionnaire de Rungis convoite les marchés de gros en Égypte",
       "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01FVmM4NFJQaWJZRloxdWNicU9MN1hrWVBjMjRuM1dGdkRDS2RKMVJwSFNUbEVyUWpwdGI5eXl3WjlxYUc0ZjhUeDBReVJRUkRoQThQV09veUZIcG9mbmkydEFnaEhxbjV1WTFKdXdSS3ZYb3N0M2Zqc0YtR192QWREYXFfTU9IZllZVXVJUFdpaXhxTmxQZVNRYnRud1U2QlJ1U1gxVXRaUnpRLWln?oc=5",
@@ -313,22 +313,13 @@
       "theme": "Divers"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXFpenBYLWdUblh1VVRnVFlzUkpFaUpPb1BtM1pKZGlnejRUR2JLUHlTelZYanJidDVwbXV3RW00Y1ZEMmNQblFfdVZqMzQ2VzZCQmprLXViMWk0NUlkUHdGQ2w2WDVGMFY0Qk0tVXB2S19JMV8waWFZeTZZdDRaT0JxSHIwd3B6ajBvLVVIWng2ODktTFE4TnhpU0hKc3NsOHFrZHVfYkp0NGpfaFdwRlNkU2k1T2pxTWpUNTNzMV9pcDc3MERRU0tLVndoVEtwV3JoWWxDUS1yczc2ZW5lQm1EMzBITUdxdV8tZWdnMlZvZw?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGJGbjRzSFk4eGdTS2ZRdGFoTWI3SmZoR3VjM3FvLXpXZ2dDYUFsWVFmb05uSm80MmRoNVNpaWR5bW1lS1lXWHN1NVdlQXdKYmM1WEpaUXVEeUFERngxdW4zTmFINjFMYXFjOUFzSlhEVk8tSkV4YWduVU5NckUtd2ZPdEVCMkFkaTkycHlUa2xVTkE?oc=5",
+      "titre": "Résultats des élections municipales 2020 à Rungis (94150) : tout ce qu’il faut savoir",
+      "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGJGbjRzSFk4eGdTS2ZRdGFoTWI3SmZoR3VjM3FvLXpXZ2dDYUFsWVFmb05uSm80MmRoNVNpaWR5bW1lS1lXWHN1NVdlQXdKYmM1WEpaUXVEeUFERngxdW4zTmFINjFMYXFjOUFzSlhEVk8tSkV4YWduVU5NckUtd2ZPdEVCMkFkaTkycHlUa2xVTkE?oc=5",
       "image": "",
-      "source": "Actu.fr",
-      "date": "2026-10-18T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkg2b3N3bzJVZGduTEZhbFItN0YtRk5yU1RLalpodWgwOXByVzN6YjY2MEwxV0FLckRWTG9STlhoWG5zOUk0b0ctY2xWY3VmOENEdUcydUNzWGY5dmpUYjlEWFBzZXdPMnMteW40bU44RV9XVFRFSU1aN3FpbzNHZlhoLUhaSlIzMG0tVDlWUTBSc09DbzM3U0VRamhRVEtob2ZNcVdrakRXZ3YtMVB2akRzZWs0N1pnU0lHbWpiczh0U05qYThRSnpLMG9EYmRGNkZ5X3JB?oc=5",
-      "titre": "Contre le gaspillage alimentaire, « Rungis est prêt à être le premier terrain d'application »",
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkg2b3N3bzJVZGduTEZhbFItN0YtRk5yU1RLalpodWgwOXByVzN6YjY2MEwxV0FLckRWTG9STlhoWG5zOUk0b0ctY2xWY3VmOENEdUcydUNzWGY5dmpUYjlEWFBzZXdPMnMteW40bU44RV9XVFRFSU1aN3FpbzNHZlhoLUhaSlIzMG0tVDlWUTBSc09DbzM3U0VRamhRVEtob2ZNcVdrakRXZ3YtMVB2akRzZWs0N1pnU0lHbWpiczh0U05qYThRSnpLMG9EYmRGNkZ5X3JB?oc=5",
-      "image": "",
-      "source": "Les Echos",
-      "date": "2026-10-16T07:00:00+00:00",
-      "theme": "Acteurs"
+      "source": "Le Figaro",
+      "date": "2026-10-14T07:00:00+00:00",
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9va2E5RDBER3NaWEtYV29ncnM4M1pkdG1FMmd2YVBYU1Y0Z1YwV3pod0Jfa0hSTXVCZHI3UGFvMFpNV05nNXREV0twOXpmcU5oOUlCWlluMFhGZm55NlhyVlFCWldTRUU1RUZOVExocDMza1QyM1VsNjFpQWZQTEdjYkxveWdseGlLLUNuME5sbU9QOXRSTzd1NWtfZXh1MThMNlByMVhlZWNKd3dEY2I3alRreUc5WE94NnRDWVU1VTNITW9wNU5tSGc0YUJlZmc?oc=5",
