@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-11T21:40:43.423047+00:00",
+  "maj": "2026-11-12T05:12:16.135650+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -61,15 +61,6 @@
       "theme": "Divers"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbk5PeExSR20zZE1Cd0J4WGROYWp6aUpuLVBoNEpqVi02RHdvM1dQa2JTNzVBdmx5LWRCWS1vNGRnazA2ZnlGZ3ZjN2hNQlZOTDVnRGJ1SnB4WnJoM3ZwdTFKdkM4RGlqdERrdzVIQ1duRzRvRk8yQTdrMWY4YmJjMmhlLTdXZFk3Mnd5VW5zRmtYY25JczZxdExmNkxRYWtNMkVDdWoxZjFZbXE1SjlWTlowaVo2SjBtX3h4TzZ2dGVDQQ?oc=5",
-      "titre": "Cette ville veut sécuriser les échanges entre les habitants",
-      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbk5PeExSR20zZE1Cd0J4WGROYWp6aUpuLVBoNEpqVi02RHdvM1dQa2JTNzVBdmx5LWRCWS1vNGRnazA2ZnlGZ3ZjN2hNQlZOTDVnRGJ1SnB4WnJoM3ZwdTFKdkM4RGlqdERrdzVIQ1duRzRvRk8yQTdrMWY4YmJjMmhlLTdXZFk3Mnd5VW5zRmtYY25JczZxdExmNkxRYWtNMkVDdWoxZjFZbXE1SjlWTlowaVo2SjBtX3h4TzZ2dGVDQQ?oc=5",
-      "image": "",
-      "source": "Actu.fr",
-      "date": "2026-11-08T11:06:01+00:00",
-      "theme": "Ville"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbkdZM1VGRVp5SndKRmVUejctNjQwODFZeE40X1o4THJOMDVzTm9oa25LS3JOc0JaMjFtNnd0NjY2WGhxU2I2bFBsODgxUUhtQTZfUjJmZDhGQlhhUm1EazgwSlBVNFB4TWp5bEdJdjdSb25qRFZvT0loUWhtSmlLaE5tSmhybE9PM3JCeGpSOXpHQUVGTGNmaTM5SjlRSlFOMG9EdEZEWlJ1Y20xN3dCdTA2ZGxJZUMyRFdWalVPdmZzY1BBZG90ZGJMQUhpdXZUc3oxaQ?oc=5",
       "titre": "Transports à Paris le 11 novembre 2026 : les travaux et perturbations prévus",
       "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbkdZM1VGRVp5SndKRmVUejctNjQwODFZeE40X1o4THJOMDVzTm9oa25LS3JOc0JaMjFtNnd0NjY2WGhxU2I2bFBsODgxUUhtQTZfUjJmZDhGQlhhUm1EazgwSlBVNFB4TWp5bEdJdjdSb25qRFZvT0loUWhtSmlLaE5tSmhybE9PM3JCeGpSOXpHQUVGTGNmaTM5SjlRSlFOMG9EdEZEWlJ1Y20xN3dCdTA2ZGxJZUMyRFdWalVPdmZzY1BBZG90ZGJMQUhpdXZUc3oxaQ?oc=5",
@@ -94,7 +85,7 @@
       "image": "",
       "source": "L'Echo Ile-de-France",
       "date": "2026-11-06T13:24:53+00:00",
-      "theme": "Ville"
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaS1SbVBXaWl6MFdMZksyQ0FQc0xhTnFyTWJnT2F0X3hENWpKLTdlVW0zZU9Xay04ZDlXempFeVlzNFdvSk1YckJNM2xIb0tVV0oxTzdkWGdxZy0zWWtHekIwV0lNT1VubWd3WndDM3FwczVYMG5ITUFZQS00U09EZUVxRDB3SWYzY0pDbW51LW9hb3NXcERETXc5VnB5UU9UR18yWEJoMXBLM19FX0xzZEUzbFlOcjEwMnpv?oc=5",
@@ -165,7 +156,7 @@
       "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
       "image": "",
       "source": "CoStar",
-      "date": "2026-11-03T05:54:00+00:00",
+      "date": "2026-11-03T08:00:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -176,6 +167,15 @@
       "source": "Espaces tourisme et loisirs",
       "date": "2026-11-02T16:44:38+00:00",
       "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXlwSXl2Wmk0SFJKSVhicVN3T0U3LW42SFVSSU9BUXQ0Qm02bGppZWt6ZDhmcTk4M2NEdVJIcjJPRHROcWluc0NkZDZYaGxHNVpfRmRRMHZUNENhdEZmSGZmRldjM3hNUk5mbWF2VzdMYldRYnVUYTdJOENyZjhRTkhJbFQzTEJtdlFCNmV2QkxOcnA4VExMVmU3LVIxOEcyNkRGVzlvZmxBUzZLLVRoakNTR09KNmtYSldzQVhYeXl5bnJYOGoyNzhORQ?oc=5",
+      "titre": "À Dunkerque, la plus grande mûrisserie de France devrait sortir de terre en 2027, 400 emplois annoncés",
+      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXlwSXl2Wmk0SFJKSVhicVN3T0U3LW42SFVSSU9BUXQ0Qm02bGppZWt6ZDhmcTk4M2NEdVJIcjJPRHROcWluc0NkZDZYaGxHNVpfRmRRMHZUNENhdEZmSGZmRldjM3hNUk5mbWF2VzdMYldRYnVUYTdJOENyZjhRTkhJbFQzTEJtdlFCNmV2QkxOcnA4VExMVmU3LVIxOEcyNkRGVzlvZmxBUzZLLVRoakNTR09KNmtYSldzQVhYeXl5bnJYOGoyNzhORQ?oc=5",
+      "image": "",
+      "source": "Nord Littoral",
+      "date": "2026-11-02T10:18:14+00:00",
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHBWMTlKUHZsME1KUFdFLVQ5N3dGdUNxRnM4M2JOSUNuZEtWcWpSdnBQNUUxNWZQeVN2RlcxUDJkYnBBN183M2Fjb1JqRkY5N1pkSVZMRkVBSTJaRTNjUFR2Ml9xZmx4Sy0tRExZSHpVR2VBb1dpbUhGeV9vQmh3ZGg5RkVEQWxLbm1GZFZtdzc?oc=5",
@@ -268,20 +268,20 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
-      "titre": "25 000 m² d'ici fin 2027 : Omer-Decugis concrétise avec la Semmaris son installation à Dunkerque",
-      "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
-      "image": "",
-      "source": "Voxlog",
-      "date": "2026-10-26T07:00:00+00:00",
-      "theme": "Acteurs"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
       "titre": "Omer-Decugis & Cie s'allie à Semmaris pour une plateforme de fruits à Dunkerque",
       "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdqOFRSbDdQWXVfUTJGUU1UdlNOQ1pvaHBTMWc5UjJnR0h5Rmx4d3AyVVU1NVFCMWJIbWxVQVVSbjlrcE94XzZGQ2pyQ042M01Objk1aGdCcExTZ25HVmtyRll3Q2tRNDUyQmFtMXJZekpiOEc3b2FSSzVnWnpkMlBmTGJMeHVsX2plaGNrSzhpMmJyV0FhaWxyUFBuY05ZeDZBRWZZeGNPMWZmdmtoaFdZY2JRVm9IdE0wSTNDcUFBVWJKMmRkdVBPTQ?oc=5",
       "image": "",
       "source": "Idéal Investisseur",
+      "date": "2026-10-26T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
+      "titre": "25 000 m² d'ici fin 2027 : Omer-Decugis concrétise avec la Semmaris son installation à Dunkerque",
+      "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjRDSmxfOER1VmFrdzlzMng1SmN5M2plR1JGeEhFdWlua1hCcDF1bVBkMDM4aWZOVmFOUzZYeFplSHdfaE1iUWZnV1V6RGpJVTM0c2JFYnZ0VGRCaVEtQmNKU2FXamdweVBRSktvVFV0ZzU4LWNsNlFLZjRDVzRWRjVjUTZQOUJyNWtFT2dyMWtsY0RKbk5CYTVyZGZjbFVlTkdJdFBsaEdCc21CR2tZaEE0RGlOUWc0djBfZlhrTjZtWHdkTDI0US13?oc=5",
+      "image": "",
+      "source": "Voxlog",
       "date": "2026-10-26T07:00:00+00:00",
       "theme": "Acteurs"
     },
@@ -292,24 +292,15 @@
       "image": "",
       "source": "La Voix du Nord",
       "date": "2026-10-25T07:00:00+00:00",
-      "theme": "Acteurs"
+      "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
-      "titre": "RATP et SNCF : les perturbations attendues dans les transports en Île-de-France et à Paris cette semaine",
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGZwSFM5Q0xmMWNGZ3RpTG9vZldINElJSTRGZWhQZENjZzRkZE9SckN1MXpWaXV6dHVXVG1aU2tKWEVsWGJlZWpWWVpERXFQUnJTSXRHM2IyTy1xUUFBR185WUsyN29NNTFicEgzS1NsT2NIdHkxNUI2cEJRUTE2ZW0zd01reERpekQwb2VxZGEtQ0hDb05pYThubWRXTVA3dVBKNnJDbTRZNVhKVXBBVlBvenZDLW41V0FrUlU2ejR1YV8zaXBfSi1VQjgwUjNGQ2hFWlpVUkpacTdQREV0ODNXY19wa0RZNEh4V19mbEtEQQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR085YkJXN2tWOFh2eUFTaWpMTTllM3h2aU1LbmNUX3hxTmVvN2dXTUxkeDkxM1haSEo3SmIyZkpBN3I5Zi1EMTRybk9rQk5BNFZTYks3aDFXUTJuTXBFcjZtOEFHeHBheVcwN3BfYkJXRUJWMEtZX3QzYWdtemNLSGN4RU4yUFkyTGhhbkwwQUhwZw?oc=5",
+      "titre": "Des travaux sur la ligne H",
+      "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR085YkJXN2tWOFh2eUFTaWpMTTllM3h2aU1LbmNUX3hxTmVvN2dXTUxkeDkxM1haSEo3SmIyZkpBN3I5Zi1EMTRybk9rQk5BNFZTYks3aDFXUTJuTXBFcjZtOEFHeHBheVcwN3BfYkJXRUJWMEtZX3QzYWdtemNLSGN4RU4yUFkyTGhhbkwwQUhwZw?oc=5",
       "image": "",
       "source": "Actu.fr",
-      "date": "2026-10-25T07:00:00+00:00",
-      "theme": "Divers"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
-      "titre": "À Dunkerque, la plus grande mûrisserie de France devrait sortir de terre en 2027, 400 emplois annoncés",
-      "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
-      "image": "",
-      "source": "La Voix du Nord",
-      "date": "2026-10-25T07:00:00+00:00",
+      "date": "2026-10-21T07:00:00+00:00",
       "theme": "Divers"
     },
     {
