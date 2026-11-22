@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-21T18:31:03.816988+00:00",
+  "maj": "2026-11-22T00:50:26.473260+00:00",
   "themes": [
     "Ville",
     "Acteurs",
@@ -7,13 +7,13 @@
   ],
   "actus": [
     {
-      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjZ0bElQZE1teXFra0dEWXpFeDg2ZFVMWDh5STVvcUNsSGtVbkszcGNJX1BEa0IwcnlPX2FTdGlrQzA5ZlJGU3JnejJ0LXI0cTFDZWJDZG44dFR2bjlVWm1wVUVnY0VCeTMtZWJoZnpfclJRYjZDOFZLYWdPcXp3TXlfeFlpWWNPQWlINVZ1alVnc0dZaXNUQ2sxUngyU1F1VFU5cFlEcGF5NEhiZjBrSmFmWVRYaXQtYVdOM3hnLWxKeUtpTEE?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclVCazlhOUtUNnhIWWpNeWRQLUhIQU5wRFU0aVktRWdXTkNxeDFFVTBWMzFJVnFnT2hIRDNINHJVTlBIeThtMU1EQUowaVU0MlNXWjNScmJMNDNJOHN2N211dlZFMHFuZ3pYNXRsVlAwZG9YRGFJZ0xQdkNyQWYzOWtseEp5M0FDdW5SVVR5LUI3cDdYMHlKdm1INEVsWC1teEY3NS1nSEZOODhmQm9iQVh6WFNHSTFKZTdvSWtrcmY4MnFkNldKeA?oc=5",
       "titre": "Grands reportages - Quand Rungis met les petits plats dans les grands",
-      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjZ0bElQZE1teXFra0dEWXpFeDg2ZFVMWDh5STVvcUNsSGtVbkszcGNJX1BEa0IwcnlPX2FTdGlrQzA5ZlJGU3JnejJ0LXI0cTFDZWJDZG44dFR2bjlVWm1wVUVnY0VCeTMtZWJoZnpfclJRYjZDOFZLYWdPcXp3TXlfeFlpWWNPQWlINVZ1alVnc0dZaXNUQ2sxUngyU1F1VFU5cFlEcGF5NEhiZjBrSmFmWVRYaXQtYVdOM3hnLWxKeUtpTEE?oc=5",
+      "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclVCazlhOUtUNnhIWWpNeWRQLUhIQU5wRFU0aVktRWdXTkNxeDFFVTBWMzFJVnFnT2hIRDNINHJVTlBIeThtMU1EQUowaVU0MlNXWjNScmJMNDNJOHN2N211dlZFMHFuZ3pYNXRsVlAwZG9YRGFJZ0xQdkNyQWYzOWtseEp5M0FDdW5SVVR5LUI3cDdYMHlKdm1INEVsWC1teEY3NS1nSEZOODhmQm9iQVh6WFNHSTFKZTdvSWtrcmY4MnFkNldKeA?oc=5",
       "image": "",
-      "source": "TF1 Info",
+      "source": "TF1+",
       "date": "2026-11-21T12:46:10+00:00",
-      "theme": "Divers"
+      "theme": "Ville"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZlgyQmZ3RkJuMUNyRHVKVWJNaEJiQkR3UUUtRXNETHhzMV8zX0tFOEZ6RUsxaHV4NC1QVjB3Q1NjVWU2MjRTRE94TDZKV196NXlUY0FMREtqb1ptWUxpamZuOU13d29kUzc4Z2tUSS1iQ3V2Rk01aFQtUTNOYlpDb0c1dloxaUJFVmsxZkVwOWVqeTZvcnh6RllWTjlhOG9kLWtKMzF5cUFNcFNTSGoyTnd0Wnl3cnczaXZwM3VHOW8yeU91bUtabUdlM2dROWFHbDBKTVBQVU1XYkdRdnhKOU9HVGdFQQ?oc=5",
@@ -52,15 +52,6 @@
       "theme": "Acteurs"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObmZvV0lhang0eHRWck9ZaTJVeC16Si10YUphYjJzN1l3NVlxVnhHQVB4Z2dxRkdDaUt5eGRleFc3c2hWWkc2eWtMTkRNM0ptRmRCS2I3SmsxcE1ucWdZTEFELTdpQlZRNThfQU51ZUFQMkRUR09EelU4YWdNRlNyQ1BhZ2dPQ0V0TThhR0VkeUhQVUdweUEyeTVBZzMyQld1ZElxbC1jSXBONGlrYlltSHc4bk52NlpvaDhlVXR2VGp5eFQ2MWpfaGgyU01ZR1dkeC1vZzkzb2VMenMyN2ZPdVhVMVdvRGx2cURrUXh0UllRa1lzcjBwUmJWWHlLbEtoUUJZdFhvWF8xcF8wUWpzSkQtbGVPZkVrcnhFMGtzdnJQQdIBogJBVV95cUxObmZvV0lhang0eHRWck9ZaTJVeC16Si10YUphYjJzN1l3NVlxVnhHQVB4Z2dxRkdDaUt5eGRleFc3c2hWWkc2eWtMTkRNM0ptRmRCS2I3SmsxcE1ucWdZTEFELTdpQlZRNThfQU51ZUFQMkRUR09EelU4YWdNRlNyQ1BhZ2dPQ0V0TThhR0VkeUhQVUdweUEyeTVBZzMyQld1ZElxbC1jSXBONGlrYlltSHc4bk52NlpvaDhlVXR2VGp5eFQ2MWpfaGgyU01ZR1dkeC1vZzkzb2VMenMyN2ZPdVhVMVdvRGx2cURrUXh0UllRa1lzcjBwUmJWWHlLbEtoUUJZdFhvWF8xcF8wUWpzSkQtbGVPZkVrcnhFMGtzdnJQQQ?oc=5",
-      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon creuse son avance sur Edouard Philippe pour la deuxième place",
-      "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObmZvV0lhang0eHRWck9ZaTJVeC16Si10YUphYjJzN1l3NVlxVnhHQVB4Z2dxRkdDaUt5eGRleFc3c2hWWkc2eWtMTkRNM0ptRmRCS2I3SmsxcE1ucWdZTEFELTdpQlZRNThfQU51ZUFQMkRUR09EelU4YWdNRlNyQ1BhZ2dPQ0V0TThhR0VkeUhQVUdweUEyeTVBZzMyQld1ZElxbC1jSXBONGlrYlltSHc4bk52NlpvaDhlVXR2VGp5eFQ2MWpfaGgyU01ZR1dkeC1vZzkzb2VMenMyN2ZPdVhVMVdvRGx2cURrUXh0UllRa1lzcjBwUmJWWHlLbEtoUUJZdFhvWF8xcF8wUWpzSkQtbGVPZkVrcnhFMGtzdnJQQdIBogJBVV95cUxObmZvV0lhang0eHRWck9ZaTJVeC16Si10YUphYjJzN1l3NVlxVnhHQVB4Z2dxRkdDaUt5eGRleFc3c2hWWkc2eWtMTkRNM0ptRmRCS2I3SmsxcE1ucWdZTEFELTdpQlZRNThfQU51ZUFQMkRUR09EelU4YWdNRlNyQ1BhZ2dPQ0V0TThhR0VkeUhQVUdweUEyeTVBZzMyQld1ZElxbC1jSXBONGlrYlltSHc4bk52NlpvaDhlVXR2VGp5eFQ2MWpfaGgyU01ZR1dkeC1vZzkzb2VMenMyN2ZPdVhVMVdvRGx2cURrUXh0UllRa1lzcjBwUmJWWHlLbEtoUUJZdFhvWF8xcF8wUWpzSkQtbGVPZkVrcnhFMGtzdnJQQQ?oc=5",
-      "image": "",
-      "source": "Boursorama",
-      "date": "2026-11-18T12:36:41+00:00",
-      "theme": "Ville"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRXpQYk5tTFAwWGtjX0Y0cDBxbGNwM0xvaGtHU3MzY09MNW9FQUtNMmotSlFNakxzUG5MQXU0dk5EMGNJMzhhUmNXNXE3eGJmY3R2S28xUmV6VTQ2a2hwQ2kyMFdVWHRDOVBHb2huNTU0bHNxWlhTOGdRd08xS28?oc=5",
       "titre": "Brocantes et vide-greniers : on chine où en novembre ?",
       "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRXpQYk5tTFAwWGtjX0Y0cDBxbGNwM0xvaGtHU3MzY09MNW9FQUtNMmotSlFNakxzUG5MQXU0dk5EMGNJMzhhUmNXNXE3eGJmY3R2S28xUmV6VTQ2a2hwQ2kyMFdVWHRDOVBHb2huNTU0bHNxWlhTOGdRd08xS28?oc=5",
@@ -70,6 +61,15 @@
       "theme": "Ville"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fN3c0a05WLWtRbGdaTlpmZVFyT3EyYnZERExzdFZ1c25aRXBHQlFicEhDV2p2WVlvY3AzNDQzd0tTNkp5S0FWaFhxS0xrZFk?oc=5",
+      "titre": "Tramway T7 : travaux et fermetures à venir",
+      "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fN3c0a05WLWtRbGdaTlpmZVFyT3EyYnZERExzdFZ1c25aRXBHQlFicEhDV2p2WVlvY3AzNDQzd0tTNkp5S0FWaFhxS0xrZFk?oc=5",
+      "image": "",
+      "source": "RATP",
+      "date": "2026-11-16T23:41:47+00:00",
+      "theme": "Divers"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVENWZWZLZTlObXhNc1drSWZ1NnNOT3dXdVdRMEh1dXZoUmVjUVI4aWcwaWlhZzcta1h6SEEyTG1YUkN1bm5VNGh4OHF5NWM3eHdMWUNwOWV0UzZFaWNYcTNDSEdCajRWR1JQc2N3SkZxRjNhVFN2UEYzaU5ZY2UzSE5YVHpQVld6eEY3UFYzNHl1WDVpMU5KZFhrMUJzMG5QQUR1OVpvclRGcFg1dmI3aTF3VWZaVWVvSVg1TFZkeEpNV2xxUWk4OENmVllyYUVSdTRSS21HSHN4ZV9LTDRJZldhQ2kwQUFtOVVkZFh3YmRTZC1UcEFWZ25ZbU5aX1dPZUVoUHlvT2VjOVozaVE?oc=5",
       "titre": "Grève et manifestations ce mardi: \"Nous serons tous unis dans la rue demain\", assure Sophie Binet, secrétaire générale de la CGT",
       "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVENWZWZLZTlObXhNc1drSWZ1NnNOT3dXdVdRMEh1dXZoUmVjUVI4aWcwaWlhZzcta1h6SEEyTG1YUkN1bm5VNGh4OHF5NWM3eHdMWUNwOWV0UzZFaWNYcTNDSEdCajRWR1JQc2N3SkZxRjNhVFN2UEYzaU5ZY2UzSE5YVHpQVld6eEY3UFYzNHl1WDVpMU5KZFhrMUJzMG5QQUR1OVpvclRGcFg1dmI3aTF3VWZaVWVvSVg1TFZkeEpNV2xxUWk4OENmVllyYUVSdTRSS21HSHN4ZV9LTDRJZldhQ2kwQUFtOVVkZFh3YmRTZC1UcEFWZ25ZbU5aX1dPZUVoUHlvT2VjOVozaVE?oc=5",
@@ -77,6 +77,15 @@
       "source": "BFM",
       "date": "2026-11-16T20:12:32+00:00",
       "theme": "Divers"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdXhYejRQLW9LUUhXVEROTUFIZnBxYUZqdnNlM1BoT0QwbE1lWFVac2o2TjVXWGI4WG5KNHd6alZmdS1RQkFvNHFDWm9zUlpMUXlJX0VkM1Npdw?oc=5",
+      "titre": "Dans les coulisses du prolongement du T7",
+      "lien": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdXhYejRQLW9LUUhXVEROTUFIZnBxYUZqdnNlM1BoT0QwbE1lWFVac2o2TjVXWGI4WG5KNHd6alZmdS1RQkFvNHFDWm9zUlpMUXlJX0VkM1Npdw?oc=5",
+      "image": "",
+      "source": "RATP",
+      "date": "2026-11-16T17:34:53+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWJqa0EySTFpMVJQekZla0Y2eEFHZzZ5WlFlc3JCMWdUSm54WWZwR2lyMllWV01hRG1FUWdvMXBsVks1VXNLUWlxcmxhdDZDLXNHSXJvWTd2THRnTDF0RnBicmM4YWZOTDRqamVkTDNBZGhQS2M4UmRBM0FLY05JRDZxQmlBZmZsQ0Q1RDlPano?oc=5",
@@ -103,7 +112,25 @@
       "image": "",
       "source": "Unidivers",
       "date": "2026-11-13T20:07:25+00:00",
-      "theme": "Divers"
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHJkOU93d2R4WmNSUlRhWE9VeVFRbkFBanp3ZGFfb2Q2MnRkNWFKV29NVm82MUNFTThsNG1HaGkyQ0FpRTFZcmpWbnN5OWJRT2Q1aDEzRW9MdDRkRndtejZINlR5VzJYTkJLYU9FN3pBdnBLTlpycmNweTlCUl9yQmlCSVN4eXE5bUJhV1VBWWQ0cVdkN3pTampTcDJVWjdvXzBzYjZ3SXEwdWx3UWV2ci1wV2FUeTR4cHJEQkZwenpBd3dmZHdiTzc1ck5KeGM?oc=5",
+      "titre": "Grands reportages - Quand Rungis met les petits plats dans les grands, à la tv",
+      "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHJkOU93d2R4WmNSUlRhWE9VeVFRbkFBanp3ZGFfb2Q2MnRkNWFKV29NVm82MUNFTThsNG1HaGkyQ0FpRTFZcmpWbnN5OWJRT2Q1aDEzRW9MdDRkRndtejZINlR5VzJYTkJLYU9FN3pBdnBLTlpycmNweTlCUl9yQmlCSVN4eXE5bUJhV1VBWWQ0cVdkN3pTampTcDJVWjdvXzBzYjZ3SXEwdWx3UWV2ci1wV2FUeTR4cHJEQkZwenpBd3dmZHdiTzc1ck5KeGM?oc=5",
+      "image": "",
+      "source": "Linternaute.com",
+      "date": "2026-11-12T13:58:08+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGpCaE55NnJoSXhNcU0yVGhBWXV6b21jeEx4ZmlONXU3d1lleVd3bHJUazZoNFZmMEVwWnB4QkJ5bnFEZ3NRODdoMC1UZWtfSUxERmp0T1dOTHdHMzQ4dkZpTF9rcm1SZjdEVEVnR2dQWVA4WWtPUExPZ1lGNzZfaDZUaFk4WTZnUURNNQ?oc=5",
+      "titre": "Handicap, Entreprenariat et Café-signe à Choisy-le-Roi",
+      "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGpCaE55NnJoSXhNcU0yVGhBWXV6b21jeEx4ZmlONXU3d1lleVd3bHJUazZoNFZmMEVwWnB4QkJ5bnFEZ3NRODdoMC1UZWtfSUxERmp0T1dOTHdHMzQ4dkZpTF9rcm1SZjdEVEVnR2dQWVA4WWtPUExPZ1lGNzZfaDZUaFk4WTZnUURNNQ?oc=5",
+      "image": "",
+      "source": "Citoyens.com",
+      "date": "2026-11-12T08:57:03+00:00",
+      "theme": "Acteurs"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHVyQmRXYUx2X2hucU9TRUNJMXU5WHJoVGxFVDFTcUw3RzMxc19iSXJ6TVBpOVZZRUprLXZjOVpkaWZDMGVrWDNvZDJHYm5ocktnSWZKNEg0bDc0QnVMak1qTnJmU3hDdlI0bkVxZ1Z0MUQ1RElWRnRXdldJOVZtQ29HM0VwR0E3b2Z1bFlOb2xGN2EzZ1dVOGxVbnZlN2ZEdzVnTEFycjl0WHhYbmdQTzh4dw?oc=5",
@@ -121,6 +148,15 @@
       "image": "",
       "source": "Actu.fr",
       "date": "2026-11-10T08:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0Z3NnNzNnRab2poUnRJclJGdFV6UnMtbDF0TVREUlAyek1zYUhTOHdEMFNINy1lMGM0Q29jdkxWQ0VCM1NPd0hZdjIzTzJwZ2M5ZzBBZHBLZ1RjcmRxSlptRXROclRJeC1XaDlkOXNWRkgwVHBWTXl6bVZxbTZJekVfN2RETkRhaTdjVXFzY1JqaDcx?oc=5",
+      "titre": "Interview Nicolas Joly IA enjeu immobilier bsmart",
+      "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0Z3NnNzNnRab2poUnRJclJGdFV6UnMtbDF0TVREUlAyek1zYUhTOHdEMFNINy1lMGM0Q29jdkxWQ0VCM1NPd0hZdjIzTzJwZ2M5ZzBBZHBLZ1RjcmRxSlptRXROclRJeC1XaDlkOXNWRkgwVHBWTXl6bVZxbTZJekVfN2RETkRhaTdjVXFzY1JqaDcx?oc=5",
+      "image": "",
+      "source": "Icade",
+      "date": "2026-11-06T08:00:00+00:00",
       "theme": "Ville"
     },
     {
@@ -142,11 +178,20 @@
       "theme": "Ville"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFF6SEN6RHlYMUh0OEZNdEhwMFUycUUxNkR4MTJaMlFjNDRwUnhnRk11U0NxZlc4NHBCNkFpeDZoU1RrNkNiSUF1azlGNjJ6R1FqU0tKOFRQSFBpVG1SQzdwYzV4WjFTVDcydXFoamVwdkN4SzVHR2pQcTIySVdBQ2RQaXJ2S2d4M2lLdmRVMmsyZGNUZzZ1UFEyZkp2TkZIVnY3ZmxDUGZnQ3VnQXdRWDNkbHk0VEc5M3QxenhsYnBkc1dUMnhZTFhhRGRZb3hXcEFMRExjcHpwTEk?oc=5",
-      "titre": "Omer-Decugis & Cie et la Semmaris s’associent pour créer une plateforme agro-logistique à Dunkerque",
-      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFF6SEN6RHlYMUh0OEZNdEhwMFUycUUxNkR4MTJaMlFjNDRwUnhnRk11U0NxZlc4NHBCNkFpeDZoU1RrNkNiSUF1azlGNjJ6R1FqU0tKOFRQSFBpVG1SQzdwYzV4WjFTVDcydXFoamVwdkN4SzVHR2pQcTIySVdBQ2RQaXJ2S2d4M2lLdmRVMmsyZGNUZzZ1UFEyZkp2TkZIVnY3ZmxDUGZnQ3VnQXdRWDNkbHk0VEc5M3QxenhsYnBkc1dUMnhZTFhhRGRZb3hXcEFMRExjcHpwTEk?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOT2dlSDVUVnlWN21NUHotYmpqdWZiOGIxcm5RMzd3UlpxX1c0WllEY2dfU290Qlh6WTZQUk9NZWpTRE96NGtWbWh4dlJTb0FHeWlLeDdfQzQxRnZZMzlIQW1jWDVSRHNpOENnQUtCVDVtbFVwYlNzOUM1R3hWUnJWOW5zUlcyeXIxcG1KVGw2S01FczlmYzJoQmV4N2RycWtLNlRzQXBNdzllOGV6eVdlMThMbUJHY1dXaUxQRlAxNXJRU2tnWGlTaDE5bWpWT1ZDaW5ubjQyZl9vM0M4WTJIZ3VZV2ZrUGZuNWdKY291LWN3YUlnZEJDS2owTHhhV2gyY2xVSVlULS1MVVR1eUk3RjRoRDhhS2Y1RS1kMjRLN1hBUHVuU1E5RnNsOXFJaVA3bEt6c183ZllMNDhkekdIRUl3?oc=5",
+      "titre": "RER C : le trafic interrompu entre Pontoise et Pont de Rungis-Aéroport d’Orly et perturbé sur le reste de la ligne",
+      "lien": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOT2dlSDVUVnlWN21NUHotYmpqdWZiOGIxcm5RMzd3UlpxX1c0WllEY2dfU290Qlh6WTZQUk9NZWpTRE96NGtWbWh4dlJTb0FHeWlLeDdfQzQxRnZZMzlIQW1jWDVSRHNpOENnQUtCVDVtbFVwYlNzOUM1R3hWUnJWOW5zUlcyeXIxcG1KVGw2S01FczlmYzJoQmV4N2RycWtLNlRzQXBNdzllOGV6eVdlMThMbUJHY1dXaUxQRlAxNXJRU2tnWGlTaDE5bWpWT1ZDaW5ubjQyZl9vM0M4WTJIZ3VZV2ZrUGZuNWdKY291LWN3YUlnZEJDS2owTHhhV2gyY2xVSVlULS1MVVR1eUk3RjRoRDhhS2Y1RS1kMjRLN1hBUHVuU1E5RnNsOXFJaVA3bEt6c183ZllMNDhkekdIRUl3?oc=5",
       "image": "",
-      "source": "Agro Media",
+      "source": "Le Parisien",
+      "date": "2026-11-06T08:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEdaR3ZFZ0duZFhqQjc3aW1KdHhnVXFGbzB0SHl0UXpuaVQ2cHI1NmFvUVlLbDhvV1dYUUlmZUt3ZW9kalVhbzd4NnFQMnF1STdldUxDYUdUSkJhcFhEYUhpNXF5eVVuVnI0dkZZQ1Nob0tNMFE5cnlSMHdfZ0E5SWd1RTlRRFlFaGdnRUNvcExOM3ZFUWt3Q01wd0c?oc=5",
+      "titre": "Emploi et handicap : le commerce de gros mobilisé à Rungis",
+      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEdaR3ZFZ0duZFhqQjc3aW1KdHhnVXFGbzB0SHl0UXpuaVQ2cHI1NmFvUVlLbDhvV1dYUUlmZUt3ZW9kalVhbzd4NnFQMnF1STdldUxDYUdUSkJhcFhEYUhpNXF5eVVuVnI0dkZZQ1Nob0tNMFE5cnlSMHdfZ0E5SWd1RTlRRFlFaGdnRUNvcExOM3ZFUWt3Q01wd0c?oc=5",
+      "image": "",
+      "source": "Presse Agence",
       "date": "2026-11-06T08:00:00+00:00",
       "theme": "Acteurs"
     },
@@ -160,12 +205,39 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTlaMGd3TFc2c0RKQXV2Wk14MlhtSGxpU1JIaTVoeC1XQ01kWTlmekpyb25hU1U4dzc1SmFFeTktbXhmX0JDTU9DTTZLQmZoRFZtaWFGaGwyM3BUb3lkU2l5OFc5NTR6M1ZSS3ZyZy1uTXpCZEstNk9KWFBCUmtPU0hvY1ZjVmloazBoYmNBd1hJWGZYQXBSYnJiVEFnUUo3LVNyNWxlN3ppTWNYR1FkZEdvMmk0V3c?oc=5",
+      "titre": "Guillaume Aubert confirmé à la direction générale de Sogaris",
+      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTlaMGd3TFc2c0RKQXV2Wk14MlhtSGxpU1JIaTVoeC1XQ01kWTlmekpyb25hU1U4dzc1SmFFeTktbXhmX0JDTU9DTTZLQmZoRFZtaWFGaGwyM3BUb3lkU2l5OFc5NTR6M1ZSS3ZyZy1uTXpCZEstNk9KWFBCUmtPU0hvY1ZjVmloazBoYmNBd1hJWGZYQXBSYnJiVEFnUUo3LVNyNWxlN3ppTWNYR1FkZEdvMmk0V3c?oc=5",
+      "image": "",
+      "source": "DECIDEURS IMMO",
+      "date": "2026-11-04T08:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQandlYjBDR1lZamFCY3FBNW9XX2RJVUdBVHdwbjIzMUxtY1NWa0xZMnFCWWxiMU5YZS1fcndEdFhnWmJOWFdUNUQyanNEaFVyOWJWQmt0cVMyUks1djRsUTFCLXE0eUZlSUxYdk1oN3JGRjhHZlFlM19oc1YxaFJ4bm9pZzFGaXVqVHBDUVVLRU5fMkxCSzRkMHJlNEVuQk9xZFlQS3B5ZE5BUTNrLVhhN3RIcFhHV0YwUWNEOUQtdUVzTEdFNno2NTZzbENIY1ZjdEdqSk1lSDhmckNVckFHdkczU0dRU2VHUHlad3VkNDBobEZXbldNTlhsbkhyTWhfbUNnOHc5NA?oc=5",
       "titre": "Val-de-Marne: l'A86 fermée dans les deux sens pour une durée indéterminée à cause d'un incident dans le tunnel de Thiais",
       "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQandlYjBDR1lZamFCY3FBNW9XX2RJVUdBVHdwbjIzMUxtY1NWa0xZMnFCWWxiMU5YZS1fcndEdFhnWmJOWFdUNUQyanNEaFVyOWJWQmt0cVMyUks1djRsUTFCLXE0eUZlSUxYdk1oN3JGRjhHZlFlM19oc1YxaFJ4bm9pZzFGaXVqVHBDUVVLRU5fMkxCSzRkMHJlNEVuQk9xZFlQS3B5ZE5BUTNrLVhhN3RIcFhHV0YwUWNEOUQtdUVzTEdFNno2NTZzbENIY1ZjdEdqSk1lSDhmckNVckFHdkczU0dRU2VHUHlad3VkNDBobEZXbldNTlhsbkhyTWhfbUNnOHc5NA?oc=5",
       "image": "",
       "source": "Actu.fr",
       "date": "2026-11-03T08:00:00+00:00",
+      "theme": "Ville"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
+      "titre": "News | Après un changement d’actionnariat, So Eco cède deux établissements",
+      "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHM1UzhaTXMwb1dPMG5EOXBDZGlCX2pIUXI1UlhiYlYxZmQ1TllmeUp0Vk1uWXhHdm5PWmowamlXN0RkRjVEYkpacjY3LThEUWJaS2xHMWkzdjdybDNMUk5aWmVnWGxjcW4xQ3g2NDQyLXpGOVI1SHMyT3lMR19GM3JKWXNfTGJnTHVTSjdtVGNnR3c4RUhfOHRlSVNaRXlYVkZmQk93TlA0UQ?oc=5",
+      "image": "",
+      "source": "CoStar",
+      "date": "2026-11-03T08:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "titre": "Les travaux de voirie en cours dans le 13e",
+      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVCZjFqNHdlcFBfcnM4VnB4NDZENjFJM3RrTUYtX3lSeWZhNlJPNUN4YUtCSXhzVzdiLUNLaGM2eVpQaUR3bmxnRVJQQXZESVhmMHJoZ3RhM1JtSDJta3ptRmVqYUZSMktJVlZ3cnYtR3kyN1pTSzl5UGhlYlE2enhKcklmRkE?oc=5",
+      "image": "",
+      "source": "Mairie du 13ᵉ arrondissement de Paris",
+      "date": "2026-11-02T08:00:00+00:00",
       "theme": "Divers"
     },
     {
@@ -205,12 +277,30 @@
       "theme": "Acteurs"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
+      "titre": "Le Farizon SV, année-modèle 2027, fait ses débuts français à Rungis, testé en conditions réelles de livraison",
+      "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlQ5by1kUkRjTmtqcGR3aE9wdk96Tm1RcHdvRG1xOVVzMGlSVTBqdWNzZGIzOU5Dbzl4QTZuYmtEREZBOC16VTFqZ0ZUZElQbjJfSlN4ejVZaGYxd2tuN2wtX0wzT1ZVR3prYWR1aW1RN25nUXVkUUpMRHo2b2JSMmU5alBwWkRXWHdwSU1XaDdlQ2dKUlQ0ag?oc=5",
+      "image": "",
+      "source": "Yahoo Finance France",
+      "date": "2026-10-28T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
       "titre": "Sur le marché de Rungis, les grossistes incités à trier davantage leurs déchets",
       "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnRqSHRKa1lkdEp6ZE1pd3BSUjlBU29XX0x1TW1xOEoyelN6R3pMQXhEYzhxS2xrTG1EbU1sUnNzbjkwREZQMlRIaWdzSGU4WUo5WEE3OFFZM0JyWml2Y2pkX0FuckFDaWRxMDhvdEdyOGw3bUZxZVpQRkczRk9lVlFFejNHNEVidlNnamVwTFhmUkpMQy1COG0tZ2Z0QlJjbGktZGZQU1BjbEJiTm9laUFrWlEzX1BoMFpLbXNWdExzYlNZdHR4c1JaSVhtOHBfUUE?oc=5",
       "image": "",
       "source": "Les Echos",
       "date": "2026-10-28T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vVFloWTRWRVJzRXkwREc5bzVLaW9rYnlJRkt2Q21hX25KaWgzZU53VmRXLUtOWHdEMm5LajJTcVJPcV9mSWExLVpPV0trZDdkNGFKWnB1NzJIVktvMXRJSjRzb3F2dw?oc=5",
+      "titre": "Quorum Groupe : fuite de données revendiquée touchant 980 personnes",
+      "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vVFloWTRWRVJzRXkwREc5bzVLaW9rYnlJRkt2Q21hX25KaWgzZU53VmRXLUtOWHdEMm5LajJTcVJPcV9mSWExLVpPV0trZDdkNGFKWnB1NzJIVktvMXRJSjRzb3F2dw?oc=5",
+      "image": "",
+      "source": "Fuites Infos",
+      "date": "2026-10-27T07:00:00+00:00",
       "theme": "Acteurs"
     },
     {
@@ -247,6 +337,15 @@
       "image": "",
       "source": "FreshPlaza.fr",
       "date": "2026-10-26T07:00:00+00:00",
+      "theme": "Acteurs"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
+      "titre": "À Dunkerque, la plus grande mûrisserie de France devrait sortir de terre en 2027, 400 emplois annoncés",
+      "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pwcVhNemx0MTAwQ25wWkh4R2lEZjNWTlhCRUVJTVpYVVFhNm9xSHFqdVNjYUVaQ3RfY2duZk1Ga291Qll3aW1vZmtQaTJGUWVUSHBDV0ZDQ09zMWpEMk9JSUFrZEk2NDBiR2ozbHc3UnZVOGRacmNVSWVwc0p4dU8ycFJqRVBWSkJ2V2lMWkhNd1RuUWFqZmlULVV3R1llUng2QzdiTEMzcGRYQzlQYko3MExKMHdGai1vbnV3TDdGWXJWeV84MFBpU1I?oc=5",
+      "image": "",
+      "source": "La Voix du Nord",
+      "date": "2026-10-25T07:00:00+00:00",
       "theme": "Acteurs"
     },
     {
